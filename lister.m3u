@@ -68,11 +68,6 @@ https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal.m3u8?dr
 #EXTINF:-1 group-title="Эфирные" tvg-id="no_epg" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7f/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_International_%282023%29.png/revision/latest?cb=20231224110541&path-prefix=ru",Пятый канал Int.
 http://178.124.153.123:44400/5kanal
 
-#EXTINF:-1 group-title="Эфирные"  tvg-id="8kanal-ru", 8 канал Россия
-https://v4.proofix.ru/8tv-russia/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Эфирные"  tvg-id="8kanal-eu", 8 канал Европа
-https://v4.proofix.ru/8tv-europe/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://iptvx.one/picons/otr.png", ОТР
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
 #EXTINF:-1 group-title="Эфирные", ТВЦ
@@ -5971,4 +5966,5 @@ https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://i.imgur.com/OSet4en.png",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
 
