@@ -55,10 +55,6 @@ https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://streaming.thestream.cyou/live/210.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="pervy+4", Первый канал (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
-
 #EXTINF:-1 group-title="Эфирные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РОССИЯ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
@@ -155,7 +151,7 @@ https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
 #EXTINF:-1 group-title="Эфирные", Звезда
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+https://flussonic.salomtv.uz/zvezda/video.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="ЗВЕЗДА", Звезда HD
 http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
@@ -6011,6 +6007,7 @@ https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://i.imgur.com/OSet4en.png",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
 
 
 
