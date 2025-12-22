@@ -1,5 +1,50 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
 
+#EXTINF:-1 group-title="Федеральные",Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+http://95.66.188.74:80/PerviyHD/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74:80/TNT_HD/mono.m3u8
+
+
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Федеральные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+
+#EXTINF:-1 group-title="Федеральные",МИР24 FHD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные",МИР 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://free-png.ru/wp-content/uploads/2020/09/Pervyj-kanal-01.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -5966,5 +6011,6 @@ https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://i.imgur.com/OSet4en.png",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
 
 
