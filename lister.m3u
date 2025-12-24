@@ -2674,987 +2674,223 @@ https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Спортивные", Viasat sport
-http://2.57.217.85:8000/play/a0a0/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Viju+ Sport
-http://193.25.8.59:8000/viasatsport
-
-#EXTINF:-1 group-title="Спортивные", Fast & FunBox
-http://193.25.8.59:8000/Avto24
-
-#EXTINF:-1 group-title="Спортивные", Russian Extreme HD
-https://stream-msk-10.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-
-#EXTINF:-1 group-title="Спортивные", ВОЛЕЙБОЛ
-https://stream-msk-19.ott.tricolor.tv/dtv/id1064_MSKSG-PVR-1--Volleyball_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
-http://31.148.48.15/Futbol_HD/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
-
-#EXTINF:-1 group-title="Спортивные", Бокс ТВ
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=ts
-
+#EXTINF:-1 group-title="Спортивные", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Спортивные",KHL Prime
+http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",MMA-TV.COM
+http://45.145.32.13:20440/mmatv/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",КХЛ ТВ
+http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч ТВ
+http://45.145.32.13:20440/match/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Арена HD
+http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Игра
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Мир баскетбола
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Viasat Sport
+http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные",Extreme sports
+http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные", KHL
+http://95.66.188.74/KHL/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
+http://95.66.188.74/MatchBoec/mono.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Игра
+http://95.66.188.74/MatchIgra/mono.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч ТВ HD
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
 http://178.212.71.253:8000/play/55/index.m3u8
 
-#EXTINF:-1 group-title="Спортивные", Матч! Боец
-http://85.88.175.48:2020/udp/239.4.10.81:2020
-
-#EXTINF:-1 group-title="Спортивные", Удар ТВ
-https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Удар ТВ
-http://85.88.175.48:2020/udp/239.4.10.79:2020
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="russian-extreme-sd",Русский Экстрим
+#EXTINF:-1 group-title="Спортивные",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Русский Экстрим
 http://178.212.71.253:8000/play/118/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные", МЯЧ
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="KHL",KHL
-http://195.26.83.96:7007/play/4/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="KHL",KHL
-http://85.88.175.48:2020/udp/239.4.10.80:2020
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="KHL",KHL
-https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",КХЛ ТВ
-https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 group-title="Спортивные", KHL Prime HD
-http://193.25.8.59:8000/khl
-
-#EXTINF:-1 group-title="Спортивные", Хоккей ТВ
-https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-#EXTINF:-1  group-title="Спортивные", Конный мир
-http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  group-title="Спортивные", Trace Sport Stars
-http://87.120.142.11:18000/Rossiya1
-
-#EXTINF:-1 group-title="Спортивные", ТВ Спорт
-http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-#EXTINF:-1 group-title="Спортивные", Поединок
-http://stream-msk-03.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-#EXTINF:-1 group-title="Спортивные", Игра
-http://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-#EXTINF:-1 group-title="Спортивные", Сила
-http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-#EXTINF:-1 group-title="Спортивные" tvg-id="bolshoj-efir", Большой эфир
-http://stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport" tvg-logo="https://arsenal-academy.ru/templates/img/part/part11.jpg", Спортмастер ТВ
-https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-#EXTINF:-1 group-title="Спортивные", Мир баскетбола
-https://jekalich.github.io/smtk/channels/mir-basketbola.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://img.freepik.com/free-vector/boom-flash-white_1308-2912.jpg?semt=ais_hybrid&w=740&q=80", БУМ
-https://stream-msk-07.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-
-#EXTINF:-1 group-title="Спортивные", СТАРТ HD
-http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-
-#EXTINF:-1 group-title="Спортивные", Старт Триумф
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-
-#EXTINF:-1 group-title="Спортивные", Старт Триумф HD
-https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://iptvx.one/picons/tancuj.png", Танцуй!
+#EXTINF:-1 group-title="Спортивные",Старт
 http://178.212.71.253:8000/play/81/index.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-id="Беларусь 5", Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="Беларусь 5", Беларусь 5 HD
-https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="fightbox-hd" tvg-logo="https://iptvx.one/picons/fightbox-hd.png", FightBox
-
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="m1global", M-1 Global
-http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports", Setanta Sports
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus", Setanta Sports 2
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Eurosport 1
-http://178.212.71.253:8000/play/143/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Eurosport 1 HD
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Eurosport 1
-http://178.134.1.158:8081/eurosport/index.m3u8
-
 #EXTINF:-1 group-title="Спортивные", Eurosport 2 HD
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwj6OmQzSjbgvTm1Vf2ebuYZC3DMjgWnyBqg&s",VITAL DRIVE
-https://tv.a21network.ru/content/37909/index.m3u8
-
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport", VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 group-title="Спортивные" ,Первый канал HD Спорт
-https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="Extreme Sports" ,Extreme Sports HD
-
-#EXTINF:-1 group-title="Спортивные", SETANTA SPORT 2 HD 🇺🇦
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://static1.squarespace.com/static/6183ecb0f159c928811af54a/t/65ddca335cc1be245696f42b/1763032751865/",PSN 1 Sports 🇺🇸
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://static1.squarespace.com/static/6183ecb0f159c928811af54a/t/65ddca335cc1be245696f42b/1763032751865/",PSN 2 Sports 🇺🇸
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://static1.squarespace.com/static/6183ecb0f159c928811af54a/t/65ddca335cc1be245696f42b/1763032751865/",PSN 4 Sports 🇺🇸
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://static1.squarespace.com/static/6183ecb0f159c928811af54a/t/65ddca335cc1be245696f42b/1763032751865/",PSN 5 Sports 🇺🇸
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-
-#EXTINF:-1 group-title="Спортивные",ONEPLAY 3[CZ]
-http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-
-#EXTINF:-1 group-title="Спортивные",FIGHTBOX
-http://176.122.99.7:7000/ch118/video.m3u8
-
-#EXTINF:-1 group-title="Спортивные",XSPORT+
-http://176.122.99.7:7000/ch117/video.m3u8
-
-#EXTINF:-1 group-title="Спортивные",XStream
-http://176.122.99.7:7000/ch313/video.m3u8
-
-#EXTINF:-1 group-title="Спортивные",PROSTO DRIVE
-http://176.122.99.7:7000/ch326/video.m3u8
-#EXTINF:-1 group-title="Спортивные",Рыбалка
-http://176.122.99.7:7000/ch344/video.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="МАТЧ!",Матч! Премьер
-http://85.88.175.48:2020/udp/239.4.10.83:2020
-
-#EXTINF:-1 group-title="МАТЧ!",Матч! Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
-
-#EXTINF:-1 group-title="МАТЧ!",Матч! Премьер
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-
-#EXTINF:-1 group-title="МАТЧ!",Матч! Премьер
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
-
-#EXTINF:-1 group-title="МАТЧ!",Матч! Премьер
-http://tmptv.sunduk.tv/CH63/index.m3u8
-
-#EXTINF:-1 group-title="МАТЧ!",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyNSA3OjU3OjMwIEFNJmhhc2hfdmFsdWU9N3ZYU081QXlxWHBCRVpIeDcvK2VSdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-
-#EXTINF:-1 group-title="МАТЧ!",Матч!
-http://tv.tuva.ru/machtv/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png",Матч!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png",Матч!
-http://178.212.71.253:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",МАТЧ!
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="МАТЧ!",МАТЧ!
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png",Матч! HD
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-
-#EXTINF:-1 group-title="МАТЧ!",Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="МАТЧ!",Матч! Арена
-http://194.143.148.28:8080/MatchArena/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="МАТЧ!",Матч! Арена
-http://31.148.48.15/Match_Arena/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Арена
-http://87.120.142.11:18000/Match!Arena
-#EXTINF:-1 group-title="МАТЧ!",Матч! Арена
-http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Арена
-http://193.25.8.59:8000/sport1
-#EXTINF:-1 group-title="МАТЧ!",Матч! Игра
-http://31.148.48.15/Match_Igra_HD/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Игра
-http://31.148.48.15/Match_Igra/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Игра
-http://31.148.48.15:80/Match_Igra/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Игра
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="МАТЧ!",Матч! Игра
-http://178.212.71.253:8000/play/56/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Страна
-http://31.148.48.15/Match_Nash_Sport/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! ТВ
-http://178.212.71.253:8000/play/34/index.m3u8
-#EXTINF:-1 group-title="МАТЧ!",Матч! Футбол 1
-http://193.25.8.59:8000/fut
-#EXTINF:-1 group-title="МАТЧ!",МАТЧ! ФУТБOЛ 2
-http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 group-title="МАТЧ!",МАТЧ! ФУТБOЛ 2
-http://188.191.160.238:7780/udp/239.195.3.17:1234
-#EXTINF:-1 group-title="МАТЧ!",МАТЧ! ФУТБOЛ 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="МАТЧ!",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -1ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -2ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -3ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -4ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -5ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -6ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -7ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -8ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -9ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -10ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -11ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-39600
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -12ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -13ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-46800
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -14ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -15ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -16ч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-64800
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-68400
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-72000
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-75600
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-79200
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-82800
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-86400
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-90000
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-93600
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-97200
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-100800
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-104400
-#EXTINF:-1 group-title="МАТЧ!" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-108000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="СПОРТ МИР", 1arxi-sport 🇬🇪
-http://2.57.217.85:8000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", 2TV Sport 🇳🇴
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ACCDN
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ACI Sport
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena 1 HD 🇷🇸
-http://85.11.144.9:50999/21
-#EXTINF:-1 group-title="СПОРТ МИР", Arena 2 HD 🇷🇸
-http://85.11.144.9:50999/22
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA 2 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena 3 HD 🇷🇸
-http://85.11.144.9:50999/23
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA 3 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena 4 HD 🇷🇸
-http://85.11.144.9:50999/24
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA 4 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena 5 HD 🇷🇸
-http://85.11.144.9:50999/25
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA 5 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA 6 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/6/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA 7 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/7/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA 8 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/8/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA SPORT 1 🇨🇿
-http://88.212.15.19/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ARENA SPORT 2 🇨🇿
-http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport P1 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/Premium-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport P2 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport P2 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/Premium_3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport 🇨🇿
-http://178.23.88.55/Arena_sport/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_1 HD 🇷🇸
-http://185.166.252.230/Arena1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_10 HD 🇷🇸
-http://185.166.252.230/Arena10/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_2 HD 🇷🇸
-http://185.166.252.230/Arena2/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_3 HD 🇷🇸
-http://185.166.252.230/Arena3/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_4 HD 🇷🇸
-http://185.166.252.230/Arena4/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_5 HD 🇷🇸
-http://185.166.252.230/Arena5/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_6 HD 🇷🇸
-http://185.166.252.230/Arena6/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_7 HD 🇷🇸
-http://185.166.252.230/Arena7/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_8 HD 🇷🇸
-http://185.166.252.230/Arena8/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Arena_Sport_9 HD 🇷🇸
-http://185.166.252.230/Arena9/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", auto motor sport channel
-http://213.169.39.30:5233
-#EXTINF:-1 group-title="СПОРТ МИР", AYM SPORT 🇺🇸
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", AYM SPORTS HD
-https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Aysen TV
-https://v1.tustreaming.cl/aysentv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="СПОРТ МИР", Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Bein Sports
-http://154.197.91.169:8000/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BEIN 1 TRUE VISIONS 🇮🇩
-https://ww.dooballfree.vip/live/bein1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BEIN 1 🇫🇷
-http://5.9.119.146:8883/beinfr1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BEIN 2 TRUE VISIONS 🇮🇩
-https://ww.dooballfree.vip/live/bein2/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BEIN 2 🇫🇷
-http://5.9.119.146:8883/beinfr2/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BEIN 3 TRUE VISIONS 🇮🇩
-https://ww.dooballfree.vip/live/bein3/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BEIN 3 🇫🇷
-http://145.239.5.177/559/mpegts
-#EXTINF:-1 group-title="СПОРТ МИР", BEIN 3 🇫🇷
-http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Bein Sport 1 🇫🇷
-http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Bein Sport 3 🇫🇷
-http://99.27.51.147:8080/BeinSport3/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport"  tvg-logo="https://i.imgur.com/V562tpO.png", BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BEIN SPORT EXTRA Ñ 🇪🇸
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Bein sports 1 ENG 🇬🇧
-https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", beIN SPORTS 1 🇶🇦
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", beIN SPORTS 1 🇶🇦
-https://ab.footballii.ir/hls2/bein1_low.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", beIN SPORTS 1 🇶🇦
-https://ab.footballii.ir/hls2/bein1_src.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", beIN SPORTS 1 🇶🇦
-https://balance.footballii.ir/hls2/bein1.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Bein sports 2 ENG 🇬🇧
-https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BeiN Sports Extra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", beIN SPORTS XTRA
-http://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BeIN Sports XTRA
-https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BeIN Sports XTRA
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", BEK TV
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Big 12 Studios
-https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Bleav Football
-https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", CANAL + Sport 🇫🇷
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport"  tvg-logo="https://photos.live-tv-channels.org/tv-logo/canal-motor-5880.webp", Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", CANAL+ SPORT 2HD
-http://bocian.io:8880/NL753811/552284900/105521
-#EXTINF:-1 group-title="СПОРТ МИР", CANAL+ SPORT 3 HD
-http://bocian.io:8880/NL753811/552284900/105522
-#EXTINF:-1 group-title="СПОРТ МИР", Canal+ Sport 360 🇫🇷
-http://178.33.239.54:8080/700/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", CANAL+ SPORT 4 HD
-http://bocian.io:8880/NL753811/552284900/105523
-#EXTINF:-1 group-title="СПОРТ МИР", CANAL+ SPORT 5 HD
-http://bocian.io:8880/NL753811/552284900/153306
-#EXTINF:-1 group-title="СПОРТ МИР", CANAL+ SPORT HD
-http://bocian.io:8880/NL753811/552284900/105520
-#EXTINF:-1 group-title="СПОРТ МИР", CAZE TV 1 🇧🇷
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", CT SPORT HD 🇨🇿
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", DAZN Combat
-http://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", DAZN COMBAT
-https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", DAZN La Liga 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
-#EXTINF:-1 group-title="СПОРТ МИР", DAZN La Liga 🇪🇸
-https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Diema Sport 1 🇧🇬
-http://213.169.39.30:5134
-#EXTINF:-1 group-title="СПОРТ МИР", Diema Sport 1 🇧🇬
-http://92.247.25.42:11170/
-#EXTINF:-1 group-title="СПОРТ МИР", Diema Sport 2 🇧🇬
-http://213.169.39.30:5136
-#EXTINF:-1 group-title="СПОРТ МИР", Diema Sport 2 🇧🇬
-http://92.247.25.42:11172/
-#EXTINF:-1 group-title="СПОРТ МИР", Diema Sport 3 🇧🇬
-http://213.169.39.30:5216
-#EXTINF:-1 group-title="СПОРТ МИР", Diema Sport 3 🇧🇬
-http://92.247.25.42:11171/
-#EXTINF:-1 group-title="СПОРТ МИР", Digi Sport 1 🇷🇴
-http://91.201.172.14:35005/
-#EXTINF:-1 group-title="СПОРТ МИР", Digi Sport 2 🇷🇴
-http://91.201.172.14:35006/
-#EXTINF:-1 group-title="СПОРТ МИР", DSPORTS 1 🇦🇷
-http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", DSPORTS 1 🇦🇷
-http://201.230.121.85:8000/play/a0yv/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", DSPORTS 2 🇦🇷
-http://181.78.106.127:9000/play/ca026/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Dubai Racing
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/PMJ7Zmo.png", Dubai Sports 1
-http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/PMJ7Zmo.png", Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport"  tvg-logo="https://i.imgur.com/U0A8Gex.png", Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Ecuavisa
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ELEVEN 1 🇵🇱
-https://7pal.short.gy/11sports1
-#EXTINF:-1 group-title="СПОРТ МИР", ELEVEN SPORTS 1 HD
-http://bocian.io:8880/NL753811/552284900/105525
-#EXTINF:-1 group-title="СПОРТ МИР", Eleven Sports 1 🇵🇱
-http://45.87.35.12:7113/stream
-#EXTINF:-1 group-title="СПОРТ МИР", ELEVEN SPORTS 2 HD
-http://bocian.io:8880/NL753811/552284900/105526
-#EXTINF:-1 group-title="СПОРТ МИР", Eleven Sports 2 🇵🇱
-http://45.87.35.12:7114/stream
-#EXTINF:-1 group-title="СПОРТ МИР", ELEVEN SPORTS 3 HD
-http://bocian.io:8880/NL753811/552284900/105527
-#EXTINF:-1 group-title="СПОРТ МИР", Eleven Sports 3 🇵🇱
-http://45.87.35.12:7115/stream
-#EXTINF:-1 group-title="СПОРТ МИР", Eleven Sports 4 🇵🇱
-http://45.87.35.12:7116/stream
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 1 🇦🇷
-http://181.118.156.46:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 2 🇦🇷
-http://181.205.130.194:4000/play/a07i
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 2 🇦🇷
-http://45.228.234.30:16000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 4 🇦🇷
-http://190.0.247.38:8000/play/a069
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 5 🇦🇷
-http://190.0.247.38:8000/play/a012
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 5
-http://168.196.127.18:6001/play/a08j/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 8 The Ocho
-https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN DEPORTES 🇺🇸
-http://131.161.83.249:8031/play/a07f
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN DEPORTES 🇺🇸
-http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 🇦🇷
-http://181.78.117.219:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 🇦🇷
-http://45.228.234.30:16000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 🇨🇴
-http://179.51.136.19:8000/play/a1kq/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ESPN 🇺🇸
-https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", EUROSPORT 1
-http://213.169.39.30:5211
-#EXTINF:-1 group-title="СПОРТ МИР", Eurosport 2
-http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Eurosport_2 🇨🇿
-http://178.23.88.55/Eurosport_2/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", FAST SPORTS HD 🇦🇲
-http://66.102.120.18:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Fuel TV HD
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", FIGHT KLUB
-http://213.169.39.30:5042
-#EXTINF:-1 group-title="СПОРТ МИР", Fight Box
-http://193.25.8.59:8000/box
-#EXTINF:-1 group-title="СПОРТ МИР", Football HD Tajikistan 🇺🇿
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Fox Sports 01
-https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="СПОРТ МИР", Fox Sports 03
-https://7pal.short.gy/fox503au
-#EXTINF:-1 group-title="СПОРТ МИР", Fox Sports 1
-https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", FOX 🇲🇽
-https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Fubo Sports 🇺🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
-#EXTINF:-1 group-title="СПОРТ МИР", Futbol TV 🇹🇭
-https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР",Futbol TV
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+#EXTINF:-1 group-title="Спортивные", Futbol TV
 https://flussonic.salomtv.uz/FutbolTV/video.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Garage TV Latin America
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", GOLF
-http://49.0.64.96:8007/GOLF
-#EXTINF:-1 group-title="СПОРТ МИР", GOLTV 🇪🇸
-http://176.65.146.237:8401/play/a09k/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Hard Knocks Fighting Championship
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", HI FIGHT SUPERSPORT
-http://49.0.64.96:8007/HIFIGHT
-#EXTINF:-1 group-title="СПОРТ МИР", HI SPORT HD
-http://49.0.64.96:8007/HiSports
-#EXTINF:-1 group-title="СПОРТ МИР", Horizon Sports
-https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Horse and Country
-https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://nederland.broadbandtvnews.com/wp-content/uploads/2012/06/horse-and-country.jpg", Horse and Country TV
-https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", HT SPOR 🇹🇷
-https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", HUBSPORT1 🇹🇭
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
-#EXTINF:-1 group-title="СПОРТ МИР", KTV SPORTS 🇮🇳
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", L'Équipe 🇫🇷
-https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", M La Liga 🇪🇸
-https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", M4 sport 🇭🇺
-http://dvr1.kablova.tv/M4/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", M4 Sport 🇭🇺
-http://46.149.191.217:9010/play/a017
-#EXTINF:-1 group-title="СПОРТ МИР", MAX SPORT 1 🇧🇬
-http://213.169.39.30:5138
-#EXTINF:-1 group-title="СПОРТ МИР", MAX SPORT 2 🇧🇬
-http://213.169.39.30:5140
-#EXTINF:-1 group-title="СПОРТ МИР", MAX SPORT 2 🇧🇬
-http://85.11.144.6:6060/play/a01i/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", MAX SPORT 3 🇧🇬
-http://213.169.39.30:5142
-#EXTINF:-1 group-title="СПОРТ МИР", MAX SPORT 3 🇧🇬
-http://92.247.25.42:11178/
-#EXTINF:-1 group-title="СПОРТ МИР", MAX SPORT 4 🇧🇬
-http://213.169.39.30:5130
-#EXTINF:-1 group-title="СПОРТ МИР", MAXSPORT_1 🇭🇷
-http://185.166.252.230/MaxSport1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", MAXSPORT_1 🇭🇷
-http://23.88.66.93/Eurosport1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", MAXSPORT_1 🇭🇷
-http://23.88.66.93/MAXSPORT_1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", MAXSPORT_2 🇭🇷
-http://185.166.252.230/MaxSport2/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", MAXSPORT_2 🇭🇷
-http://23.88.66.93/MAXSPORT_2/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", MMN Sport 🇸🇦
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", MMN Sport 🇸🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", More Than Sports TV
-http://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Moto America TV
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
-#EXTINF:-1 group-title="СПОРТ МИР", Motor Racing
+#EXTINF:-1 group-title="Спортивные", Матч ТВ
+http://catchup.videoline.ru/match/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Спортивный
+http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч Премьер
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч ТВ
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Viasat sport
+http://2.57.217.85:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ ТВ
+http://95.47.156.60:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Премьер
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 group-title="Спортивные",KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 group-title="Спортивные",Viasat Sport
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 group-title="Спортивные",FightBox
+http://193.25.8.59:8000/box
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спортивные",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="Спортивные" ,МАТЧ! БОЕЦ
+http://87.120.142.11:18000/Match!
+
+#EXTINF:-1 group-title="Спортивные" ,МАТЧ! Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="Спортивные" ,Trace Sport Stars HD
+http://87.120.142.11:18000/Rossiya1
+
+#EXTINF:-1 group-title="Спортивные" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" ,СТАРТ HD
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+#EXTINF:-1 group-title="Спортивные",Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Motorvision.tv
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
-#EXTINF:-1 group-title="СПОРТ МИР", NBA
-http://49.0.64.96:8007/NBA
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-logo="https://i.imgur.com/UNZ8bef.png", NHL Network (Интересные моменты)
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", NOVA SPORT 1 HD 🇨🇿
-http://178.23.88.55/Nova_Sport/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Nova Sport 1 🇨🇿
-http://185.188.188.237:5000/live/novasport1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Nova Sport 2 🇨🇿
-http://185.188.188.237:5000/live/novasport2/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Nova Sport 3 🇨🇿
-http://185.188.188.237:5000/live/novasport3/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Nova Sport 4 🇨🇿
-http://185.188.188.237:5000/live/novasport4/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Nova Sport 5 🇨🇿
-http://185.188.188.237:5000/live/novasport5/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Nova Sport 🇧🇬
-http://213.169.39.30:5102
-#EXTINF:-1 group-title="СПОРТ МИР", Nova Sport 🇧🇬
-http://85.11.144.6:6060/play/a09g/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Oman Sports TV
-http://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", ONEPLAY 1 🇨🇿
-http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:-1 group-title="СПОРТ МИР", ONEPLAY 2 🇨🇿
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 group-title="СПОРТ МИР", ONEPLAY 3 🇨🇿
-http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:-1 group-title="СПОРТ МИР", ORF+ 🇦🇹
-http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
-#EXTINF:-1 group-title="СПОРТ МИР", Outside TV
-https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="СПОРТ МИР", Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" , Pac 12 Insider
-https://pac12-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" , Pac 12 Insider
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" , Primocanale Sport
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" , Qatar TV 1
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://offer.racingamerica.com/wp-content/uploads/2023/04/RacingAmerica-FullColor-Registered.png", Racing America
-https://livetv-fa.tubi.video/racing-america/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://i.pinimg.com/originals/7f/34/90/7f3490c411796ccb81b51a28d4f8f378.jpg", Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", REAL MADRID TV 🇪🇸
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RED BULL
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RED BULL
-https://linear-582.frequency.stream/mt/studio/582/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RED BULL
-https://linear-641.frequency.stream/mt/studio/641/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RED BULL
-https://linear-644.frequency.stream/mt/studio/644/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RED BULL
-https://linear-680.frequency.stream/mt/studio/680/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RED BULL
-https://linear-932.frequency.stream/mt/studio/932/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RING HD 🇧🇬
-http://213.169.39.30:5210
-#EXTINF:-1 group-title="СПОРТ МИР", RMC Sport 1 🇫🇷
-http://5.9.119.146:8883/rmc1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RTA Sport
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RTA SPORT 🇸🇦
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RTS 2
-http://69.64.57.208/rts2/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RTSH Sport 🇦🇱
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RTV Herceg-Bosne
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", RTV SAN MARINO
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
-#EXTINF:-1  group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://swerveplay.com/cdn/shop/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800" ,Swerve Sports
-https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", S Sport 1 🇹🇷
-https://dga1op10s1u3lep.617cc29522c890.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", San Marino RTV Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SETANTA SPORT 1 HD 🇺🇦
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 1 🇬🇪
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 1 🇬🇪
-http://2.57.217.85:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 1 🇬🇪
-http://2.57.217.85:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 1 🇬🇪
-http://2.57.217.85:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 2 🇬🇪
-http://2.57.217.85:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 2 🇬🇪
-http://2.57.217.85:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 2 🇬🇪
-http://2.57.217.85:8000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 2 🇬🇪
-http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 3 🇬🇪
-http://2.57.217.85:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 3 🇬🇪
-http://2.57.217.85:8000/play/a07i/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Setanta Sport 3 🇬🇪
-http://2.57.217.85:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Si Solo Calcio
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Si Solo Calcio
-https://italiansport-solocalcio-samsung.amagi.tv/amRdirect/device[did]=%7BPSID%7D&amp;device[dnt]=%7BTARGETOPT%7D&amp;app_name=%7BAPP_NAME%7D&amp;tc_string=%7BTC_STRING%7D&amp;gdpr=%7BGDPR%7D/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/1280x720_2560800/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР",Sky Sport F1 [DE]
-http://nocable.cc:8080/Ss5DKE/232455/125947
-#EXTINF:-1 group-title="СПОРТ МИР", SKY SPORT LA LIGA 🇲🇽
-http://181.78.106.127:9000/play/ca030/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SKY SPORT LALIGA 🇲🇽
-http://181.78.109.48:9998/play/a06r/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SKY SPORT LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SKY SPORT LALIGA 🇲🇽
-http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
-#EXTINF:-1 group-title="СПОРТ МИР", SKY SPORT LALIGA 🇲🇽
-https://tvjrflix.appsjr.pro/temporal/redirect.php?url=http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/281171.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Sky Sports 1 NZ
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="СПОРТ МИР", smart1 🇹🇷
-http://65.108.239.207/smart1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", smart2 🇹🇷
-http://65.108.239.207/smart2/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SONY SPORTS TEN 1 HD 🇮🇳
-http://66.102.120.18:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SONY SPORTS TEN 2 HD 🇮🇳
-http://66.102.120.18:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SONY SPORTS TEN 3 HD 🇮🇳
-http://66.102.120.18:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SONY SPORTS TEN 5 HD 🇮🇳
-http://66.102.120.18:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SOS Kanal Plus
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Spiler1 TV 🇭🇺
-http://46.149.191.217:9003/play/a01p
-#EXTINF:-1 group-title="СПОРТ МИР", Spiler2 TV 🇭🇺
-http://46.149.191.217:9021/play/a02d
-#EXTINF:-1 group-title="СПОРТ МИР", Sport 1 HD 🇨🇿
-http://178.23.88.55/Sport1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SPORT 1 HD 🇨🇿
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SPORT 2 HD 🇨🇿
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SPORT BOSTON
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SPORT EN VIVO
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="СПОРТ МИР", SPORT ITALIA 🇮🇹
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Sports Grid
-https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SportsGrid
-https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SportsGrid
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SportsGrid
-https://sportsgrid-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SportsNet New York
-https://fl7.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", SPORTYTV 🇨🇿
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Strongman Champions League 2
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Super Sport 1 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-#EXTINF:-1 group-title="СПОРТ МИР", Super Sport 2 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-#EXTINF:-1 group-title="СПОРТ МИР", Sport 1 DE
-http://176.10.117.68:6060/sport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР",TUDN
-http://200.115.96.61:9090/play/a07u/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", TRT SPOR YILDIZ
-http://162.212.179.33/dvrfl05/gin-trtspor2/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", T SPORT 🇮🇳
-http://66.102.120.18:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", T Sports HD 🇧🇩
-https://live.matribhumitv.com/matribhumi-sports/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Telecolor TV
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="СПОРТ МИР", TELEFE 🇦🇷
-http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", TELETRAK 🇨🇱
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Telewebion Sport 2 🇸🇦
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Telewebion Sport 3 🇸🇦
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Telewebion Sport 🇸🇦
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Tempus Stream
-https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="СПОРТ МИР", Ten Sports 2 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", TEN SPORTS 🇮🇳
-http://66.102.120.18:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://i2.wp.com/is4-ssl.mzstatic.com/image/thumb/Purple62/v4/60/ad/9d/60ad9dd1-b779-5511-2c61-a7fc8039525d/source/1280x1280bb.jpg", TENNIS
-http://49.0.64.96:8007/TENNIS
-#EXTINF:-1 group-title="СПОРТ МИР", Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png", TENNIS CHANNEL
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Tennis+
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Tigo Sports  🇬🇹
-http://181.209.194.14:8001/play/a05r/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Tivibu Spor 1 🇹🇷
-http://65.108.239.207/t1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Tivibu Spor 2 🇹🇷
-http://65.108.239.207/t2/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Tivibu Spor 3 🇹🇷
-http://65.108.239.207/t3/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", TOPFIGHT
-http://49.0.64.96:8007/TOPFIGHT
-#EXTINF:-1 group-title="СПОРТ МИР", TR Sport (480p) 🇮🇹
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Trace Sport Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Trace Sport Stars HD
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Trace Sports Stars
-https://tracesportstars-freetv.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-freetv/CDN/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", True Football 2 HD Thailand 🇹🇭
-https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", True Football 7 HD Thailand 🇹🇭
-https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", TUDNMX.HD1 🇺🇸
-http://181.78.106.127:9000/play/ca025/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Turkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Turkmenistan Sport 🇹🇲
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://tvradioo.ru/wp-content/uploads/2023/01/sport-teleyaylym.jpg", TURRKMENISTAN SPORT
+#EXTINF:-1 group-title="Спортивные",Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", TVP Sport HD 🇵🇱
-http://45.87.35.12:7030/stream
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-id="no_epg_sport" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/3f/5c/ac3f5c30-98c6-03fa-6fc0-a6bff88868ee/App_Icon-marketing.lsr/1200x630bb.png", UFA TV HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР" tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png", UFC Network
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", UNBEATEN
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", UZ SPORT 🇺🇿
-https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Varzesh TV 🇸🇦
-https://balance.footballii.ir/hls2/varzeshtv.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", VIX LALIGA 🇲🇽
-http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9601
-#EXTINF:-1 group-title="СПОРТ МИР", WIN SPORT 🇨🇴
-http://190.0.247.38:8000/play/a068
-#EXTINF:-1 group-title="СПОРТ МИР", WIN SPORT 🇨🇴
-http://190.0.247.38:8000/play/a06a
-#EXTINF:-1 group-title="СПОРТ МИР", World Billiards
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", World of Freesports
-https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", World Poker Tour
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", WOS TV
-http://ms7.mx-cd.net/tv/99-475825/WOS.smil/chunklist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР",SportsGrid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Trace Sports Stars
-https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", Варзиш ТВ HD
-https://live.teleradiocom.tj/5/3m.m3u8
-#EXTINF:-1 group-title="СПОРТ МИР", JOJ Sport
-http://185.188.188.237:5000/live/jojsport/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Racing
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Спортивные",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+#EXTINF:-1 group-title="Спортивные",Horse and Country TV
+https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
+#EXTINF:-1 group-title="Спортивные",BEK TV Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Primocanale Sport
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+
+#EXTINF:-1 group-title="Спортивные", Sky Sports F1
+https://7pal.short.gy/ssportsf1
 
 
+#EXTINF:-1 group-title="Спортивные", Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Спортивные", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
+http://5.188.159.128:8070/eurosport2/index.m3u8
 
+#EXTINF:-1 group-title="Спортивные",Extreme Sports
+http://45.11.139.43:8555/extsport/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Fast & Fun Box
+http://193.25.8.59:8000/Avto24
 
+#EXTINF:-1 group-title="Спортивные",Fight Box
+http://193.25.8.59:8000/box
+#EXTINF:-1 group-title="Спортивные",MMA TV
+http://31.148.48.15:80/M1_Global/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Viju+ Sport
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 group-title="Спортивные",Авто 24
+http://213.230.65.254:8000/play/a01t
 
-
-
+#EXTINF:-1 group-title="Спортивные",Авто Плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Авто Плюс
+http://31.148.48.15:80/Avto_Plus/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Спортивные",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Спортивные",Беларусь 5
+http://194.158.222.36:6109
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="Спортивные",Драйв
+http://178.212.71.253:8000/play/92/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Драйв
+http://95.66.188.74/Drive/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Конный Мир
+http://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Мир Баскетбола
+http://195.158.223.132:8003/Mir_Basketbola
+#EXTINF:-1 group-title="Спортивные",Овертайм ТВ
+http://live.overtime26.ru/app/potok/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт
+http://178.212.71.253:8000/play/81/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
+#EXTINF:-1 group-title="Спортивные",Старт HD
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
+#EXTINF:-1 group-title="Спортивные",Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 group-title="Спортивные",Старт Баскет HD
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 group-title="Спортивные",Старт Триумф
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:-1 group-title="Спортивные",Старт Триумф HD
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:-1 group-title="Спортивные",A21 Network
+https://tv.a21network.ru/stream/37909/index.m3u8
 
 
 #EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxa.png",BOX Anime HD
@@ -5986,4 +5222,5 @@ https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://i.imgur.com/OSet4en.png",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
 
