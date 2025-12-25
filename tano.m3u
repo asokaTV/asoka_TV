@@ -120,6 +120,199 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",МИР HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Adrenaline
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Adventure
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Y-ADVENTURE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Best 60 Fps
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOY-BEST_60FPS/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Best
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-BEST/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Food
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-FOOD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Grand
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-GRAND/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Music Hits
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MUSIC-HITS/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Nature
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NATURE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Netflix
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NETFLIX/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV New Кино
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NEW/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Oblivion
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yosso-OBLIVION/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Science
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SCIENCE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Thriller
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOTHRILLER/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Travel
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAVEL/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Vhs
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOVHS/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Забавное
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-ZABAVNOE/index.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Ковбойское
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-KOWBOYSKOE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Мелодрама
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/yossomdrama_yosso/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Советские Фильмы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SSSR/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Союзмульт
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MULT/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Yosso TV Трагичное
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAGIK/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Action
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManAction/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Marvel
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-MARVEL/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Melodrama
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManMelodrama/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan MiniSeries
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_miniseries/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Premium
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Premium/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Thriller
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Thiller/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Top
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-TOP/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan VHS
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-VHS/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Катастрофы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Katastrophe/index.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Комедия
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CinaMan_Comedy/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan ПёС
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Pes/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Сваты
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Svaty/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan Ужасы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Uzasy/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", CineMan
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Action HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUActionHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Catastrophe HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCatastropheHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Cinema HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Cinema+ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaplusHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Comedy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUComedyHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Cosmo HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCosmoHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Criminal HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCriminalHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Fantastic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFantasticHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU FilMystic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFilMysticHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU History HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUHistoryHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Kinorating HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKinoratingHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Kinozakaz HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMEDIAHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Little HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Little_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Marvel HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMarvelHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Premiere HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Premiere Ultra 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereUltra4K/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Reality HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURealityHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Romantic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURomanticHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Stars HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUStarsHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Survival HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSurvivalHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU TruMotion HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_TruMotion_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU VHS HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUVHSHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Кинозал Premiere 1 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere1HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Кинозал Premiere 2 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere2HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Кинозал Premiere 3 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere3HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BCU Сваты HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSvatiHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Autotrend HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_AUTOTREND_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Cyber HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_cyber_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX DOCU HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_DOCU_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Fantasy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_fantasy_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Franchise HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_franchise_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Game HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_game_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Gangster HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_gangster_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Ghost HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GHOST_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Gurman HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GURMAN_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Hybrid HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_hybrid_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX M.Serial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_mserial_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Mayday HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_mayday_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Memory HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_memory_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Oscar HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_oscar_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Serial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_SERIAL_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Spy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_spy_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Stories HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_STORIES_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Travel HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_travel_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Travel Premiere HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_travel_premiere_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Western HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_western_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", BOX Zombie HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_zombie_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Агенты Агенты Щ.И.Т.
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Agents_of_SHIELD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Викинги
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Vikings/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Гуфи и его команда
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Goof/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Клон
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_clone/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Комедия
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_comedy/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Люди и животные
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_animov/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Между молотом и наковальней
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/jk_FinF/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Мировая классика
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_word_clac/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Рабыня Изаура
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/jk_Izaura/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Ретро комедии. Америка
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_retro_usa/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Ретро комедии. Европа
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_retro_eu/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Спартак
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Spartacus/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Топ Гир
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Top_Gear/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="КИНОЗАЛЫ_(нестабильные)", Infinity: Хороший доктор
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Good_Doctor/video.m3u8?token=cPCeWX6J6D&21yo=0
+
 #EXTINF:-1 group-title="Спортивные", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
 
@@ -8900,4 +9093,5 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+
 
