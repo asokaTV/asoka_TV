@@ -1,5 +1,180 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
 
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные",Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+http://95.66.188.74:80/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1
+http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",РОССИЯ К
+http://95.47.156.60:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Россия К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия К
+http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ
+http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ
+http://178.212.71.253:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ
+http://95.66.188.74/NTV/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74:80/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ
+http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ
+http://178.212.71.253:8000/play/19/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные",СТС HD
+http://95.66.188.74:80/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные", 5 канал
+http://95.66.188.74/5kanal/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://95.47.156.60:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://85.192.10.131/hls/TvciRu/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные",РЕН ТВ
+http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные", Рен ТВ
+http://95.66.188.74/RenTV/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Федеральные",ТВ3 HD
+http://195.158.223.132:8002/TV_3
+#EXTINF:-1 group-title="Федеральные",ТВ3
+http://95.47.156.60:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3
+http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3
+http://178.212.71.253:8000/play/15/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Домашний HD
+http://195.158.223.132:8002/Domashniy
+#EXTINF:-1 group-title="Федеральные",Домашний
+http://45.145.32.13:20440/domashnij/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные", Домашний
+http://95.66.188.74/Domashnij/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:-1 group-title="Федеральные",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Пятница
+http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title=""Федеральные"",Пятница
+http://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title=""Федеральные"",Пятница
+http://45.145.32.13:20440/piatnica/index.m3u8?token=test
+#EXTINF:-1 group-title=""Федеральные"",Пятница
+http://95.47.156.60:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Viasat History
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Viasat History
+http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Федеральные",2x2
+http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные", 2x2
+http://95.66.188.74/2x2/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",VIP Comedy HD
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Кинопоказ
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные", Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Кинопоказ
+http://95.66.188.74:80/Kinopokaz/mono.m3u8
+
+#EXTINF:-1 group-title="Федеральные",Карусель
+http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Карусель
+http://178.212.71.253:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Карусель Int.
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="rtr-planeta-eu", RTR PLANETA
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="rtr-planeta-azia", РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="ntv-style", НТВ СТИЛЬ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru:443/th_style/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные", НТВ Стиль
+https://stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1--NTV_Stil_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
+#EXTINF:-1 group-title="Федеральные" tvg-id="ntv-pravo", НТВ ПРАВО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru:443/th_pravo/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ ХИТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ СЕРИАЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные",НТВ МИР
+http://188.225.31.197/bpk-tv/000000079/tve/index.m3u8
+
 #EXTINF:-1 group-title="КАРАОКЕ" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Андрей Губин - Зима холода
 https://homtv.ru/wp-content/uploads/2025/12/andrej-gubin-zima-holoda.mp4
 #EXTINF:-1 group-title="КАРАОКЕ" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Натали - О Боже какой мужчина!
@@ -74,51 +249,6 @@ https://homtv.ru/wp-content/uploads/2025/12/steklovata-novyj-god.mp4
 https://homtv.ru/wp-content/uploads/2025/12/oleg-gazmanov-putana.mp4
 #EXTINF:-1 group-title="КАРАОКЕ" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", IOWA - Улыбайся
 https://homtv.ru/wp-content/uploads/2025/12/iowa-ulybajsya.mp4
-
-#EXTINF:-1 group-title="Федеральные",Первый HD
-http://95.66.188.74/PerviyHD/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://95.66.188.74:80/PerviyHD/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD
-http://95.66.188.74/Rossia1HD/mono.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="Федеральные",Россия 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://95.66.188.74:80/TNT_HD/mono.m3u8
-
-
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://95.66.188.74/TNT_HD/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Федеральные",НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-
-#EXTINF:-1 group-title="Федеральные",МИР 24 FHD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 group-title="Федеральные",МИР 24
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
-
-#EXTINF:-1 group-title="Федеральные",МИР HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",МИР HD
-https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 
 #EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxa.png",BOX Anime HD
 http://cdn.iptvcinema.ru/box_anime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
@@ -1138,11 +1268,6 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Федеральные",Первый канал
-http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
 http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
@@ -1218,11 +1343,6 @@ http://45.145.32.13:20440/mezzo/index.m3u8?token=test
 http://45.145.32.13:20440/mezzo_live_hd/index.m3u8?token=test
 
 
-
-
-
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://2.57.217.85:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Terra
 http://2.57.217.85:8000/play/a08b/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя Планета
@@ -1795,15 +1915,13 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
 
 
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="Федеральные", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 #EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+1)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+2)
@@ -1822,16 +1940,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+9)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные" ,Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные" ,Россия К
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 group-title="Wink и другие часовые пояса" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
@@ -2055,60 +2164,16 @@ http://85.192.10.131/hls/pingvinru/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Федеральные",Первый канал
-http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ
-http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1
-http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия К
-http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Viasat History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятый канал
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",2x2
-http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",VIP Comedy HD
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Кинопоказ
-http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятница
-http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС
-http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",TMTV
-http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНВ-Татарстан
-http://89.232.68.194:8080/tnv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ3
-http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Карусель
-http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные",Матч Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 
 
-#EXTINF:-1 group-title="Федеральные", Первый HD
-http://95.66.188.74/PerviyHD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", Первый канал
-http://95.66.188.74/PerviyKanal/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", Рен ТВ
-http://95.66.188.74/RenTV/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", Россия 1 HD
-http://95.66.188.74/Rossia1HD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", Россия 24
-http://95.66.188.74/Rossia24/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
 http://95.66.188.74/THT4/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ
 http://95.66.188.74/TNT/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", НТВ
-http://95.66.188.74/NTV/mono.m3u8
+
 #EXTINF:-1 group-title="Развлекательные", ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Точка РФ
@@ -2131,8 +2196,7 @@ http://95.66.188.74/Istoria/mono.m3u8
 http://95.66.188.74/2x2/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", 360 HD
 http://95.66.188.74/360_HD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", 5 канал
-http://95.66.188.74/5kanal/mono.m3u8
+
 #EXTINF:-1 group-title="Мужские", Арсенал HD
 http://95.66.188.74/Arsenal_HD/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че
@@ -3820,8 +3884,7 @@ http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 http://178.212.71.253:8000/play/95/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Домашний HD
-http://195.158.223.132:8002/Domashniy
+
 
 #EXTINF:-1 group-title="Эфирные",Дон 24
 http://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdhigh.m3u8
@@ -3899,17 +3962,7 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 group-title="Региональные",Запад 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Звезда
-http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
@@ -3933,11 +3986,7 @@ http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Известия (Старый Оскол)
 http://stream.tvbelgorod.ru:8080/izvestiya/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Известия ТВ
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Известия ТВ HD
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Иллюзион+
 http://31.148.48.15:80/Illusion_plus/index.m3u8
@@ -4103,19 +4152,12 @@ https://streaming.televizor-24-tochka.ru/live/29-req_offset_28000000-req_window_
 #EXTINF:-1 group-title="Кино и сериалы",Любимое кино
 http://178.212.71.253:8000/play/50/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",МИР HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",МИР HD
-https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+
 
 #EXTINF:-1 group-title="Казахстан",МИР Казахстан
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",МИР24
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
 
-#EXTINF:-1 group-title="Федеральные",МИР24 FHD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные",МТВ Волгоград
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
@@ -4246,14 +4288,6 @@ http://178.212.71.253:8000/play/100/index.m3u8
 #EXTINF:-1 group-title="Региональные",НСТ
 http://95.66.188.74/NST/mono.m3u8
 
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://178.212.71.253:8000/play/4/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://95.66.188.74/NTV/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 
 #EXTINF:-1 group-title="Региональные",НТК (Нижнеудинск)
 http://171.22.212.250/NTK/tracks-v1a1/mono.m3u8
@@ -4383,8 +4417,6 @@ http://stream.fastlnk.ru:88/Panorama_TV/index.m3u8
 #EXTINF:-1 group-title="Региональные",Панорама ТВ HD
 http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Первый HD
-http://95.66.188.74/PerviyHD/mono.m3u8
 
 #EXTINF:-1 group-title="Эфирные",Первый Информационный BY
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
@@ -4410,14 +4442,6 @@ http://1tvtula.ru/tula/1tv_low/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Тульский HD
 http://1tvtula.ru/tula/1tv_hi/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Первый канал
-http://178.212.71.253:8000/play/1/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://95.66.188.74:80/PerviyHD/mono.m3u8
 
 #EXTINF:-1 group-title="Эфирные",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
@@ -4485,14 +4509,6 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Психология
 http://178.212.71.253:8000/play/96/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Пятница!
-http://95.66.188.74/Pyatnica/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Пятница! Int.
-http://158.101.222.193:88/georgia_play.php?id=friday
-
-#EXTINF:-1 group-title="Федеральные",Пятый канал
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 
 #EXTINF:-1 group-title="Эфирные",РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
@@ -4531,8 +4547,6 @@ http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:-1 group-title="Музыкальные",Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://95.66.188.74/RenTV/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",Ретро
 http://178.212.71.253:8000/play/90/index.m3u8
@@ -4542,8 +4556,7 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные",Родной
 https://edge-ekat1.teletarget.ru/stream/lnr/rodnoy.tv/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Россия 1
-http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
+
 #EXTINF:-1 group-title="Региональные",Россия 1 (Абакан)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Россия 1 (Анадырь)
@@ -4715,13 +4728,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Россия 1 (Ярославль)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD
-http://95.66.188.74/Rossia1HD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Региональные",Россия 24 (Абакан)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
@@ -4890,11 +4896,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="Региональные",Россия 24 (Ярославль)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Россия К HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Россия К
-http://193.25.8.59:8000/rossiak
 
 #EXTINF:-1 group-title="Кино и сериалы",Русский Бестселлер
 http://178.212.71.253:8000/play/115/index.m3u8
@@ -4941,11 +4942,6 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 
-#EXTINF:-1 group-title="Федеральные",СТС HD
-http://95.66.188.74:80/CTC_HD/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",СТС HD
-http://95.66.188.74/CTC_HD/mono.m3u8
 
 #EXTINF:-1 group-title="Эфирные",СТС International
 http://158.101.222.193:88/georgia_play.php?id=ctctv
@@ -5100,24 +5096,12 @@ https://042auhsnh0x.a.trbcdn.net/livemaster/lezlkenzbx_TV_Studia_Fakt/tracks-v1a
 https://live.tv-in.ru/hls/stream/index.m3u8
 
 
-#EXTINF:-1 group-title="Федеральные",ТВ3
-http://178.212.71.253:8000/play/15/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",ТВ3 HD
-http://195.158.223.132:8002/TV_3
-
 #EXTINF:-1 group-title="Региональные",ТВ7 (Абакан)
 https://ctv7.ru/live/1.m3u8
 #EXTINF:-1 group-title="Региональные",ТВК (Красноярск)
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Эфирные",ТВК HD
 http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-http://193.25.8.59:8000/tvc
 
 #EXTINF:-1 group-title="Казахстан",ТДК 42
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
@@ -5135,14 +5119,6 @@ http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 group-title="Региональные",ТНВ Татарстан
 http://user91229.clients-cdnnow.ru/hls/user91229_1_480/index.m3u8\
 
-#EXTINF:-1 group-title="Федеральные",ТНТ
-http://178.212.71.253:8000/play/19/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://95.66.188.74:80/TNT_HD/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://95.66.188.74/TNT_HD/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",ТНТ Music HD
 http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
@@ -9629,5 +9605,3 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
-
-
