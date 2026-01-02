@@ -979,6 +979,579 @@ http://cdn.iptvcinema.ru/lb0/chb_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNG
 #EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_fantastica.png",ЧебурТВ Фантастика
 http://cdn.iptvcinema.ru/lb0/chb_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,VB Новогодний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://195.9.195.3:8080/hls/198088.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,LST_MEDIA
+http://195.9.195.3:8080/hls/219245.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,ATV Bazmoc
+http://109.68.122.117:8899/bazmoc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,ATV Cineman
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,ATV
+http://45.11.139.43:8555/mig/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Film Vizit
+https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Кино Без Границ
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,TV RUS
+http://api.alpaca.t62a.com/hls/9106/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Кино Боевик
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Мировое Кино
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Премиум Кино
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Семейное Кино
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Kinowood HD
+http://193.27.209.122/kinowood/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MM Скорость
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MyTV 2
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MyTV 3
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Deep House
+http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Walt Disney 
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k World Music 
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Звериный мир
+http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Мультимир
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Путешествие 
+http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Концерт
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Anime 
+http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Драмы 
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Кино Франшизы 
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Русский сериал
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Семейный 
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,SSA Film
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Киножелезо
+http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Кинолаффка
+http://188.208.197.173/kinolafka/video.m3u8?token=tvon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Кино и жизнь
+http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Action
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Anime
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Cartoon
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Comedy
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Drama
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Fiction
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Fresh
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Jackie Chan 
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Mix
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Saga TV
+http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Suspense
+http://146.120.14.239:3001/play/a08o
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Cinema Test
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,VHDV TV
+https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MB TV
+https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,МУви ТВ
+http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGCQzpkk/image-22.png" group-title="Кинозалы (нестабильные)" ,МУЛЬТИКИ И СКАЗКИ
+http://195.9.195.3:8080/hls/198446.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" group-title="Кинозалы (нестабильные)" ,Маша и Медведь
+https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" group-title="Кинозалы (нестабильные)" ,Маша и Медведь (Eng)
+https://live21.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKh025r9/image-24.png" group-title="Кинозалы (нестабильные)" ,СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qZJGKb4/image-15.png" group-title="Кинозалы (нестабильные)" ,СССР Мульты
+https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="Кинозалы (нестабильные)" ,Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,⚡FoxKids
+http://195.9.195.3:8080/hls/215291.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Ретро Мульт
+http://195.9.195.3:8080/hls/213086.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,FilmOFF
+https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6y4Q1vk/image-9.png" group-title="Кинозалы (нестабильные)" ,DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кинозалы (нестабильные)" , TV4 HD
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кинозалы (нестабильные)" , TV4 Русское Кино
+https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кинозалы (нестабильные)" , TV4 Relax HD
+https://dvr3.vokkavideo.xyz/TV4RELAXHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кинозалы (нестабильные)" , TV4 Hits HD
+https://dvr3.vokkavideo.xyz/TV4HITSHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2MGDGPy/image-15.png" group-title="Кинозалы (нестабильные)" , Новый Русский
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" , HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" , Кинозал
+http://185.57.68.33/237/mpegts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DP9L0sBQ/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)",STR TV
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/994jvr6f/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)",Film Best
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/212682.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RKk8ncX/image-34.png" tvg-id="" group-title="Кинозалы (нестабильные)", Видеокассета VHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://live21.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZwcfR6P/image-28.png" tvg-id="" group-title="Кинозалы (нестабильные)",Кибер Задов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/210558.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pDTSvhW/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)",Revolyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218087.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHfCmsV5/image-29.png" tvg-id="" group-title="Кинозалы (нестабильные)",Katastroff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/208789.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="Кинозалы (нестабильные)",Zubrilom Franchise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="Кинозалы (нестабильные)",Zubrilom Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6sYPbwM/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Восход ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/202997.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" tvg-id="" group-title="Кинозалы (нестабильные)",VHS кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZkZJZ5z/image-48.png" tvg-id="" group-title="Кинозалы (нестабильные)",ВИДЕОСАЛОН VHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/175764.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK7Y5sxg/image-16.png" tvg-id="" group-title="Кинозалы (нестабильные)",1FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKjPzpKD/image-17.png" tvg-id="" group-title="Кинозалы (нестабильные)",2FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gG2bNbq/image-30.png" tvg-id="" group-title="Кинозалы (нестабильные)", Скрипач ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/217083.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvCddqkN/image-31.png" tvg-id="" group-title="Кинозалы (нестабильные)", SeriesTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/186021.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynK7QpVV/image-18.png" tvg-id="" group-title="Кинозалы (нестабильные)",Фантом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JL8WjZQ/image-32.png" tvg-id="" group-title="Кинозалы (нестабильные)", Dimpon HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/210470.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7QqrJD/image-19.png" tvg-id="" group-title="Кинозалы (нестабильные)",Кошмар HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" group-title="Кинозалы (нестабильные)", Kino Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/216612.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrC4Bs07/image-20.png" tvg-id="" group-title="Кинозалы (нестабильные)",Akudji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFs2QPrZ/image-35.png" tvg-id="" group-title="Кинозалы (нестабильные)", FMC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HD0m1Kxn/image-21.png" tvg-id="" group-title="Кинозалы (нестабильные)",FAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p61PV0CV/image-22.png" tvg-id="" group-title="Кинозалы (нестабильные)",Futurama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/199417.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rjh9fgt/image-23.png" tvg-id="" group-title="Кинозалы (нестабильные)",Moviee Toper
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycZVy30v/image-24.png" tvg-id="" group-title="Кинозалы (нестабильные)", Malder Мегахит
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kYk7PtV/image-26.png" tvg-id="" group-title="Кинозалы (нестабильные)", Malder Всё тв
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH5Kfx36/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)", Logovo Films
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvCJpRnm/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)", TvBoom-ViP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title="Кинозалы (нестабильные)", KinoJam
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nqW79BG/image-21.png" tvg-id="" group-title="Кинозалы (нестабильные)", НСТ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/217855.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r25pMz2T/image-22.png" group-title="Кинозалы (нестабильные)", LAV-KINO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="Кинозалы (нестабильные)", SeleCaoTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="Кинозалы (нестабильные)", SeleCaoTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/157269.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMtCF2H/image-29.png" tvg-id="" group-title="Кинозалы (нестабильные)", Video Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы (нестабильные)", CyberTV_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214454.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы (нестабильные)", CyberTV_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214433.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы (нестабильные)", CyberTV_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214421.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4P473rb/image-18.png" tvg-id="" group-title="Кинозалы (нестабильные)", Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkDr4pzm/image-19.png" tvg-id="" group-title="Кинозалы (нестабильные)", Alpha Funny
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" tvg-id="" group-title="Кинозалы (нестабильные)", Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",🔴 Британский юмор 😐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218490.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgXG58Gp/image-35.png" tvg-id="" group-title="Кинозалы (нестабильные)", VKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/173945.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Video_Serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218886.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",LollyDragon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/183946.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Tocoxoj361
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218475.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Roper89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/76954.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", P Boy Podpischik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/40391.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", DiZagree
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/48017.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", УЖАСЫ ФАНТАСТИКА 80-90-00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/211351.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", CMehanikus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/122616.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Fizcultprivet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/29969.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", TanushkaVL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/90156.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Djaga68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/211665.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", HF_GL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/17605.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", D_Sparda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/202996.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Streamota
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/50797.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Sever TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/146065.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", GRAND TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/215088.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Nostromia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/36707.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", STRIMACH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/154297.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", oIIIo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/127463.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Yesnomb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/189993.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", - Кино Хит - 24 / 7 -
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/215741.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Grin43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/201734.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Tiferet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/215215.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Brat_Loken
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/161950.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", KROPOTKIN_POWER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/177016.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", steel-man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/215425.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", KPOT666NETOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/207482.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",AlexVira
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/106103.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Scatman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/3893.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Абсолют синема
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/122102.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",nealweil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/133846.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",x2Neron
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/3592.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",marked0ne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/203674.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Sovremenii
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/24018.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Gintoki-san
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214908.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",KoraxPlus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/217044.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Mirianatir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/181503.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",AlexDocent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/64556.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Zeratoo70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/41158.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Kaifmanov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/217839.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",runepi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/210953.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",x_SaSai_KudasaI_x
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/185447.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",slender96
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/208749.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Kopilka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/116501.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",AnimeHZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/149551.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="Кинозалы (нестабильные)", Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title="Кинозалы (нестабильные)", Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title="Кинозалы (нестабильные)", Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="" group-title="Кинозалы (нестабильные)", Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="" group-title="Кинозалы (нестабильные)", Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="" group-title="Кинозалы (нестабильные)", Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="" group-title="Кинозалы (нестабильные)", Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="" group-title="Кинозалы (нестабильные)", Следствие вели... 
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title="Кинозалы (нестабильные)", Ты супер !
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjBsFPkh/image-33.png" tvg-id="" group-title="Кинозалы (нестабильные)", TV1 (KG)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="Кинозалы (нестабильные)",312 Сериал
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="Кинозалы (нестабильные)",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Кино 18+
+https://v2.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Детское Кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XfGVQMmB/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)", ԼԱՅՄ GOLD TV
+https://v2.catcast.tv/content/40546/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="Кинозалы (нестабильные)", Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title="Кинозалы (нестабильные)", PRO100 TV
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",VIVA Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/180805.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",MIXM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/181490.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",TMF RUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/201891.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx885Mby/image-9.png" tvg-id="" group-title="Кинозалы (нестабильные)", Phoenix TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjkXHscj/image-36.png" tvg-id="" group-title="Кинозалы (нестабильные)",CRINGE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/208391.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",HotBeatsTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/191858.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",FARA0N_999
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/15149.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Rus Brony TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/156945.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",MegaRadio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/175789.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Lofi музыка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/218690.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Азиатские танцульки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/196745.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Первый Автомобильный Телеканал 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/206355.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Андийцы
+https://autopilot.catcast.tv/content/34114/index.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Mikulski
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/167782.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",BiskbitLive радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/209782.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Wierd_by_Eyforis_Lurt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/172446.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",24/7 Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/194731.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Звуки дождя
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/198378.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Disco Dance Party!!!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/215020.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Palmera Blanca Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/214802.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Music Info News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.9.195.3:8080/hls/211955.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title="Кинозалы (нестабильные)", Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title="Кинозалы (нестабильные)",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", VHS-ка HD 
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Смотрим Праздник
+http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Смотрим Мужское
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", 43 канал
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F40pkMHf/image-18.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)",WWW 
+http://195.9.195.3:8080/hls/192005.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="cityedem-kinoazia" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="cityedem-kinoklas" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="cityedem-kinomist" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="cityedem-kinoact" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" tvg-id="cityedem-telenov" group-title="Кинозалы (нестабильные)", Сити Эдем - Теленовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - Бирма Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQy7zrL6/image-24.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-0 tvg-id="" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png", ЛИК
+http://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png" tvg-id="" group-title="Кинозалы (нестабильные)", ЛИК Классика
+https://v2.catcast.tv/content/41458/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDG9Q7YH/image-36.png" tvg-id="" group-title="Кинозалы (нестабильные)", MGM
+https://autopilot.catcast.tv/content/44051/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
 
@@ -1280,6 +1853,12 @@ http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
 http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Galaxy
 http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
+#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC
+http://109.75.59.241:8017/TLC/index.m3u8
+#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC HD
+http://5.188.159.128:8070/TLC/index.m3u8
+#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC Россия HD
+http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 2
@@ -1500,162 +2079,6 @@ http://95.47.156.60:8000/play/8/index.m3u8
 http://95.47.156.60:8000/play/20/index.m3u8
 #EXTINF:-1 group-title="Спортивные",МАТЧ ТВ
 http://95.47.156.60:8000/play/3/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Доктор Достоевский
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Star Media
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Военный
-https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Ералаш
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Приколы 1
-https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Приколы 2
-https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Шоу Бенни Хилла
-https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мистер Бин
-https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Документалка 1 
-https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Документалка 2
-https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Документалка 3
-https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Танцы 1
-https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Танцы 2
-https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Танцы 3
-https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Тик Ток
-https://fl1001.bozztv.com/ushba61/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Gameplay
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Gameplay трейлеры
-https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Спорт
-https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Овертайм
-https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 32
-https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 36
-https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 37
-https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision
-https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision Motor
-https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision Кинопанорама
-https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision Classic
-https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 1
-https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 2
-https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 3
-https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 4
-https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 5
-https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 5
-https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 6
-https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Kpop Play TV
-https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 1
-https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 2
-https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 3
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 4
-https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 5
-https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 6
-https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Fashion Channel
-https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
 
 
@@ -3424,10 +3847,65 @@ http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",FAN
 http://31.148.48.15:80/Fan/index.m3u8
 
-#EXTINF:-1 group-title="Мода",Fashion One HD
-http://31.148.48.15:80/Fashion_One_HD/index.m3u8
-#EXTINF:-1 group-title="Мода",Fashion TV
+#EXTINF:-1 group-title="Мода и стиль", Fashion one
+https://stream-msk-10.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
+#EXTINF:-1 group-title="Мода и стиль",Life Minute
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8
+#EXTINF:-1 group-title="Мода и стиль",Fashion Czech & Slovak
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Мода и стиль",Fashion TV HD
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://epgx.site/p/world-fashion-channel-en.png",World Fashion Channel
+http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#EXTINF:-1 group-title="Мода и стиль",WFC International
+http://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 group-title="Мода и стиль",WFC HD
+http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 group-title="Мода и стиль",WFC
+http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
+#EXTINF:-1 group-title="Мода и стиль", Fashion TV
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://iptvx.one/picons/fashion-tv.png",Fashion TV Africa
+http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+#EXTINF:-1 group-title="Мода и стиль",Fashion TV Midnight Secret FHD
+http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://epgx.site/p/world-fashion-channel.png",World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Мода и стиль",Luxury HD
+http://stream-msk-11.ott.tricolor.tv/dtv/id670_MSKSG-PVR-1--Luxury_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M#EXTINF:-1 group-title="Мода и стиль",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 group-title="Мода и стиль", CODE FASHION
+https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
+#EXTINF:-1 group-title="Мода и стиль",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://w7.pngwing.com/pngs/565/350/png-transparent-fashion-television-television-channel-fashiontv-others-television-angle-fashion-thumbnail.png",Fashion TV Paris
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_8
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_9
+https://fl1001.bozztv.com/ushba21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_11
+https://fl1001.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_10
+https://fl1001.bozztv.com/ushba93/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_5
+https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_6
+https://fl1001.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Jasmine
+https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_2
+https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_3
+https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_4
+https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://www.artdesigner.ru/portfolio/moda/project.png",Мода_7
+https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль",Магнат
+https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Мода и стиль" tvg-logo="https://i.imgur.com/OSet4en.png",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Fast & Fun Box
 http://193.25.8.59:8000/Avto24
@@ -3634,16 +4112,6 @@ http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Viju+ Sport
 http://193.25.8.59:8000/viasatsport
-
-#EXTINF:-1 group-title="Мода",WFC HD
-http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
-#EXTINF:-1 group-title="Мода",WFC FHD
-http://live-3.otcnet.ru/wfcrus/index.m3u8
-
-#EXTINF:-1 group-title="Мода",WFC International HD
-http://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 group-title="Мода",WFC International FHD
-http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
 #EXTINF:-1 group-title="Эфирные",АРТ ТВ
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -5638,24 +6106,6 @@ https://fl1001.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba96/tracks-v1a1/mono.m3u8
 #EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Music 16
 https://fl1001.bozztv.com/ushba76/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Мода 1
-http://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Мода 3
-http://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Мода 4
-http://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Мода 5
-http://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Мода 6
-http://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Мода 7
-https://fl1001.bozztv.com/ushba21/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Мода 10
-https://fl1001.bozztv.com/ushba93/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Мода 11
-https://fl1001.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Кинозалы" ,Fashion Channel
-http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Армения" tvg-logo="https://audioefir.ru/wp-content/uploads/2024/05/1lurer-225x220.webp", 1Lurer
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
