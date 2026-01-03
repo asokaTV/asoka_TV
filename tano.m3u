@@ -1560,12 +1560,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/Black_HD/video.m3u8?token=AWYh9Vrv4z&
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/red_SD/video.m3u8?token=AWYh9Vrv4z&21yo=0
 #EXTINF:-1 group-title="PreminmTV (нестабильные)",.Sci-Fi
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/Sony_SciFi/video.m3u8?token=AWYh9Vrv4z&21yo=0
-#EXTINF:-1 group-title="PreminmTV (нестабильные)",4ever Cinema HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/4Ever_Cinema_HD/video.m3u8?token=AWYh9Vrv4z&21yo=0
-#EXTINF:-1 group-title="PreminmTV (нестабильные)",4ever Drama HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/4Ever_Drama_HD/video.m3u8?token=AWYh9Vrv4z&21yo=0
-#EXTINF:-1 group-title="PreminmTV (нестабильные)",4ever Theater HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B14/4Ever_Theater_HD/video.m3u8?token=AWYh9Vrv4z&21yo=0
 #EXTINF:-1 group-title="PreminmTV (нестабильные)",4Y Baltic
 http://tinyurl.com/%74%76%7A%61%74%61%6B14/4Y_Baltia/video.m3u8?token=AWYh9Vrv4z&21yo=0
 #EXTINF:-1 group-title="PreminmTV (нестабильные)",9 канал
@@ -11285,3 +11279,4 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+
