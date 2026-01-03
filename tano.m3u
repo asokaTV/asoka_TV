@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, http://gabbarit.drm-play.com/epg_1.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
@@ -11279,3 +11279,4 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+
