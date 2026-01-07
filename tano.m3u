@@ -5126,10 +5126,6 @@ http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
 http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC
 http://109.75.59.241:8017/TLC/index.m3u8
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC HD
-http://5.188.159.128:8070/TLC/index.m3u8
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC Россия HD
-http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 2
@@ -13326,3 +13322,4 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+
