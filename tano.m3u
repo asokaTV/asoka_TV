@@ -1825,8 +1825,6 @@ https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ushba TV" tvg-id="no_epg_cinema" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", Кинозал_5
 https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="👶Детские" tvg-id="no_epg" tvg-logo="https://psv4.userapi.com/s/v1/d2/5ByRQnfjvio7YC9e0FMHyE3z5GEiWmI4R0n6wd4FVkIfnfk_W_0FPZGwVk4nWX-RzEdM3NrFHoE7TfKW2Gn6UYDEIAiEQEMcU5D-S0oUBAVnF7xG5ZkjFLyovkQa0PEWYp071FYk-MKK/KIZUGMULT.png", Кинозал_4
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ushba TV" tvg-id="no_epg_cinema" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", Кинозал_6
 https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ushba TV" tvg-id="no_epg_cinema" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", Кинозал_7
@@ -12503,6 +12501,7 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+
 
 
 
