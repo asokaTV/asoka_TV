@@ -1,48 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="exxxotica" group-title="18+", Exxxotica
-http://31.148.48.15:80/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="playboy-tv" group-title="18+", Playboy TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="hustler-tv" group-title="18+", Hustler TV
-http://45.87.172.19:85/Hustler/index.m3u8
-#EXTINF:-1 tvg-id="super-one" group-title="18+", Super One HD
-http://45.87.172.19:85/SuperOne_HD/index.m3u8
-#EXTINF:-1 tvg-id="private-tv" group-title="18+", Private HD
-http://45.87.172.19:85/PrivateTV/index.m3u8
-#EXTINF:-1 tvg-id="digital-desire" group-title="18+", Digital Desire
-#EXTVLCOPT:http-user-agent=Wink
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="18+", Brazzers TV Europe
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="dorcel" group-title="18+", Dorcel TV HD
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Dusk" group-title="18+", DUSK
-http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="eroxxxhd" group-title="18+",Eroxxx HD
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="erox" group-title="18+",Erox
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+", Extasy TV
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="babes-tv" group-title="18+",Babes TV
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png" group-title="18+", Leo TV
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" tvg-id="no_epg_xxx" group-title="18+", Reality Kings TV
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="18+", PassionXXX HD
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="18+", Porn Classic
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="kino18plusint-tviksel" group-title="18+", Кино 18+ International
-https://autopilot.catcast.tv/content/40381/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="SEXTREME" tvg-logo="https://i.postimg.cc/Wph5vQRv/ESTO-ES-TV-XXX-2.webp",Swap
 https://zonamovie.pro:443/play/d93hYNLzkTLf5jukJsHj2OoEP9d-QzLuotPCz5nHhHAWPODLxakRURzjHdovmAVl/ts
 #EXTINF:-1 group-title="SEXTREME" tvg-logo="https://i.postimg.cc/Wph5vQRv/ESTO-ES-TV-XXX-2.webp",New Sensation
