@@ -62,46 +62,6 @@ http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI
 http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10
 #EXTINF:-1 group-title="18+",Шалун HD
 http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10
-#EXTINF:-1 group-title="18+", Adult IPTV Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Milf
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="18+", Adult IPTV Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1 group-title="18+", Dorcel TV
 https://176.116.105.82/Dorcel_HD/index.m3u8
 #EXTINF:-1 group-title="18+", Extasy
@@ -2395,5 +2355,6 @@ https://video2.tizam.cc/kino/plohaya_kompaniya_1991.mp4
 https://video2.tizam.cc/vk/Pop-Star.mp4
 #EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://i.ibb.co/BKzhg31J/klipartz-com.png",  Тайные Желания
 https://video2.tizam.cc/vk/Secret-Crushes.mp4
+
 
 
