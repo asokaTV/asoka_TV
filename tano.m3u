@@ -333,6 +333,12 @@ http://cdn.iptvcinema.ru/aviakatastrophi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNG
 http://cdn.iptvcinema.ru/banditpeterburg/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/anatomyubistv.png",Анатомия убийства
 http://cdn.iptvcinema.ru/anatomyubistv/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/gluhar.png",Глухарь
+http://cdn.iptvcinema.ru/gluhar/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/goryunov.png",Горюнов
+http://cdn.iptvcinema.ru/goryunov/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/posledniment.png",Последний мент
+http://cdn.iptvcinema.ru/posledniment/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/ulicifanarey.png",Улицы разбитых фонарей
 http://cdn.iptvcinema.ru/ulicifanarey/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/6kadrov.png",6 кадров
@@ -361,10 +367,14 @@ http://cdn.iptvcinema.ru/sherlokholms/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtV
 http://cdn.iptvcinema.ru/sled/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/mentovskievoini.png",Ментовские войны
 http://cdn.iptvcinema.ru/mentovskievoini/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/semnadtcatmgnoveni.png",Семнадцать мгновений весны
+http://cdn.iptvcinema.ru/semnadtcatmgnoveni/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/nekrasivayapadruzhka.png",Некрасивая подружка
 http://cdn.iptvcinema.ru/nekrasivayapadruzhka/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/tribogatirya.png",Три богатыря
 http://cdn.iptvcinema.ru/tribogatirya/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/chuzhoyrayon.png",Чужой район
+http://cdn.iptvcinema.ru/chuzhoyrayon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/sovetskiemultfilmi.png",Советские мультфильмы
 http://cdn.iptvcinema.ru/sovetskiemultfilmi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/smeshariki.png",Смешарики
@@ -541,6 +551,7 @@ http://cdn.iptvcinema.ru/lb0/oasis_blocks_hd/index.m3u8?token=bWFrc3Jla2xhbXx8Yl
 http://cdn.iptvcinema.ru/lb0/oasis_cartoons_hd/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema (нестабильные)" tvg-logo="https://iptvcinema.ru/channels/oasis_disney_classic.png",Oasis Disney Classic HD
 http://cdn.iptvcinema.ru/lb0/oasis_disney_classic_hd/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,VB Новогодний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
