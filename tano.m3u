@@ -649,9 +649,6 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31651/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Russia 90s HD
 #EXTGRP:Кинозалы (нестабильные)
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31658/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино UKR FHD
-#EXTGRP:Кинозалы (нестабильные)
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31660/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Магнитофон
 #EXTGRP:Кинозалы (нестабильные)
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31645/index.m3u8
@@ -13109,4 +13106,5 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+
 
