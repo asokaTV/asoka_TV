@@ -634,578 +634,1524 @@ http://cdn.iptvcinema.ru/lb0/chb_mix/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVn
 http://cdn.iptvcinema.ru/lb0/chb_nashedetstvoussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,VB Новогодний
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://195.9.195.3:8080/hls/198088.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,LST_MEDIA
-http://195.9.195.3:8080/hls/219245.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Kinosweet HD
-http://193.27.209.122/kinosweet/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,ATV Bazmoc
-http://109.68.122.117:8899/bazmoc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,ATV Cineman
-http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,ATV
-http://45.11.139.43:8555/mig/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Film Vizit
-https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Кино Без Границ
-http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,TV RUS
-http://api.alpaca.t62a.com/hls/9106/stream0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Кино Боевик
-http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Мировое Кино
-http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Премиум Кино
-http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Семейное Кино
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,BCU Kinorating HD
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,BCU Stars HD
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Kinowood HD
-http://193.27.209.122/kinowood/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MM Скорость
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MyTV
-http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MyTV 2
-http://hls127.freeott.top:8080/MyTV2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MyTV 3
-http://hls127.freeott.top:8080/MyTV3/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Deep House
-http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Walt Disney 
-http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k World Music 
-http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Звериный мир
-http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Мультимир
-http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Путешествие 
-http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Asia
-http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Концерт
-http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Единоборства
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Gamefilm
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Космомир
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Anime 
-http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Боевик
-http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Драмы 
-http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Кино Франшизы 
-http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Русский сериал
-http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Семейный 
-http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Clarity4k Фэнтези
-http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,SSA Film
-https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Киножелезо
-http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Наш Киномир
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Кинолаффка
-http://188.208.197.173/kinolafka/video.m3u8?token=tvon
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Кино и жизнь
-http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Action
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Anime
-http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Cartoon
-http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Comedy
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Drama
-http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Fiction
-http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Fresh
-http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Investigation
-http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Jackie Chan 
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,CPS Mix
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Saga TV
-http://46.175.123.164:4022/udp/239.195.65.56:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Suspense
-http://146.120.14.239:3001/play/a08o
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Cinema Test
-https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,VHDV TV
-https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,MB TV
-https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,МУви ТВ
-http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGCQzpkk/image-22.png" group-title="Кинозалы (нестабильные)" ,МУЛЬТИКИ И СКАЗКИ
-http://195.9.195.3:8080/hls/198446.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" group-title="Кинозалы (нестабильные)" ,Маша и Медведь
-https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" group-title="Кинозалы (нестабильные)" ,Маша и Медведь (Eng)
-https://live21.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKh025r9/image-24.png" group-title="Кинозалы (нестабильные)" ,СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qZJGKb4/image-15.png" group-title="Кинозалы (нестабильные)" ,СССР Мульты
-https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="Кинозалы (нестабильные)" ,Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,⚡FoxKids
-http://195.9.195.3:8080/hls/215291.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Ретро Мульт
-http://195.9.195.3:8080/hls/213086.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,Fox Kids
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" ,FilmOFF
-https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6y4Q1vk/image-9.png" group-title="Кинозалы (нестабильные)" ,DTR Zona 1
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кинозалы (нестабильные)" , TV4 HD
-https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кинозалы (нестабильные)" , TV4 Русское Кино
-https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кинозалы (нестабильные)" , TV4 Relax HD
-https://dvr3.vokkavideo.xyz/TV4RELAXHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bG8q9BM/image-12.png" group-title="Кинозалы (нестабильные)" , TV4 Hits HD
-https://dvr3.vokkavideo.xyz/TV4HITSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2MGDGPy/image-15.png" group-title="Кинозалы (нестабильные)" , Новый Русский
-https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" , HTV HD
-https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="Кинозалы (нестабильные)" , Кинозал
-http://185.57.68.33/237/mpegts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DP9L0sBQ/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)",STR TV
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/994jvr6f/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)",Film Best
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/212682.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RKk8ncX/image-34.png" tvg-id="" group-title="Кинозалы (нестабильные)", Видеокассета VHS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://live21.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZwcfR6P/image-28.png" tvg-id="" group-title="Кинозалы (нестабильные)",Кибер Задов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/210558.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0pDTSvhW/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)",Revolyo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/218087.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHfCmsV5/image-29.png" tvg-id="" group-title="Кинозалы (нестабильные)",Katastroff
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/208789.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="Кинозалы (нестабильные)",Zubrilom Franchise
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" tvg-id="" group-title="Кинозалы (нестабильные)",Zubrilom Film 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/218251.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6sYPbwM/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Восход ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/202997.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" tvg-id="" group-title="Кинозалы (нестабильные)",VHS кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZkZJZ5z/image-48.png" tvg-id="" group-title="Кинозалы (нестабильные)",ВИДЕОСАЛОН VHS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/175764.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CK7Y5sxg/image-16.png" tvg-id="" group-title="Кинозалы (нестабильные)",1FILMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKjPzpKD/image-17.png" tvg-id="" group-title="Кинозалы (нестабильные)",2FILMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gG2bNbq/image-30.png" tvg-id="" group-title="Кинозалы (нестабильные)", Скрипач ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/217083.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvCddqkN/image-31.png" tvg-id="" group-title="Кинозалы (нестабильные)", SeriesTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/186021.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynK7QpVV/image-18.png" tvg-id="" group-title="Кинозалы (нестабильные)",Фантом
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JL8WjZQ/image-32.png" tvg-id="" group-title="Кинозалы (нестабильные)", Dimpon HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/210470.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7QqrJD/image-19.png" tvg-id="" group-title="Кинозалы (нестабильные)",Кошмар HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" group-title="Кинозалы (нестабильные)", Kino Mix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/216612.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrC4Bs07/image-20.png" tvg-id="" group-title="Кинозалы (нестабильные)",Akudji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFs2QPrZ/image-35.png" tvg-id="" group-title="Кинозалы (нестабильные)", FMC 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/187741.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HD0m1Kxn/image-21.png" tvg-id="" group-title="Кинозалы (нестабильные)",FAN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p61PV0CV/image-22.png" tvg-id="" group-title="Кинозалы (нестабильные)",Futurama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/199417.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rjh9fgt/image-23.png" tvg-id="" group-title="Кинозалы (нестабильные)",Moviee Toper
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycZVy30v/image-24.png" tvg-id="" group-title="Кинозалы (нестабильные)", Malder Мегахит
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9kYk7PtV/image-26.png" tvg-id="" group-title="Кинозалы (нестабильные)", Malder Всё тв
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/153640.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH5Kfx36/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)", Logovo Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvCJpRnm/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)", TvBoom-ViP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title="Кинозалы (нестабильные)", KinoJam
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8nqW79BG/image-21.png" tvg-id="" group-title="Кинозалы (нестабильные)", НСТ ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/217855.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r25pMz2T/image-22.png" group-title="Кинозалы (нестабильные)", LAV-KINO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="Кинозалы (нестабильные)", SeleCaoTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="Кинозалы (нестабильные)", SeleCaoTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/157269.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMtCF2H/image-29.png" tvg-id="" group-title="Кинозалы (нестабильные)", Video Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы (нестабильные)", CyberTV_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/214454.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы (нестабильные)", CyberTV_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/214433.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" tvg-id="" group-title="Кинозалы (нестабильные)", CyberTV_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/214421.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W4P473rb/image-18.png" tvg-id="" group-title="Кинозалы (нестабильные)", Alpha Cinema
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkDr4pzm/image-19.png" tvg-id="" group-title="Кинозалы (нестабильные)", Alpha Funny
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" tvg-id="" group-title="Кинозалы (нестабильные)", Alpha Moretime
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",🔴 Британский юмор 😐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/218490.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgXG58Gp/image-35.png" tvg-id="" group-title="Кинозалы (нестабильные)", VKTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/173945.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Video_Serial
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/218886.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",LollyDragon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/183946.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Tocoxoj361
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/218475.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Roper89
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/76954.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", P Boy Podpischik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/40391.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", DiZagree
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/48017.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", УЖАСЫ ФАНТАСТИКА 80-90-00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/211351.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", CMehanikus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/122616.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Fizcultprivet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/29969.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", TanushkaVL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/90156.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Djaga68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/211665.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", HF_GL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/17605.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", D_Sparda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/202996.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Streamota
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/50797.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Sever TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/146065.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", GRAND TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/215088.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Nostromia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/36707.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", STRIMACH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/154297.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", oIIIo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/127463.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Yesnomb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/189993.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", - Кино Хит - 24 / 7 -
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/215741.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Grin43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/201734.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Tiferet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/215215.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Brat_Loken
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/161950.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", KROPOTKIN_POWER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/177016.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", steel-man
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/215425.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", KPOT666NETOT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/207482.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",AlexVira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/106103.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Scatman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/3893.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Абсолют синема
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/122102.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",nealweil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/133846.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",x2Neron
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/3592.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",marked0ne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/203674.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Sovremenii
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/24018.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Gintoki-san
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/214908.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",KoraxPlus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/217044.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Mirianatir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/181503.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",AlexDocent
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/64556.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Zeratoo70
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/41158.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Kaifmanov
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/217839.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",runepi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/210953.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",x_SaSai_KudasaI_x
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/185447.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",slender96
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/208749.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Kopilka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/116501.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",AnimeHZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/149551.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="Кинозалы (нестабильные)", Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title="Кинозалы (нестабильные)", Первый Отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title="Кинозалы (нестабильные)", Невский
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="" group-title="Кинозалы (нестабильные)", Пёс
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="" group-title="Кинозалы (нестабильные)", Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="" group-title="Кинозалы (нестабильные)", Балабол
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="" group-title="Кинозалы (нестабильные)", Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="" group-title="Кинозалы (нестабильные)", Следствие вели... 
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title="Кинозалы (нестабильные)", Ты супер !
-https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bjBsFPkh/image-33.png" tvg-id="" group-title="Кинозалы (нестабильные)", TV1 (KG)
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="Кинозалы (нестабильные)",312 Сериал
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="Кинозалы (нестабильные)",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Кино 18+
-https://v2.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)", Детское Кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XfGVQMmB/image-4.png" tvg-id="" group-title="Кинозалы (нестабильные)", ԼԱՅՄ GOLD TV
-https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="Кинозалы (нестабильные)", Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title="Кинозалы (нестабильные)", PRO100 TV
-http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",VIVA Russia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/180805.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",MIXM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/181490.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",TMF RUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/201891.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx885Mby/image-9.png" tvg-id="" group-title="Кинозалы (нестабильные)", Phoenix TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://karapuztv.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjkXHscj/image-36.png" tvg-id="" group-title="Кинозалы (нестабильные)",CRINGE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/208391.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",HotBeatsTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/191858.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",FARA0N_999
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/15149.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" tvg-id="" group-title="Кинозалы (нестабильные)",Rus Brony TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/156945.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",MegaRadio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/175789.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Lofi музыка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/218690.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Азиатские танцульки
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/196745.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Первый Автомобильный Телеканал 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/206355.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Андийцы
-https://autopilot.catcast.tv/content/34114/index.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Mikulski
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/167782.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",BiskbitLive радио
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/209782.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Wierd_by_Eyforis_Lurt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/172446.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",24/7 Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/194731.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Звуки дождя
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/198378.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Disco Dance Party!!!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/215020.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Palmera Blanca Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/214802.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Music Info News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/211955.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title="Кинозалы (нестабильные)", Твоё ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title="Кинозалы (нестабильные)",Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", VHS-ка HD 
-http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Смотрим Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Смотрим Праздник
-http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Смотрим Мужское
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",СТРК HD
-http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", 43 канал
-http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F40pkMHf/image-18.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)",WWW 
-http://195.9.195.3:8080/hls/192005.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="cityedem-kinoazia" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="cityedem-kinoklas" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="cityedem-kinomist" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="cityedem-kinoact" group-title="Кинозалы (нестабильные)", Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" tvg-id="cityedem-telenov" group-title="Кинозалы (нестабильные)", Сити Эдем - Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - Бирма Play
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQy7zrL6/image-24.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - АвтоГид
-https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="no_epg_cinema" group-title="Кинозалы (нестабильные)", Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-0 tvg-id="" group-title="Кинозалы (нестабильные)" tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png", ЛИК
-http://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/My9w94tZ/image-12.png" tvg-id="" group-title="Кинозалы (нестабильные)", ЛИК Классика
-https://v2.catcast.tv/content/41458/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDG9Q7YH/image-36.png" tvg-id="" group-title="Кинозалы (нестабильные)", MGM
-https://autopilot.catcast.tv/content/44051/index.m3u8
+#EXTINF:0 tvg-rec="3",VF Сериалы Турции
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/9123/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Вестерн
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31553/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Horror HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31708/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Metall HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31651/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Russia 90s HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31658/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино UKR FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31660/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Магнитофон
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31645/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Movie Hits
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31644/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS СССР
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31643/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Страшное
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31642/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Premiere
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31641/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Киноплёнка
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31638/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Киносерия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31640/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS 60fps
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31637/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino World orig
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31447/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Russian HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31630/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoLiving
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16018/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Сваты HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31624/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Комедийные Сериалы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31628/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Криминальные Сериалы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31626/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2037/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кинофестиваль HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31621/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspense HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2049/index.m3u8
+#EXTINF:0 tvg-rec="0",Sumiko HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2163/index.m3u8
+#EXTINF:0 tvg-rec="7",Лавстори HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2034/index.m3u8
+#EXTINF:0 tvg-rec="3",Советская киноклассика HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2146/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Apocalypse HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31655/index.m3u8
+#EXTINF:0 tvg-rec="3",HOT Cinema Family HD IL
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2151/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2002/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция +4 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17022/index.m3u8
+#EXTINF:0 tvg-rec="0",Феникс плюс Кино HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16154/index.m3u8
+#EXTINF:0 tvg-rec="3",VHS-ка HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5006/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Serial HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17056/index.m3u8
+#EXTINF:0 tvg-rec="0",.black HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20019/index.m3u8
+#EXTINF:0 tvg-rec="0",.sci-fi HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20020/index.m3u8
+#EXTINF:0 tvg-rec="0",Scream HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20021/index.m3u8
+#EXTINF:0 tvg-rec="0",Shot TV HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20022/index.m3u8
+#EXTINF:0 tvg-rec="0",О!Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20023/index.m3u8
+#EXTINF:0 tvg-rec="0",NOW Series HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15102/index.m3u8
+#EXTINF:0 tvg-rec="0",FilmZone Plus HD EE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20025/index.m3u8
+#EXTINF:0 tvg-rec="0",Duo 3 HD LT
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20026/index.m3u8
+#EXTINF:0 tvg-rec="0",Turkish Dramas 3 HD IL
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14220/index.m3u8
+#EXTINF:0 tvg-rec="0",Turkish Dramas 2 HD IL
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14208/index.m3u8
+#EXTINF:0 tvg-rec="0",Turkish Dramas Plus HD IL
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14207/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Holiday
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16089/index.m3u8
+#EXTINF:0 tvg-rec="3",VF Счастливы Вместе
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/9242/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Бесстыжие
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10075/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Два с половиной человека
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10062/index.m3u8
+#EXTINF:0 tvg-rec="0",VF С новым годом!
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15524/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ёлки
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14222/index.m3u8
+#EXTINF:0 tvg-rec="0",VF New Year
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15522/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Новогодний
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17035/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Гарри Поттер
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14230/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Карточный домик
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14221/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Секс в большом городе
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14224/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Disney Movie
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Теория большого взрыва
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Владимир Высоцкий 
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10066/index.m3u8
+#EXTINF:0 tvg-rec="0",Timeless Dizi Channel
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14006/index.m3u8
+#EXTINF:0 tvg-rec="0",TVR
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14022/index.m3u8
+#EXTINF:0 tvg-rec="0",FX
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6516/index.m3u8
+#EXTINF:0 tvg-rec="3",FX Life
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/9232/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX M.Serial HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19280/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19281/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU TruMotion HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17054/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Русское
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/101/index.m3u8
+#EXTINF:0 tvg-rec="0",FX HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19216/index.m3u8
+#EXTINF:0 tvg-rec="3",FX Comedy HD PL
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6107/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinemax Hits HD US
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6152/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Series HD FR
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6008/index.m3u8
+#EXTINF:0 tvg-rec="7",Ностальгия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/102/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Love
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/103/index.m3u8
+#EXTINF:0 tvg-rec="7",.sci-fi
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/110/index.m3u8
+#EXTINF:0 tvg-rec="7",Киномикс
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/509/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносемья
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/125/index.m3u8
+#EXTINF:0 tvg-rec="7",Родное Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/126/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/131/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинохит
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/516/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 2
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/510/index.m3u8
+#EXTINF:0 tvg-rec="7",Наше Новое Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/517/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ 21
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/525/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинокомедия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/145/index.m3u8
+#EXTINF:0 tvg-rec="7",Индийское Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/146/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносерия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/148/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский иллюзион
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/547/index.m3u8
+#EXTINF:0 tvg-rec="7",Еврокино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/549/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинеко
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/550/index.m3u8
+#EXTINF:0 tvg-rec="7",Сапфир
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/553/index.m3u8
+#EXTINF:0 tvg-rec="7",Дом Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/154/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 1
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/554/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Premium
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/555/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Hit
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/556/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/132/index.m3u8
+#EXTINF:0 tvg-rec="7",Мужское Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/164/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/557/index.m3u8
+#EXTINF:0 tvg-rec="7",.red
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/559/index.m3u8
+#EXTINF:0 tvg-rec="7",2x2
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/702/index.m3u8
+#EXTINF:0 tvg-rec="7",.black
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/708/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский бестселлер
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/905/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский роман
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/906/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский детектив
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/907/index.m3u8
+#EXTINF:0 tvg-rec="7",Любимое Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/722/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносвидание
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/728/index.m3u8
+#EXTINF:0 tvg-rec="7",Кино ТВ
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/732/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/733/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Cyber HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20220/index.m3u8
+#EXTINF:0 tvg-rec="7",FAN
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/734/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Хит
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/741/index.m3u8
+#EXTINF:0 tvg-rec="0",FAN HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16021/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Сериал
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/744/index.m3u8
+#EXTINF:0 tvg-rec="7",НСТ
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/726/index.m3u8
+#EXTINF:0 tvg-rec="3",Индия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1001/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1071/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир Сериала
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/856/index.m3u8
+#EXTINF:0 tvg-rec="7",Ретро
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2018/index.m3u8
+#EXTINF:0 tvg-rec="7",Иллюзион+
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2038/index.m3u8
+#EXTINF:0 tvg-rec="7",Феникс плюс Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2039/index.m3u8
+#EXTINF:0 tvg-rec="3",.red HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2062/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноман
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2121/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinema
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5051/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema HD DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2484/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Highlights HD DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2485/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2488/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2489/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Classics HD DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2490/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Krimi HD DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2491/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Arts HD DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2494/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 1
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 2
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 3
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 4
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 5
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 6
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 7
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 8
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 9
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2576/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 10
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2577/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 11
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2578/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 12
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2579/index.m3u8
+#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6392/index.m3u8
+#EXTINF:0 tvg-rec="3",Trash HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6396/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Acción ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7065/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Comedia ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7066/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Drama ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7067/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7222/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion HD DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7230/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance TV DE
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7231/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7244/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7245/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7247/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7248/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7249/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7250/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoJam 1 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7260/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoJam 2 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7261/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP Seriale HD PL
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7281/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7347/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Adventure
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10000/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Anime
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10001/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Cartoon
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10002/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Comedy
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10003/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Family
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10004/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Fantasy
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10005/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Melodrama
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10006/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Mystic
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10007/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10008/index.m3u8
+#EXTINF:0 tvg-rec="7",VF VHS MIX
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы VHS
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10010/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Премьера
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10051/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Premiere
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10052/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Классика
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10053/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Classic
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10054/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Комедия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10055/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Катастрофы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10080/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Marvel
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10081/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Военные
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10082/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Наша победа
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10083/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мосфильм
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10084/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Фильмы СССР
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10085/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мультфильмы СССР
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10086/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Боевик
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10087/index.m3u8
+#EXTINF:0 tvg-rec="7",FlixSnip HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/10060/index.m3u8
+#EXTINF:0 tvg-rec="3",Shot TV
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/526/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11004/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Top
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11005/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Action
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11006/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Thriller
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11007/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Мелодрама
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11008/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Marvel
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11009/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Ужасы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Комедия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11011/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan VHS
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11012/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan РуКино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11013/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Сваты
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11014/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Катастрофы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15106/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Ментовские войны
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16063/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan ПёС + Лихач
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16064/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Лесник
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16065/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV The X-Files
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11055/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Интерны ТВ
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11060/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV СССР
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11061/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Сваты
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11062/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Универ ТВ
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11063/index.m3u8
+#EXTINF:0 tvg-rec="7",PG USSR HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11102/index.m3u8
+#EXTINF:0 tvg-rec="0",PG VHS HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15000/index.m3u8
+#EXTINF:0 tvg-rec="0",VB VHS Classic
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19429/index.m3u8
+#EXTINF:0 tvg-rec="0",VF TOP Series
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11116/index.m3u8
+#EXTINF:0 tvg-rec="0",VF VHS Cartoon
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11118/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Art house
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Detective
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Fantastic
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Оскар
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11122/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Малыш
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11123/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Великолепный Век HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13001/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP 80 S HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13002/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP BUDO HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13003/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Cinema HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13004/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP USSR HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13005/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP MIX HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13006/index.m3u8
+#EXTINF:0 tvg-rec="0",MM 007 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13009/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Love HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13010/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 1 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13011/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 2 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13012/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 3 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13013/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm RU HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13014/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Rock HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13015/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Tom and Jerry HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13016/index.m3u8
+#EXTINF:0 tvg-rec="0",MM UFO HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13017/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR 1941-1945 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13018/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Комедия HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13019/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Мультфильм HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13020/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Сказки HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13021/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Драма HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13022/index.m3u8
+#EXTINF:0 tvg-rec="0",MM World Hits HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13023/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Агата Кристи HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13024/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Грайндхаус HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13025/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Honey HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13026/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик Classic HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13027/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13028/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Вестерн HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13029/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Воронины HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13031/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Затмение HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13032/index.m3u8
+#EXTINF:0 tvg-rec="0",MM История HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13033/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Катастрофа HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13034/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Квартирник HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13035/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Киберпанк HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13036/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия Classic HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13037/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13038/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Криминал HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13039/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Крутые 90-е HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13040/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кунг-Фу HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13041/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Lesson HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13042/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Smile HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13043/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Мифология HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13044/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Нуар HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13045/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком 2.0 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13046/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Погружение HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13047/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Приключения HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13048/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Полицейский с Рублёвки HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13049/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Роскино HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13050/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Сваты HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13051/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13052/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Скорость HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13053/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Спорт HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13054/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Стивен Кинг HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13055/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Супергерои HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13056/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Flip UHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13057/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Триллер HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13058/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужастик HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13059/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Приключения HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13060/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Синематограф HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13061/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фантастика HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13062/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фобия HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13063/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Walt Disney HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13064/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Live Planet HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13095/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Детектив HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13096/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 1 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13097/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 2 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13098/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13099/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы Classic HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14128/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Celebrity HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16084/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Classic HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16085/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Драма HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сваты
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13080/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Солдаты
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13081/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Тайны следствия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13082/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Воронины
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13083/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13084/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Series
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13085/index.m3u8
+#EXTINF:0 tvg-rec="0",VF След
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13087/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Мыльные оперы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13088/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Thriller
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13089/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Индия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13090/index.m3u8
+#EXTINF:0 tvg-rec="0",VF История
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13091/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comics
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13092/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Криминал
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13093/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Клиника
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/13094/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Луи де Фюнес
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17000/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Чернобыль
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17001/index.m3u8
+#EXTINF:0 tvg-rec="0",VF The X-Files
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17002/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сверхъестественное
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17003/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Леонид Гайдай
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Американская история ужасов
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17005/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Друзья
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17006/index.m3u8
+#EXTINF:0 tvg-rec="0",VF СашаТаня
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17008/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Джеки Чан
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17009/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Наша Раша
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Привет из 90х
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17011/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Эльдар Рязанов
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17012/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ новая общага
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17013/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ходячие мертвецы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17014/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Реальные пацаны
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17015/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Доктор Хаус
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17016/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Без цензуры
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17017/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Городок
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18097/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comedy Woman
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18101/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Игра престолов
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Одесская киностудия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ленфильм
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Киностудия им. Горького
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18122/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Рижская киностудия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18123/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Свердловская киностудия
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18124/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Беларусьфильм
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18125/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Однажды в России
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19286/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Netflix
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19427/index.m3u8
+#EXTINF:0 tvg-rec="0",VF HBO
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19428/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Channel HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14134/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Comedy HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14135/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Crime HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14136/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Horror HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14137/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Grand
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14171/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV VHS
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14172/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Русские Фильмы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14174/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14175/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV New Кино
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14177/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Music Hits
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14179/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Трагичное
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14219/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Забавное
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14234/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Ковбойское
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14235/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14236/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adrenaline
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15105/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Thriller
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15168/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Oblivion
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15509/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adventure
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15510/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19434/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Netflix
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20163/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Disney
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20164/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20165/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Comedy
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16151/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Inquest
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16152/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus History
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18139/index.m3u8
+#EXTINF:0 tvg-rec="0",Твое ТВ HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14229/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Media HD OLD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15024/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Marvel HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15025/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Comedy HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15026/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality OLD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16083/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Survival OLD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17020/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Romantic OLD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18052/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty DC FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15087/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Ужасы 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15088/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Триллеры 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15089/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Марвел FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15090/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Короткометражки FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15091/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мелодрамы FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15095/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Боевики FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15096/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино Микс 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15110/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15111/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сваты FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15164/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Южный Парк FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16053/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Комедии FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16054/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16055/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино ENG 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17060/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17061/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт UKR 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18044/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино UKR 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18045/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18046/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18051/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Индия 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18160/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Куб 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18161/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18178/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Скорая Помощь
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15100/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Симпсоны
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15101/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan MiniSeries
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19437/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Prisons HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15137/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Toons HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15138/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Magic 4K
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16143/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Young Blood HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16147/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Animated HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17024/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Marvel
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16051/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Cartoon
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16050/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Cinema
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19287/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Kids
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19288/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Comedy
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19289/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Premiere
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19290/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Family
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19291/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Rating
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19292/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh VHS
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19293/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Fantastic
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19294/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Series
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19295/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Horror
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19296/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Adventure
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19297/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Romantic
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19298/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Russian
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19299/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Thriller
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19300/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Soviet
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19301/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ Classic HD FR
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17039/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Media HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17064/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Oscar HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17065/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Frozen HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17066/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Criminal HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17067/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Modern HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17068/index.m3u8
+#EXTINF:0 tvg-rec="0",START Air HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18036/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Российские Сериалы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18043/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Karate HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18061/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic VHS HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18062/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Comedy HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18063/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Disney HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18064/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Thriller HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18065/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Action HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18066/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Galaxy HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18067/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Horror HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18068/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Family HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18170/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Love HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18171/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18069/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18070/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 International
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18071/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Военное кино HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18072/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18073/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино International
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18074/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18126/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор След
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18127/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Ментовские войны
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18128/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Мелодрамы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18129/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Мир без границ
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18130/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Некрасивая подружка
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18131/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Три богатыря
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18132/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Сибирские деревянные дома
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18133/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Знание
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18134/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Советские мультфильмы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18135/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Смешарики
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18136/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Комедии
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/18137/index.m3u8
+#EXTINF:0 tvg-rec="0",Миллет HD (Крым)
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19258/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Franchise HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19274/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Hybrid HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19275/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Anime HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19276/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gangster HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19277/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Oscar HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19278/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Memory HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19279/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Game HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19284/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Spy HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19285/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Travel HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19418/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Western HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19419/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Zombie HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19420/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Cyber HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19421/index.m3u8
+#EXTINF:0 tvg-rec="0",PG Insomnia HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19398/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19407/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 2
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19408/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV HIT
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19410/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 3
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19411/index.m3u8
+#EXTINF:0 tvg-rec="0",MM OldSchool HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19413/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Family Guy HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19414/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Live HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19436/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino Comedy HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31764/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31765/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Nature CEE HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31766/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino World
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31767/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Ольга HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31718/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Репка HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31719/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Страх 2.0 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31720/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Фантастика 2.0 HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31722/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Байки из склепа
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31711/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Кинодром HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31714/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Громовы
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31712/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Коломбо
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31713/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Однажды в милиции
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31715/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!History HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31695/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Biography HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31697/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Military HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31696/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Adventure HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31698/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Detective HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31699/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Family HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31701/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Drama HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31700/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantasy HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31703/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Russian HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31704/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Science HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31705/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fun HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31706/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantastic HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31702/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Thriller HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31693/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Action HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31694/index.m3u8
+#EXTINF:0 tvg-rec="0",Calle 13 HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31836/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Drama HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31866/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Acción HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31868/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Comedia HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31869/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Cine Español HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31870/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Estrenos HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31872/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31873/index.m3u8
+#EXTINF:0 tvg-rec="0",AXN HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31877/index.m3u8
+#EXTINF:0 tvg-rec="0",SYFY HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31880/index.m3u8
+#EXTINF:0 tvg-rec="0",Atreseries HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31882/index.m3u8
+#EXTINF:0 tvg-rec="0",TCM HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31883/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноСезон HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31889/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspenso HD ES
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31906/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноКульт HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31914/index.m3u8
+#EXTINF:0 tvg-rec="0",Госфильмофонд. Машина времени HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31929/index.m3u8
+#EXTINF:0 tvg-rec="0",VHS-ка Сериал HD
+#EXTGRP:Кинозалы (нестабильные)
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31931/index.m3u8
 
 #EXTINF:-1 group-title="HomeTV (нестабильные)", BCU Russia 90s HD
 https://homtv.ru/4b989daf/index.m3u8
