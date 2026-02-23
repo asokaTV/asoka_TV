@@ -2104,6 +2104,161 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31929/index.m3u8
 #EXTGRP:HomeTV (нестабильные)
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31931/index.m3u8
 
+
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31625/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31620/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сериалы 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31665/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31657/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Аванпост 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31664/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Криминал 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31663/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Дрим Воркс 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31661/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мюзикл 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31662/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast+ 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31656/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31475/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX History 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31546/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premium Kinozakaz+ 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31547/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Kosmo 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31548/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premium Premiere+ 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31549/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SR Sport 1 Live 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31550/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SR Sport 2 Live 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31551/index.m3u8
+#EXTINF:0 tvg-rec="0",TravelXP 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14026/index.m3u8
+#EXTINF:0 tvg-rec="0",Museum 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14016/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 4K TR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/4001/index.m3u8
+#EXTINF:0 tvg-rec="0",Quadro 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19262/index.m3u8
+#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/4000/index.m3u8
+#EXTINF:0 tvg-rec="3",Home 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/4002/index.m3u8
+#EXTINF:0 tvg-rec="0",Наша Сибирь HD orig
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15145/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Сибирь HD
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/4003/index.m3u8
+#EXTINF:0 tvg-rec="3",Инсайт ТВ UHD
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5000/index.m3u8
+#EXTINF:0 tvg-rec="3",Love Nature 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5001/index.m3u8
+#EXTINF:0 tvg-rec="3",MyZen 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5002/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme UHD
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5003/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Кино 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11114/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11115/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15023/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами Туриста 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15191/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16153/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19435/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Kids 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17023/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Music 4K HDR
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19282/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Relax 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19283/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Турк Фильм 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19303/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19304/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Наука FHD
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19305/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19306/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Союз 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19307/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Легенда 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19308/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Нетфликс 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19402/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Фантастика FHD
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19403/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty XX Век 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20173/index.m3u8
+#EXTINF:0 tvg-rec="0",Eleven Sports 1 4K PL
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20068/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Premiere 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20157/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast 4K
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20158/index.m3u8
+#EXTINF:0 tvg-rec="0",4K Русское кино HD
+#EXTGRP:4K
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31925/index.m3u8
+
+
 #EXTINF:-1 group-title="Ushba TV" tvg-id="no_epg_cinema" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", Кинозал_1
 https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ushba TV" tvg-id="no_epg_cinema" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", Кинозал_2
@@ -4744,6 +4899,227 @@ http://178.212.71.253:8000/play/58/index.m3u8
 http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Старт
 http://178.212.71.253:8000/play/81/index.m3u8
+
+
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/9172/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon Classics
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2075/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Kids
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31646/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Disney Cartoon
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15027/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20012/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноМульт
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20009/index.m3u8
+#EXTINF:0 tvg-rec="0",Kids TV HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20008/index.m3u8
+#EXTINF:0 tvg-rec="0",В гостях у сказки HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20005/index.m3u8
+#EXTINF:0 tvg-rec="0",СуперГерои HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15099/index.m3u8
+#EXTINF:0 tvg-rec="0",Лёва HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15098/index.m3u8
+#EXTINF:0 tvg-rec="0",Baby Time
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20030/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoKazka
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15019/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Союзмультфильм
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14238/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ералаш
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14163/index.m3u8
+#EXTINF:0 tvg-rec="0",ТипТоп HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14007/index.m3u8
+#EXTINF:0 tvg-rec="7",Tiji TV
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/108/index.m3u8
+#EXTINF:0 tvg-rec="3",NickToons SE
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6095/index.m3u8
+#EXTINF:0 tvg-rec="7",Gulli Girl
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/109/index.m3u8
+#EXTINF:0 tvg-rec="7",Nick Jr.
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/114/index.m3u8
+#EXTINF:0 tvg-rec="7",Nickelodeon
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/541/index.m3u8
+#EXTINF:0 tvg-rec="7",Детский мир
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/543/index.m3u8
+#EXTINF:0 tvg-rec="7",JimJam
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/138/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoon Network HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/143/index.m3u8
+#EXTINF:0 tvg-rec="7",Карусель
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/156/index.m3u8
+#EXTINF:0 tvg-rec="7",Ani
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/129/index.m3u8
+#EXTINF:0 tvg-rec="7",Мульт
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/909/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoonito
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/723/index.m3u8
+#EXTINF:0 tvg-rec="7",О!
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/727/index.m3u8
+#EXTINF:0 tvg-rec="7",Уникум
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/730/index.m3u8
+#EXTINF:0 tvg-rec="7",В гостях у сказки
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/737/index.m3u8
+#EXTINF:0 tvg-rec="3",Карусель +3
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/740/index.m3u8
+#EXTINF:0 tvg-rec="7",Мультимузыка
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/749/index.m3u8
+#EXTINF:0 tvg-rec="7",Мульт HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/921/index.m3u8
+#EXTINF:0 tvg-rec="3",Duck TV HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1031/index.m3u8
+#EXTINF:0 tvg-rec="3",Baby TV
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2084/index.m3u8
+#EXTINF:0 tvg-rec="3",Da Vinci orig
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1033/index.m3u8
+#EXTINF:0 tvg-rec="3",Da Vinci FHD UA
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1034/index.m3u8
+#EXTINF:0 tvg-rec="3",СуперГерои
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1041/index.m3u8
+#EXTINF:0 tvg-rec="7",NickToons HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/849/index.m3u8
+#EXTINF:0 tvg-rec="7",Радость моя
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/853/index.m3u8
+#EXTINF:0 tvg-rec="3",Рыжий
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2052/index.m3u8
+#EXTINF:0 tvg-rec="3",Капитан Фантастика HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2098/index.m3u8
+#EXTINF:0 tvg-rec="3",Тамыр (Уфа)
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2109/index.m3u8
+#EXTINF:0 tvg-rec="3",Смайл ТВ HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2157/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультиландия
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5055/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat JimJam PL
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7298/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Cartoons 90
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11001/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Cartoons Short
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11002/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Cartoons Big
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11003/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Кроха ТВ
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11066/index.m3u8
+#EXTINF:0 tvg-rec="0",Сказки Зайки HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14150/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Kids
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14173/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Союзмульт
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14178/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Наше Детское
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19433/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Пиксар FHD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15092/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Дисней FHD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15093/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney Channel HD FR
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15185/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель +7 (Владивосток)
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15340/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель +3 (Омск)
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15436/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель +7
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15442/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель +0 (Элиста)
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15453/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Мультуб
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15520/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Новогодние мультфильмы
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15523/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Скуби-Ду
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17007/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV Kids
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19409/index.m3u8
+#EXTINF:0 tvg-rec="0",Baby TV ES
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31838/index.m3u8
+#EXTINF:0 tvg-rec="0",Boing HD ES
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31839/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney Jr. HD ES
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31840/index.m3u8
+#EXTINF:0 tvg-rec="0",Nickelodeon HD ES
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31846/index.m3u8
+#EXTINF:0 tvg-rec="0",Nick Jr. HD ES
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31852/index.m3u8
+#EXTINF:0 tvg-rec="0",Мультиландия HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31910/index.m3u8
+#EXTINF:0 tvg-rec="0",Funny Kids HD
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31918/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель (Ставрополь)
+#EXTGRP:Детский мир
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31930/index.m3u8
+
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg", CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
