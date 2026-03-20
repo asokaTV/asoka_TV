@@ -2922,7 +2922,10 @@ http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
 http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Galaxy
 http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC
+#EXTINF:0 tvg-rec="7",TLC HD
+#EXTGRP:Познавательные
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/232/index.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC
 http://109.75.59.241:8017/TLC/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
