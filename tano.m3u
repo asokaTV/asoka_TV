@@ -401,6 +401,197 @@ https://homtv.ru/wp-content/uploads/2025/12/oleg-gazmanov-putana.mp4
 #EXTINF:-1 group-title="КАРАОКЕ" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", IOWA - Улыбайся
 https://homtv.ru/wp-content/uploads/2025/12/iowa-ulybajsya.mp4
 
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/scripach-tv.webp" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Скрипач ТВ orig
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="49811" tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="IPTV Cinema (нестабильные)", Скрипач ТВ HD
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://telik.live/images/selecao_tv.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", SeleCaoTV Фильмы orig
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="IPTV Cinema (нестабильные)",SeleCaoTV Фильм
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://telik.live/images/selecao_tv.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", SeleCaoTV Сериалы orig
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+#EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="IPTV Cinema (нестабильные)",SeleCaoTV Сериал
+http://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBwZzLv0/image-7.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Видеокассета VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="IPTV Cinema (нестабильные)", VHS-ка
+http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="IPTV Cinema (нестабильные)",Legion tv FHD 
+http://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)",VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 tvg-logo="http://telik.live/images/fmc-tv.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", FantasticMistyc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ht8ryzS9/nsc8689089087.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)",NSC
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/original/901291.webp" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)",Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/d2qzrUO.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3436-3030-4661-a165-613330333230/photo.jpg" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)",Новый русский
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:-1 tvg-id="sunsetone" tvg-logo="https://kino-stream.online/logo/SUNSET-ONE.png" group-title="IPTV Cinema (нестабильные)",Sunset ONE
+https://kinostreammedia.hopto.org/SUNSET-ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://kino-stream.online/logo.png" tvg-id="kinostream" group-title="IPTV Cinema (нестабильные)",КИНО СТРИМ
+http://kinowalk.hopto.org/kinostreamlive_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="IPTV Cinema (нестабильные)",Kino Walk orig
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Kino Mix
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Video_Prokat
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18457974/avatar?change_time=1758279827&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", TimeToHorror
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18457965/avatar?change_time=1717150729&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", TimeToMovie
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/23770117/avatar?change_time=1767918213&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Blockbusters Time
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/23803295/avatar?change_time=1767804459&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Cinema Time
+http://kinowalk.hopto.org/cinemaa_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="IPTV Cinema (нестабильные)", Dimpon TV
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29545720/avatar?change_time=1760619525&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Малдер Всё ТВ
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", wihail
+http://kinowalk.hopto.org/wihail_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", kinolampa
+http://kinowalk.hopto.org/kinolampa_live
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Kinofon 
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", serial4u 
+http://kinowalk.hopto.org/serial4u_live_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/14011062/avatar?change_time=1709050240&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", MrsDOOmKa 
+http://kinowalk.hopto.org/mrsdoomka_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Alex.Films 
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", BOSSFILM 
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", ZubrilomFilm 
+http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29768939/avatar?change_time=1763990207&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Кинохунос 
+http://kinowalk.hopto.org/kinokunos_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/15503490/avatar?change_time=1769803131&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Тоха Киноман 
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29025041/avatar?change_time=1759414105&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Коновал ТВ 
+http://kinowalk.hopto.org/www.konoval_tv_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20767389/avatar?change_time=1763432114&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Фильмомания 
+http://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18203881/avatar?change_time=1770056028&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", KINO-TV 
+http://kinowalk.hopto.org/strannik1177_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19863595/avatar?change_time=1769945071&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", KINOХИТ HD 
+http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30356733/avatar?change_time=1767144911&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", КИНОУЖАС HD 
+http://kinowalk.hopto.org/kinouzhas_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19375213/avatar?change_time=1739702262&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", EvGAMEN
+http://kinowalk.hopto.org/evgamen_movies_live
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/18284008/avatar?change_time=1698739266&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)",Мультфильмы 24/7
+http://kinowalk.hopto.org/mezontrop_live
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18586845/avatar?change_time=1741529990&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", VAG KINO 164
+http://kinowalk.hopto.org/vagner164_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/27788933/avatar?change_time=1757043617&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", SеVаNz
+http://kinowalk.hopto.org/sevanz_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18062774/avatar?change_time=1683146043&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Profeccor
+http://kinowalk.hopto.org/profeccor_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30532004/avatar?change_time=1767465506&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Кинотека FULL_HD
+http://kinowalk.hopto.org/kinoteka_full_hd_top_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/31039588/avatar?change_time=1770826697&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", КИНО05
+http://kinowalk.hopto.org/kino05_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Aisman
+http://kinowalk.hopto.org/aisman_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18907130/avatar?change_time=1734455298&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", lampoTV
+http://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19529013/avatar?change_time=1727359016&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Игрун 1997
+http://kinowalk.hopto.org/igrun1997_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Video Channel
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/12235240/avatar?change_time=1686298823&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", swat2k
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/6256103/avatar?change_time=1685722753&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Wfliq
+http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19638295/avatar?change_time=1758747161&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", ReanimatoR_VHS 
+http://kinowalk.hopto.org/reanimator_vhs_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/26410366/avatar?change_time=1764539328&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Snoochies Boochies 
+http://kinowalk.hopto.org/sinema_live
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", КОМЕДИИ 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Эквилибриум
+http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", ROMEO Video
+http://kinowalk.hopto.org/romantic_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13" group-title="IPTV Cinema (нестабильные)",Maksim Films
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", SerialTV
+http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", R serials
+http://kinowalk.hopto.org/zzz881_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Фильмы сериалы
+http://kinowalk.hopto.org/dfsfsdg_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", Мы из 90-х
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140" group-title="IPTV Cinema (нестабильные)", ZubrilomFranchise
+http://kinowalk.hopto.org/zubrilommusic.ru_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/30679453/avatar?change_time=1768060945&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/4374205/avatar?change_time=1685722513&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", FGS
+http://kinowalk.hopto.org/dscb_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19573960/avatar?change_time=1728634064&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", У КРАЯ БЕЗДНЫ 24/7
+http://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/31272330/avatar?change_time=1771171161&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", AASS
+http://kinowalk.hopto.org/aaasss_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1743317709&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Prodigy_movie
+http://kinowalk.hopto.org/roman_prodigy_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20396730/avatar?change_time=1742167676&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", InMuNa Live
+http://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20310353/avatar?change_time=1771715709&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Тоха Стрим
+http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19395604/avatar?change_time=1725404395&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", не Кино
+http://kinowalk.hopto.org/notnotes_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/16123819/avatar?change_time=1744393606&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Solo ink
+http://kinowalk.hopto.org/soloink_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/31231924/avatar?change_time=1770988973&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", PhoENIX
+http://kinowalk.hopto.org/phoenix3345_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18290547/avatar?change_time=1726158637&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", TopMoment LiVE
+http://kinowalk.hopto.org/topmomentlive_live
+
+#EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 tvg-logo="https://files.kick.com/images/user/59967480/profile_image/conversion/b59451dd-0815-4a82-b37f-eac9249ebb51-fullsize.webp" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Baragozz_TV
+http://kinowalk.hopto.org/baragozz_tv_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19238690/avatar?change_time=1747562022&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", ФИЛЬМЫ&СЕРИАЛЫ
+http://kinowalk.hopto.org/films_serials_24_7_live/_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", 𝕂𝔸ℂℂ𝔼𝕋𝔸
+http://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Первый ряд
+http://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/197/128x128?unique=2026-02-21%2020:43:54.719669&access_token=986de50c-3a7a-4798-a1db-19f4161c0b9d" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", PrizraK PlaY
+http://kinowalk.hopto.org/vampiro1965_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/198/128x128?unique=2026-02-21%2020:43:54.719669&access_token=d72013c7-a66f-4533-b976-2972f914ad73" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", ChowAmigo
+http://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/200/128x128?unique=2026-02-21%2020:44:21.583209&access_token=6bdbfce3-ebe0-48be-9c34-98c6f7b4a8f3" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", PartizaNka tv
+http://kinowalk.hopto.org/partizanka_tv_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/30809873/avatar?change_time=1772349724&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Astrix116
+http://kinowalk.hopto.org/astrix116_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/12719933/avatar?change_time=1699038708&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Kycman мульт
+http://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/14163367/avatar?change_time=1685725099&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Argo_13
+http://kinowalk.hopto.org/argo_13_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19921068/avatar?change_time=1763821326&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", Lisfix
+http://kinowalk.hopto.org/lisfix_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18716382/avatar?change_time=1737140673&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", dj Zour
+http://kinowalk.hopto.org/zsmedia_live
 
 #EXTINF:-1 group-title="Ushba TV" tvg-id="no_epg_cinema" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", Кинозал_1
 https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
@@ -2535,224 +2726,6 @@ http://178.212.71.253:8000/play/118/index.m3u8
 http://178.212.71.253:8000/play/81/index.m3u8
 
 
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/9172/index.m3u8
-#EXTINF:0 tvg-rec="0",Cartoon Classics
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2075/index.m3u8
-#EXTINF:0 tvg-rec="0",VeleS Kids
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31646/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Disney Cartoon
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15027/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20012/index.m3u8
-#EXTINF:0 tvg-rec="0",КиноМульт
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20009/index.m3u8
-#EXTINF:0 tvg-rec="0",Kids TV HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20008/index.m3u8
-#EXTINF:0 tvg-rec="0",В гостях у сказки HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20005/index.m3u8
-#EXTINF:0 tvg-rec="0",СуперГерои HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15099/index.m3u8
-#EXTINF:0 tvg-rec="0",Лёва HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15098/index.m3u8
-#EXTINF:0 tvg-rec="0",Baby Time
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20030/index.m3u8
-#EXTINF:0 tvg-rec="0",KinoKazka
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15019/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Союзмультфильм
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14238/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Ералаш
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14163/index.m3u8
-#EXTINF:0 tvg-rec="0",ТипТоп HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14007/index.m3u8
-#EXTINF:0 tvg-rec="7",Tiji TV
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/108/index.m3u8
-#EXTINF:0 tvg-rec="3",NickToons SE
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/6095/index.m3u8
-#EXTINF:0 tvg-rec="7",Gulli Girl
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/109/index.m3u8
-#EXTINF:0 tvg-rec="7",Nick Jr.
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/114/index.m3u8
-#EXTINF:0 tvg-rec="7",Nickelodeon
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/541/index.m3u8
-#EXTINF:0 tvg-rec="7",Детский мир
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/543/index.m3u8
-#EXTINF:0 tvg-rec="7",JimJam
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/138/index.m3u8
-#EXTINF:0 tvg-rec="7",Cartoon Network HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/143/index.m3u8
-#EXTINF:0 tvg-rec="7",Карусель
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/156/index.m3u8
-#EXTINF:0 tvg-rec="7",Ani
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/129/index.m3u8
-#EXTINF:0 tvg-rec="7",Мульт
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/909/index.m3u8
-#EXTINF:0 tvg-rec="7",Cartoonito
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/723/index.m3u8
-#EXTINF:0 tvg-rec="7",О!
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/727/index.m3u8
-#EXTINF:0 tvg-rec="7",Уникум
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/730/index.m3u8
-#EXTINF:0 tvg-rec="7",В гостях у сказки
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/737/index.m3u8
-#EXTINF:0 tvg-rec="3",Карусель +3
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/740/index.m3u8
-#EXTINF:0 tvg-rec="7",Мультимузыка
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/749/index.m3u8
-#EXTINF:0 tvg-rec="7",Мульт HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/921/index.m3u8
-#EXTINF:0 tvg-rec="3",Duck TV HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1031/index.m3u8
-#EXTINF:0 tvg-rec="3",Baby TV
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2084/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci orig
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1033/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci FHD UA
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1034/index.m3u8
-#EXTINF:0 tvg-rec="3",СуперГерои
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/1041/index.m3u8
-#EXTINF:0 tvg-rec="7",NickToons HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/849/index.m3u8
-#EXTINF:0 tvg-rec="7",Радость моя
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/853/index.m3u8
-#EXTINF:0 tvg-rec="3",Рыжий
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2052/index.m3u8
-#EXTINF:0 tvg-rec="3",Капитан Фантастика HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2098/index.m3u8
-#EXTINF:0 tvg-rec="3",Тамыр (Уфа)
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2109/index.m3u8
-#EXTINF:0 tvg-rec="3",Смайл ТВ HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/2157/index.m3u8
-#EXTINF:0 tvg-rec="3",Мультиландия
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/5055/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat JimJam PL
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7298/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Cartoons 90
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11001/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Cartoons Short
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11002/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Cartoons Big
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11003/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Кроха ТВ
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11066/index.m3u8
-#EXTINF:0 tvg-rec="0",Сказки Зайки HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14150/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Kids
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14173/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Союзмульт
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/14178/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Наше Детское
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19433/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Пиксар FHD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15092/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Дисней FHD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15093/index.m3u8
-#EXTINF:0 tvg-rec="0",Disney Channel HD FR
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15185/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +7 (Владивосток)
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15340/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +3 (Омск)
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15436/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +7
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15442/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +0 (Элиста)
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15453/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Мультуб
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15520/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Новогодние мультфильмы
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15523/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Скуби-Ду
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/17007/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV Kids
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19409/index.m3u8
-#EXTINF:0 tvg-rec="0",Baby TV ES
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31838/index.m3u8
-#EXTINF:0 tvg-rec="0",Boing HD ES
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31839/index.m3u8
-#EXTINF:0 tvg-rec="0",Disney Jr. HD ES
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31840/index.m3u8
-#EXTINF:0 tvg-rec="0",Nickelodeon HD ES
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31846/index.m3u8
-#EXTINF:0 tvg-rec="0",Nick Jr. HD ES
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31852/index.m3u8
-#EXTINF:0 tvg-rec="0",Мультиландия HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31910/index.m3u8
-#EXTINF:0 tvg-rec="0",Funny Kids HD
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31918/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель (Ставрополь)
-#EXTGRP:Детский мир
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31930/index.m3u8
 
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg", CHD-TV RU Rock HD
@@ -2922,11 +2895,8 @@ http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
 http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Galaxy
 http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
-#EXTINF:0 tvg-rec="7",TLC HD
-#EXTGRP:Познавательные
-http://176.118.197.125/TLC-HD/index.m3u8
-#EXTINF:-1 group-title="Познавательные",TLC
-http://193.25.8.59:8000/tlc
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC HD
+http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:-1 group-title="Мужские",Авто 24
