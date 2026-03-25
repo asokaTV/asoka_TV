@@ -2708,8 +2708,7 @@ http://95.66.188.74/MatchBoec/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
 http://95.66.188.74/MatchIgra/mono.m3u8
 
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-http://178.212.71.253:8000/play/143/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные",Матч ТВ HD
 http://178.212.71.253:8000/play/34/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
@@ -2774,7 +2773,7 @@ https://flussonic.salomtv.uz/rutv/video.m3u8
 #EXTINF:-1 group-title="Эфирные", Звезда
 https://flussonic.salomtv.uz/zvezda/video.m3u8
 
-#EXTINF:-1 group-title="Спортивные", Eurosport 2 HD
+
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 #EXTINF:-1 group-title="Спортивные", Futbol TV
 https://flussonic.salomtv.uz/FutbolTV/video.m3u8
@@ -2960,10 +2959,10 @@ http://2.57.217.85:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Viasat sport
 http://2.57.217.85:8000/play/a0a0/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-http://45.87.35.12:7093/stream
-#EXTINF:-1 group-title="Спортивные",Eurosport 2
-http://84.54.128.52:9090/play/15004/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/eurosport1.png" tvg-id="eurosport1" group-title="Спорт", Eurosport1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/eurosport2.png" tvg-id="eurosport2" group-title="Спорт", Eurosport2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 2 FR
 http://41.205.93.154/EUROSPORT2/index.m3u8
 
@@ -4685,9 +4684,6 @@ http://31.148.48.15:80/English_club_TV_HD/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Epic
 http://193.25.8.59:8000/dtx
-
-#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
-http://5.188.159.128:8070/eurosport2/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Extreme Sports
 http://45.11.139.43:8555/extsport/index.m3u8
@@ -10667,8 +10663,5 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
-
-
-
 
 
