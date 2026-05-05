@@ -5791,7 +5791,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://95.163.85.128/streams/media/tnt_720x576/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
-
+#EXTINF:-1 group-title="Познавательные" tvg-id="eda", Еда
+http://stream-msk-01.ott.tricolor.tv/dtv/id380_MSKSG-PVR-1--Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NDgxMzkyMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MjA5MTIyLCJzZXNzaW9uX2lkIjoiZDFhZDEzMjEyNjAyMzM2MjBjMjEyMDgzMTQ2MjQ0OGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.rWbY9M-nPE3iwPDzN0yk1zodstu9XYsz3D-SHiBwxuQ
+#EXTINF:-1 group-title="Познавательные", Еда Премиум Международный
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="eda-hd", FoodTime
+http://stream-msk-04.ott.tricolor.tv/dtv/id170_MSKSG-PVR-1--HD_Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NDgxMzkyMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MjA5MTIyLCJzZXNzaW9uX2lkIjoiZDFhZDEzMjEyNjAyMzM2MjBjMjEyMDgzMTQ2MjQ0OGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.rWbY9M-nPE3iwPDzN0yk1zodstu9XYsz3D-SHiBwxuQ
+#EXTINF:-1 group-title="Познавательные" tvg-id="kuxnia-tv", КУХНЯ ТВ
+http://87.76.32.36:8001/kuhnya
+#EXTINF:-1 group-title="Познавательные",Kulinar TV Show
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
+#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://tmsearch.onlinepatent.ru/images/d80/d804ba14-e0bf-457c-929a-0f4a0b189b78.jpg",Семейная кухня
+https://live-mirror-18.ott.tricolor.tv/dtv/id1013_MSKSG-PVR-1--Kinozal25_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NDgxMzkyMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MjA5MTIyLCJzZXNzaW9uX2lkIjoiZDFhZDEzMjEyNjAyMzM2MjBjMjEyMDgzMTQ2MjQ0OGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.rWbY9M-nPE3iwPDzN0yk1zodstu9XYsz3D-SHiBwxuQ
 #EXTINF:-1 group-title="Познавательные" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 
