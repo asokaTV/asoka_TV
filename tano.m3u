@@ -1,329 +1,350 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG7, http://epg.one/epg.xml.gz, https://str-01.sunset-media.org/epg.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG7, http://epg.iptvcinema.ru/epg.gz"
 
-#EXTINF:-1 group-title="Федеральные",Первый канал
-http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные",Первый HD
-http://95.66.188.74/PerviyHD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://95.66.188.74:80/PerviyHD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://free-png.ru/wp-content/uploads/2020/09/Pervyj-kanal-01.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/4bfec22ceb03/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF8xVFZTRC92YXJpYW50Lm0zdTg.m3u8
 
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD
-http://95.66.188.74/Rossia1HD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1
-http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные",РОССИЯ К
-http://95.47.156.60:8000/play/6/index.m3u8
-#EXTINF:-1 group-title="Федеральные" ,Россия К
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия К
-http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные", ПЕРВЫЙ КАНАЛ HD
+https://kizug.ru/s/N2Bbp0vzwyRW/ef4bc237d72f/aHR0cHM6Ly9saXZlLW1pcnJvci0wMS5vdHQudHJpY29sb3IudHYvbGl2ZS9saXZlLzFUVl9oZC9obHNfZW5jLzFUVl9oZC1hdmMxXzIwMDAwMDA9MTAwMDRfbXA0YV81OTIwMF9ydXM9MjAwMDAubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
 
-#EXTINF:-1 group-title="Федеральные",НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://178.212.71.253:8000/play/4/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://95.66.188.74/NTV/mono.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEiYTIESDO57cjDxl6rt9ozcsid2uuOMrRg&s" , Первый канал Европа
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/e24d49f0431e/aHR0cHM6Ly9zdHJlYW1pbmcudGhlc3RyZWFtLmN5b3UvbGl2ZS8yMTAubTN1OA.m3u8
 
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mjk3NzQxMCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzcyNjEwLCJzZXNzaW9uX2lkIjoiM2EwODlkZTdiNTA2NmUwMjI0ZjlhMWJmN2E2MzM3YjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VOqy8cpjkCR5leWlq7QsXzjKw95nzNzEcJUrq9LE51g
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://tv.lamro.workers.dev/?ID=5223
+#EXTINF:-1 group-title="Федеральные", Первый канал Евразия
+https://kizug.ru/s/N2Bbp0vzwyRW/a034b9b6354a/aHR0cDovLzM3LjQ2LjQ5LjE0OjE4MDEwL3BsYXkvYTA4cC9pbmRleC5tM3U4.m3u8
 
-#EXTINF:-1 group-title="Федеральные",СТС HD
-http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mjk3NzQxMCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzcyNjEwLCJzZXNzaW9uX2lkIjoiM2EwODlkZTdiNTA2NmUwMjI0ZjlhMWJmN2E2MzM3YjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VOqy8cpjkCR5leWlq7QsXzjKw95nzNzEcJUrq9LE51g
-#EXTINF:-1 group-title="Федеральные",СТС HD
-http://tv.lamro.workers.dev/?ID=4997
+#EXTINF:-1 group-title="Федеральные" tvg-id="pervy+4", Первый канал (+4)
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/7438a449baf3/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzXzFUVl9LUkFTTl9LUkFJL3ZhcmlhbnQubTN1OA.m3u8
 
-#EXTINF:-1 group-title="Федеральные" tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,  Пятый канал 
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РОССИЯ 1
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/13348b5a0a9c/aHR0cDovL3J0LW53LXNwYi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwNF9ST1NTSUExL3ZhcmlhbnQubTN1OA.m3u8
 
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-http://95.47.156.60:8000/play/10/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-http://85.192.10.131/hls/TvciRu/playlist.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные",РЕН ТВ
-http://95.47.156.60:8000/play/11/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные", Рен ТВ
-http://95.66.188.74/RenTV/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда
-http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Федеральные",ТВ3 HD
-http://195.158.223.132:8002/TV_3
-#EXTINF:-1 group-title="Федеральные",ТВ3
-http://95.47.156.60:8000/play/15/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ3
-http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ3
-http://178.212.71.253:8000/play/15/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Домашний HD
-http://195.158.223.132:8002/Domashniy
-#EXTINF:-1 group-title="Федеральные",Домашний
-http://45.145.32.13:20440/domashnij/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные", Домашний
-http://95.66.188.74/Domashnij/mono.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные",МИР HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",МИР HD
-https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:-1 group-title="Федеральные",МИР 24
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Пятница
-http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title=""Федеральные"",Пятница
-http://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1 group-title=""Федеральные"",Пятница
-http://45.145.32.13:20440/piatnica/index.m3u8?token=test
-#EXTINF:-1 group-title=""Федеральные"",Пятница
-http://95.47.156.60:8000/play/16/index.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Viasat History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Viasat History
-http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Федеральные",2x2
-http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные", 2x2
-http://95.66.188.74/2x2/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",VIP Comedy HD
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Кинопоказ
-http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные", Кинопоказ
-http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",Кинопоказ
-http://31.148.48.15:80/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Кинопоказ
-http://95.66.188.74:80/Kinopokaz/mono.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Карусель
-http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Карусель
-http://178.212.71.253:8000/play/8/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Карусель Int.
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png", РОССИЯ 1 HD
+https://kizug.ru/s/N2Bbp0vzwyRW/89382434c36f/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvMC9ydXNzaWExLWhkLzEwODBwLm0zdTg.m3u8
 
 #EXTINF:-1 group-title="Федеральные" tvg-id="rtr-planeta-eu", RTR PLANETA
-https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+https://kizug.ru/s/N2Bbp0vzwyRW/78e763e37a39/aHR0cHM6Ly9wbGF5ZXIuc21vdHJpbS5ydS9pZnJhbWUvc3RyZWFtL2xpdmVfaWQvMTUyNTUwNGItNDQ5ZC00MzJkLWFiNWQtMWYxMTA4MWY4NjAz.m3u8
 
 #EXTINF:-1 group-title="Федеральные" tvg-id="rtr-planeta-azia", РТР Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+https://kizug.ru/s/N2Bbp0vzwyRW/eea0ddfaea34/aHR0cHM6Ly9wbGF5ZXIuc21vdHJpbS5ydS9pZnJhbWUvc3RyZWFtL2xpdmVfaWQvNjgzZDk2NDktYTk2Yy00YTRkLWI0NjgtOTFjMGVlMmJmMzYz.m3u8
+
+#EXTINF:-1 group-title="Федеральные", РОССИЯ КУЛЬТУРА
+https://kizug.ru/s/N2Bbp0vzwyRW/0a580d253c2d/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvMC9rdWx0dXJhLWhkL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="prnk-tv", Первый Российский Национальный канал
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/69b999da8767/aHR0cDovL3NlcnYyNS52aW50ZXJhLnR2OjgwODEvMXBuay9wcm5rL3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="prnk-tv", Первый Российский Национальный канал HD
+
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="match-tv", Матч!
+https://kizug.ru/s/N2Bbp0vzwyRW/34aa362269ed/aHR0cDovL2xpdmUtbWlycm9yLTAxLm90dC50cmljb2xvci50di9saXZlL2xpdmUvbWF0Y2gvaGxzX2VuYy9tYXRjaC1hdmMxXzIwMDAwMDA9MTAwMDRfbXA0YV81OTIwMF9ydXM9MjAwMDAubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="ntv", НТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/6dff199f58aa/aHR0cHM6Ly9saXZlLXN0cmVhbS0yMi5vdHQudHJpY29sb3IudHYvbGl2ZS9saXZlL05UVl8wX2hkL2hsc19lbmMvTlRWXzBfaGQtYXZjMV8yMDAwMDAwPTEwMDA0X21wNGFfNTkyMDBfcnVzPTIwMDAwLm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="ntv", НТВ HD
+https://kizug.ru/s/N2Bbp0vzwyRW/ab71fdc2d40a/aHR0cDovL2Nkbi5udHYucnUvbnR2MF9oZC90cmFja3MtdjFhMS9tb25vLm0zdTg.m3u8
 
 #EXTINF:-1 group-title="Федеральные" tvg-id="ntv-style", НТВ СТИЛЬ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru:443/th_style/playlist.m3u8
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/67652a51028a/aHR0cHM6Ly9jZG4ubnR2LnJ1OjQ0My90aF9zdHlsZS9wbGF5bGlzdC5tM3U4.m3u8
 
-#EXTINF:-1 group-title="Федеральные", НТВ Стиль
-https://stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1--NTV_Stil_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
 #EXTINF:-1 group-title="Федеральные" tvg-id="ntv-pravo", НТВ ПРАВО
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru:443/th_pravo/playlist.m3u8
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/78afeade2335/aHR0cHM6Ly9jZG4ubnR2LnJ1OjQ0My90aF9wcmF2by9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ ХИТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://cdn2.ntv.ru/th_hit/playlist.m3u8
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/3b105cbc64da/aHR0cDovL2NkbjIubnR2LnJ1L3RoX2hpdC9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ СЕРИАЛ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://cdn2.ntv.ru/th_serial/playlist.m3u8
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/44630180c082/aHR0cDovL2NkbjIubnR2LnJ1L3RoX3NlcmlhbC9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 group-title="Федеральные",НТВ МИР
-http://188.225.31.197/bpk-tv/000000079/tve/index.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/a74f55262304/aHR0cDovLzIxNy4xNzQuMjI5LjEzNjo4MDAwL3BsYXkvYTAyMA.m3u8
 
-#EXTINF:-1 group-title="Новостные" tvg-name="no_epg_news" tvg-logo="https://i.ibb.co/HF9DnTx/logo-new.png", Общественная служба новостей
-https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
+#EXTINF:-1 group-title="Федеральные", ПЯТЫЙ КАНАЛ
+https://kizug.ru/s/N2Bbp0vzwyRW/fa4495acedee/aHR0cHM6Ly9saXZlLXN0cmVhbS0wOS5vdHQudHJpY29sb3IudHYvbGl2ZS9saXZlLzVfa2FuYWwvaGxzX2VuYy81X2thbmFsLm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
 
-#EXTINF:-1 group-title="Новостные" tvg-name="no_epg_news" tvg-logo= tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png", Общественная служба новостей HD
-https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="5kanal-ru-pl2" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7f/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_International_%282023%29.png/revision/latest?cb=20231224110541&path-prefix=ru",Пятый канал Int.
+https://kizug.ru/s/N2Bbp0vzwyRW/2b66df7298c5/aHR0cDovLzE3OC4xMjQuMTUzLjEyMzo0NDQwMC81a2FuYWw.m3u8
 
-#EXTINF:-1  group-title="Новостные" tvg-id="News Front"  tvg-logo="http://i123.fastpic.org/big/2024/0804/f2/3224533c0eaac600270e7f33513b67f2.png", News Front
-https://tv.2kita.com/stream/index.m3u8
+#EXTINF:-1 group-title="Федеральные"  tvg-id="8kanal-ru", 8 канал Россия
+https://kizug.ru/s/N2Bbp0vzwyRW/c9c77cfcde35/aHR0cHM6Ly92NC5wcm9vZml4LnJ1Lzh0di1ydXNzaWEvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Федеральные"  tvg-id="8kanal-eu", 8 канал Европа
+https://kizug.ru/s/N2Bbp0vzwyRW/2c75671ae341/aHR0cHM6Ly92NC5wcm9vZml4LnJ1Lzh0di1ldXJvcGUvdHJhY2tzLXYxYTEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/otr.png", ОТР
+https://kizug.ru/s/N2Bbp0vzwyRW/0c9ceec70ee1/aHR0cDovL25lYS1saXZlLXN0cmVhbS5vdHQudHJpY29sb3IudHYvc3RyZWFtaW5nR2F0ZXdheS9HZXRMaXZlUGxheUxpc3Q_c291cmNlPW90ci5tM3U4JmRybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Федеральные", ТВЦ
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/95bd5d5648bf/aHR0cHM6Ly90dmMtaGxzLmNkbnZpZGVvLnJ1L3R2Yy1yZXMvc21pbDp2ZDkyMjFfMi5zbWlsL3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="ТВЦ", ТВ Центр HD
+https://kizug.ru/s/N2Bbp0vzwyRW/b60c6c0d9d5e/aHR0cHM6Ly9saXZlLW1pcnJvci0wMS5vdHQudHJpY29sb3IudHYvbGl2ZS9saXZlL1RWX0NlbnRlcl9IRC9obHNfZW5jL1RWX0NlbnRlcl9IRC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/REN_TV_Logo_2014.svg/600px-REN_TV_Logo_2014.svg.png", РЕН ТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/74a862af70d4/aHR0cDovLzUuMTg4LjIyMS40Mzo4MDgwL3BsYXkvcmVuLXR2.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="rentv", Рен ТВ HD
+https://kizug.ru/s/N2Bbp0vzwyRW/fd0af1d36008/aHR0cDovL2xpdmUtc3RyZWFtLTA5Lm90dC50cmljb2xvci50di9saXZlL2xpdmUvUkVOLVRWXzBfaGQvaGxzX2VuYy9SRU4tVFZfMF9oZC1hdmMxXzIwMDAwMDA9MTAwMDRfbXA0YV81OTIwMF9ydXM9MjAwMDAubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+
+#EXTINF:-1 group-title="Федеральные",РЕН ТВ International
+https://kizug.ru/s/N2Bbp0vzwyRW/7b59f2613252/aHR0cDovLzE3OC4xMzQuMS4xNTg6ODA4MS9SRU5UVi9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Федеральные", СТС HD
+https://kizug.ru/s/N2Bbp0vzwyRW/e5870d9fdab1/aHR0cDovL2xpdmUtc3RyZWFtLTAxLm90dC50cmljb2xvci50di9saXZlL2xpdmUvU1RTXzBfaGQvaGxzX2VuYy9TVFNfMF9oZC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Федеральные", СТС International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://kizug.ru/s/N2Bbp0vzwyRW/abf71f45f758/aHR0cDovLzE3OC4xMzQuMS4xNTg6ODA4MS9DVEMvaW5kZXgubTN1OD90b2tlbj10ZXN0.m3u8
+
+#EXTINF:-1 group-title="Федеральные", Домашний
+https://kizug.ru/s/N2Bbp0vzwyRW/63d50e543dc7/aHR0cDovLzMxLjEzMS4xNDEuMTk1OjgwMDAvcGxheS9hMDAxL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="ДОМАШНИЙ", Домашний HD
+https://kizug.ru/s/N2Bbp0vzwyRW/59023b82adbd/aHR0cDovL25lYS1saXZlLXN0cmVhbS5vdHQudHJpY29sb3IudHYvc3RyZWFtaW5nR2F0ZXdheS9HZXRMaXZlUGxheUxpc3Q_c291cmNlPWRvbWFzaG55Lm0zdTgmZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/500px-%D0%A2V3_logo_2023.svg.png", ТВ3
+https://kizug.ru/s/N2Bbp0vzwyRW/5035690ed3d9/aHR0cDovLzMxLjEzMS4xNDEuMTk1OjgwMDAvcGxheS9hMDAyL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Федеральные",ТВ3 HD
+https://kizug.ru/s/N2Bbp0vzwyRW/4ae2cf703701/aHR0cHM6Ly9saXZlLW1pcnJvci0wNi5vdHQudHJpY29sb3IudHYvbGl2ZS9saXZlL3R2M19oZC9obHNfZW5jL3R2M19oZC1hdmMxXzIwMDAwMDA9MTAwMDRfbXA0YV81OTIwMF9ydXM9MjAwMDAubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-name="Пятница!", ПЯТНИЦА! HD
+https://kizug.ru/s/N2Bbp0vzwyRW/d30d7b63a5e7/aHR0cHM6Ly9saXZlLXN0cmVhbS0xMC5vdHQudHJpY29sb3IudHYvbGl2ZS9saXZlL0ZyaWRheV8wX2hkL2hsc19lbmMvRnJpZGF5XzBfaGQtYXZjMV8yMDAwMDAwPTEwMDA0X21wNGFfNTkyMDBfcnVzPTIwMDAwLm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Федеральные", ПЯТНИЦА! International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://kizug.ru/s/N2Bbp0vzwyRW/fada6cbf3b4c/aHR0cDovLzE1OC4xMDEuMjIyLjE5Mzo4OC9nZW9yZ2lhX3BsYXkucGhwP2lkPWZyaWRheQ.m3u8
+
+#EXTINF:-1 group-title="Федеральные", Звезда
+https://kizug.ru/s/N2Bbp0vzwyRW/95732314b3fd/aHR0cDovL3R2Y2hhbm5lbHN0cmVhbTEudHZ6dmV6ZGEucnUvY2RuL3R2enZlemRhL3BsYXlsaXN0X3NkaGlnaC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="ЗВЕЗДА", Звезда HD
+https://kizug.ru/s/N2Bbp0vzwyRW/874c5eac5988/aHR0cDovL2xpdmUtc3RyZWFtLTA2Lm90dC50cmljb2xvci50di9saXZlL2xpdmUvenZlemRhX2hkL2hsc19lbmMvenZlemRhX2hkLm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="ЗВЕЗДА ПЛЮС", Звезда Плюс
+https://kizug.ru/s/N2Bbp0vzwyRW/504812c55e27/aHR0cDovL3R2enZlemRhLmJvbnVzLXR2LnJ1L2Nkbi96dmV6ZGFwbHVzL3RyYWNrcy12MmExL21vbm8udHMubTN1OA.m3u8
+#EXTINF:-1  group-title="Федеральные" tvg-id="zvezda-plus", Звезда Плюс HD
+https://kizug.ru/s/N2Bbp0vzwyRW/989f88000fa6/aHR0cDovL3R2enZlemRhLmJvbnVzLXR2LnJ1L2Nkbi96dmV6ZGFwbHVzL21vbm8udHMubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-id="МИР", МИР HD
+https://kizug.ru/s/N2Bbp0vzwyRW/c91456215db4/aHR0cHM6Ly9saXZlLXN0cmVhbS0xOS5vdHQudHJpY29sb3IudHYvbGl2ZS9saXZlL01pcl9IRC9obHNfZW5jL01pcl9IRC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-id="mir-kz", МИР international
+https://kizug.ru/s/N2Bbp0vzwyRW/ed53fef16889/aHR0cDovL3R2Y2RuMDEuZXNpbG5ldC5rei90di9taXIvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/dddb8cae351d/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVC92YXJpYW50Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-logo="https://federal.tv/i/tnt.png", ТНТ HD
+https://kizug.ru/s/N2Bbp0vzwyRW/819b6daadae6/aHR0cDovL2xpdmUtc3RyZWFtLTIwLm90dC50cmljb2xvci50di9saXZlL2xpdmUvdG50X2hkL2hsc19lbmMvdG50X2hkLWF2YzFfMjAwMDAwMD0xMDAwNF9tcDRhXzU5MjAwX3J1cz0yMDAwMC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Федеральные",ТНТ INTERNATIONAL
+https://kizug.ru/s/N2Bbp0vzwyRW/dbf25372a7f7/aHR0cDovLzQ2LjUzLjIwOC40OjgwL2xpdmUvNTEyMC5tM3U4.m3u8
+
+
+#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://i.ibb.co/HF9DnTx/logo-new.png", Общественная служба новостей
+https://kizug.ru/s/N2Bbp0vzwyRW/f147b1069d9d/aHR0cHM6Ly9vc25tZWRpYS5zZXJ2aWNlY2RuLnJ1L3N0cmVhbXMvMTc2MDNfODgwODkvNzIwbi9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo= tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png", Общественная служба новостей HD
+https://kizug.ru/s/N2Bbp0vzwyRW/8d0541e4ed00/aHR0cHM6Ly9vc25tZWRpYS5zZXJ2aWNlY2RuLnJ1L3N0cmVhbXMvMTc2MDNfODgwODkvMTA4MG4vaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1  group-title="Новостные" tvg-id="News Front" tvg-id="no_epg_news" tvg-logo="http://i123.fastpic.org/big/2024/0804/f2/3224533c0eaac600270e7f33513b67f2.png", News Front
+https://kizug.ru/s/N2Bbp0vzwyRW/511a65bd9730/aHR0cHM6Ly90di4ya2l0YS5jb20vc3RyZWFtL2luZGV4Lm0zdTg.m3u8
 
 #EXTINF:-1  group-title="Новостные",360 Новости
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/633b9e57fd89/aHR0cHM6Ly9lZGdlLXR2LWxsLmZhY2VjYXN0LmlvL2V2YWNvZGVyX2hsc19oaS9VQlpmRmd0S0IxSndUd29ERVJOUVZHR3MvMC5tM3U4.m3u8
 
-#EXTINF:-1 group-title="Новостные" tvg-name="no_epg_news" tvg-logo="https://i.ibb.co/68KNtzS/image-30.png" tvg-id="no_epg", ТАСС
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="360 Новости", 360 Подмосковье HD
+https://kizug.ru/s/N2Bbp0vzwyRW/e6974f67bbd3/aHR0cHM6Ly9saXZlLXZndHJrc21vdHJpbS5jZG52aWRlby5ydS92Z3Rya3Ntb3RyaW0vc21vdHJpbS1saXZlLTAzLXNydC5zbWlsL3RyYWNrcy12NWExL21vbm8ubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://i.ibb.co/68KNtzS/image-30.png" tvg-id="no_epg", ТАСС
+https://kizug.ru/s/N2Bbp0vzwyRW/7b90c790b84a/aHR0cHM6Ly90YXNzLWhscy5zZXJ2aWNlY2RuLnJ1L2h0dHBzdHJlYW1lci90YXNzLWxvb3AtbWFpbi5zdHJlYW0vcGxheWxpc3QubTN1OA.m3u8
 
 #EXTINF:-1 group-title="Новостные",RTVI
-http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/eee7a73e06bd/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvcnR2aS8xL2luZGV4Lm0zdTg.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="rbk", РБК
-http://stream-msk-07.ott.tricolor.tv/dtv/id191_MSKSG-PVR-1--RBK_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
+https://kizug.ru/s/N2Bbp0vzwyRW/f942053c3353/aHR0cDovL3N0cmVhbS1tc2stMDcub3R0LnRyaWNvbG9yLnR2L2R0di9pZDE5MV9NU0tTRy1QVlItMS0tUkJLX1RWLzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-id="rbk", РБК HD
-http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/46c669a3fdf6/aHR0cDovL29ubGluZS52aWRlby5yYmMucnUvb25saW5lL3JiY3R2XzEwODBwL2luZGV4Lm0zdTg.m3u8
 
 #EXTINF:-1 group-title="Новостные", Россия 24
 #EXTVLCOPT:http-user-agent=KizugTV
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/a23dfb8bfa2a/aHR0cDovL3ZndHJrcmVnaW9uLXJlZy5jZG52aWRlby5ydS92Z3Ryay8wL3J1c3NpYTI0LWhkLzEwODBwLm0zdTg.m3u8
 
-#EXTINF:-1 group-title="Новостные", ОБКОМ ТВ
-http://omsk-kprf.ru/hls/stream.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://i.ibb.co/FqRbB9G/Obkom-TV.jpg", Обком
+https://kizug.ru/s/N2Bbp0vzwyRW/1bba242c3022/aHR0cDovL29tc2sta3ByZi5ydS9obHMvc3RyZWFtLm0zdTg.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="ldpr-tv" tvg-logo="https://data.cyclowiki.org/images/4/4d/Ldpr-tv.png", ЛДПР ТВ
 #EXTVLCOPT:http-user-agent=KizugTV
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/9da0ec36033a/aHR0cDovLzQ2LjQ2LjE0My4yMjI6MTkzNS9saXZlL21wNDpsZHByLnN0cmVhbV83MjBwL3BsYXlsaXN0Lm0zdTg.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="ldpr-tv" tvg-logo="https://data.cyclowiki.org/images/4/4d/Ldpr-tv.png", ЛДПР ТВ HD
 #EXTVLCOPT:http-user-agent=KizugTV
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/bc34fa1a28fa/aHR0cDovLzQ2LjQ2LjE0My4yMjI6MTkzNS9saXZlL21wNDpsZHByLnN0cmVhbS9wbGF5bGlzdC5tM3U4.m3u8
 
-#EXTINF:-1 group-title="Новостные",Соловьев Live
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 group-title="Новостные",Соловьев Live
-http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="solovjinypomiot" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e0/%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%A2%D0%92_%28%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%29.png/revision/latest/scale-to-width-down/1000?cb=20220318072307&path-prefix=ru",Новороссия ТВ (Донецк)
+https://kizug.ru/s/N2Bbp0vzwyRW/d03f017ed485/aHR0cDovLzMxLjEzMS4xMzkuMjUzOjkwMDIvbm92b3Jvcy9pbmRleC5tM3U4.m3u8
 
-#EXTINF:-1 group-title="Новостные" tvg-id="solovjinypomiot" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ed/%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F.png/revision/latest/scale-to-width-down/1200?cb=20210301200256&path-prefix=ru", Новороссия ТВ
-http://185.229.235.30:8005/udp/225.15.3.149:2345
-
-#EXTINF:-1 group-title="Новостные" tvg-id="Настоящее время", Настоящее время HD (ИНОАГЕНТ) VPN
-https://clck.ru/3F6ZUq
-
-#EXTINF:-1 group-title="Новостные" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEUbhtb///////wah9YAf9T8//8bhtj///3//f3///r9//0ahdQAgdQAe9UShdj7/v8AfdrZ6/fh7/Qbh9Lr9vrm9/oAfdQYiNIXht7f8ff/+//X6/gAf9kAfs7k7/jt9fw7ldbz/fsvjtPP4/Pe7Pzc6PE+l9UnkNonjdIpjt1cqeUAetlMmtvU5PHP4vbV7vgQmbyyAAAKBElEQVR4nO2dfXObOBDGES+SQSAHK0ftJiZpWl+b6137/b/daQG/gIUQNkVkZn8z91c7lMfSo5WWXZ3nIQiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIMjUUCmnfmTA+dSPvANKuZj8md52QRIDGUyu0JM8mPyZNyPSsnyY+JH88VtIp33mjfBPINAnm9CbbBzVlEgfGdsVYnJ730Cw9cKS+MTPw8l8UwkkK3bYiwXMVC6LMo4jRsgum2pW0fSFfGYRIfkSJqoI1RQlCYsTtpnIi8J7JCRerRNG8myaR94KeLAS2LB5loLe+atLKdK//Kh6XuL7h8ypF48ePPHtp3evGQMvffQjv3roKl6zfC8cxkXwoB9HyUkh24Uqit01ijR9JFEzhtHKZ+R36HC1qcIEOStkIFHepVB4L2rR8uuJkaxXSULyws1ywwOuPEiuKLPbd3BcCn704Im48uL0e6ZBPm1lWKoVtKtQxembfUPp2YOn5/lr/7B3MVMpLUpSxcE2kZpVtz5TiJeTB4+sP/ux8qKDMaQQJhISdxXeERcFf2GrowfPEpn6Z/LJdhN2VB7c+V1xJzY3eFEGNP0rjrTPi2J/l4X3rdHjqD3I9K8DlNlohbAXjSP/ak4A4MVduJ3Ti7SKg1cePJLcsKGEvajyoPaZyov+vF6s42Ci/b0B9aLlwziJagTJisRMP4ZrpoLuYS4v0qC1F+1jM2JFVR70VBw0PpSpuFjQOTZwlAbgwUGFYw5TgRAqDpofCl7M93SGmSp50N6L9pCwPLR+aHodB7tUcbH8NIdCIUr4RYcUMhUXLSdq5cF44IlsTRjL03nW04eNfx3pdYQ0GJypkJPpi4NtfBX3+TyLDQ1zMjhLbRWa4mBH4FN27/HaGh7uLJYaO4XCEAfbAg8Fp3ImiYJnm4kUggdZXxxs8VSoh801htSrJA6uNkMKlQfF1XlQA1ORZDYPHuFZfv8YKg++dM+DOtQcntGD1Zup/2RmOFxYKhQWcbAaQ7Vjm8+DQMA9Knixu1MhCCRX50Ed+ZwePKK8+FyyyLhCmBRWcdBi/BJIfc/twYaAZztifEWTQoiDVh5cwQHfhcBq+xTmxjc0KRzhwRnj4CW1F0NjXDQoVKcJ9fJ2HhTze/CChw1Jet+yT+EID7JqkXGKiou9r9qncIQHnwrhIJHYghf9B/4+hVSTF9VzUAcwFx5sv22qye0bFcL3weu8qA41gp6TdbQNBS9qzwY6haa86CUJhImbs+dTU5RMe17UKbQ9D1ZxULhcRFtkufUYNh60OF8eikC49uARSvfauKhRSKUhL9riyXEc7KC8yK4zxBqF4u/IhzBnFLdSf74cDzZA7uZq+dDNUvE9YT4blLgkDzaow9TVW+sUcvEd8oIDU3RJHjxCRXEVF7UKufjxhZjDPfu9LA+eeCg7XuyL+G8RS1hPwHeSk7Gm68W+XVv6njClURtDISdTLGAfo4cXG2aj0OPvUcz0MXH+nMwYBG3nUXvPFly8fen79PFUeIv0YAXkbjbs/OqmE/DbGmZ0exhhWJfrwQZeXGzgTFmMELyo5mrHg3m22PEDIHcTPJwlmhRy/r6Oo3bQWDnLydgCuZtt8LyzURh46Y8vcWeW5pmDvOhY6m8adVwcyggrL57iYlUS7DwnYwfnWTk8hkD4HpNjXIScTOY8J2MDeFEtN76NQs97h5MGa+Kg2osuqImklyqP2uRuBr89eenbl2PKrcqLLt6EZ6rcjc0X0reIJMkqqReZDwV40eorN8RFEufu86JjkUVupVDtUddqq5a5z4uOhYr0MbWpxeDpmxpBuYS86DgET78HHh2s8OGShv+kC9+LapFbuQ4tFMowffXLpaWdbKDyhdjUaIn0lflsEQ1O4xDpC7NSqASS9YqMrUd1TFUvGkfDa6kU6RupK8jK/UdaaqBeNI78wYgvt+lrROp9KaSf5nq/CWi+0Q/X07wx0uxLE1ba16O65lizPTiG4StUqtbpYTWSm4/hxapWrfk+aDwBq7+n9qSt/Oom/Qg778tv9EaFtQdbh3wGe5vFc1knY66nUWGi05QSkdJxV6wFdb1o843eqPAVykrbqX0fvDjn246m+kZ/8dGlVyHEwUhfK74J+d29xH+OoNM/2FsxpPHg2YvT9fVPD+3UqvUpFOl3EvU0hkVkl8k7e4n/GFCr1qoX7f32pOJg14NH4kiFfr5EhbpaNe0XUknVCJq/cm/2Szwv6mrVtPU0IYxgf7Vf7cWfC/Ri14N9CmkdB41juI5H9EzNRSsOmhSCwCQZ6FOLlhYXJdf3Lukqhv4lw1WXwKaY/mam2+mrVdOOYWnoH76kLBakUPTUqmkrhtJvVj1TCSnTxSyogvfUqukrhva99aiXqDkx9d1TN9LsRbXe0kf8qgbOahw3hVzALUp1HNSvjT17GrrP9bU0V+yeFzBRdXFwQKFHn62a+6CX2L0XjT28/efDwkqi+uEce5FT4Zlqtg0n4IfNQP/9kTKdVVIHtYl+MdVsm874qWUvMcmfHe5RIXVvqtk2KaSFRYsmgSqinbs9KsRBYqrZNuZLpV0vse8sj6ri4GAPr3EMqxq4/ttDLoHczZzaaqQ33MM7kPPmhaFnqjWOTnI3InxkQ71L5qovfW24jmjCOxmtgTg42MNrVFj1L2Z2e9Tp7mS0pJsXvUUhUHnRX9vtUZ/ldr48ajcveqtCb4QXSf4wY03Y5d2G9yhsauCsBCZw1d1ceVQrD1opBC9Ku204W7MylXNEDfXO/JF9Hoxj0D8YBla1atqeKR3lLBcLc0++MMJWQ28D/YOWtx3Sob7+s8Q5bojkW/6NraL10Musqh5ey2cO9PWf+G+WxYYHEKcHzwWs6h+0Y6iv/8jXbJbrzOBYcCAsWfXf91X10Y+qF6XGvv4a/+t8H4jFPid+vOqdqbf00Yc7cx41Ir9+/iE5GqRQxln7vasNu6GPnj+b46L/a9bLdgOaHZghX3ZTH31/Xz/wdfaETQZZCHY9Ue/o4X0oiT53w2b14BGx/01i//OVxOqigNt6eGnam0f95SDl1njx6lzA7ujhpc/6i5lm9uAR7hUHTZqN3dFHH0h9HlV50E12Xy03cBnr+Xw3Qf8g5FFbPxt40F1WWIS/iX/hxQn6BzV3Mrrw4BEZtr04xZ1O3TsZ/V8uS91EILLcPx+F2dP9/YPdOxkdTtEaOPlAXGRT3S/a3MlYezFyEQe7hGETF6e7XxQ2cI2359yL9rKtvDjZ/aJV7iarz4sqDk7wgvdCPZEd4phNdb9o1UtM6zs2vi5hBAH4jDTpXRbVnYxuw0QHsS+nvtuQF+V/7heZE5x+SqfsowcvCun0428XQfmUffTKi0KKRf3vAREEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDko/A/OeKJRmJSZ/cAAAAASUVORK5CYII=", ХОДОРКОВСКИЙ LIVE (ИНОАГЕНТ)
-http://radioserver.abinet.com:8815/udp/127.0.0.1:6002
+#EXTINF:-1 group-title="Новостные" tvg-id="solovjinypomiot", СОЛОВЬЁВLIVE
+https://kizug.ru/s/N2Bbp0vzwyRW/7eadf3cf95a2/aHR0cHM6Ly9zdHJlYW0tbXNrLTE1Lm90dC50cmljb2xvci50di9kdHYvaWQ5NzlfTVNLU0ctUFZSLTEtLVNvbG92aWV2TGl2ZS8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="rtd-ru", RT Д
-https://stream-msk-01.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1--RTD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
-
-#EXTINF:-1 group-title="Новостные" tvg-id="360 Новости", 360 Новости HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/11e1d1b43b39/aHR0cHM6Ly9zdHJlYW0tbXNrLTAxLm90dC50cmljb2xvci50di9kdHYvaWQzNTdfTVNLU0ctUFZSLTEtLVJURC8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-name="Известия" tvg-logo="https://toplogos.ru/images/logo-iz.png", Известия
-https://stream-msk-01.ott.tricolor.tv/dtv/id919_MSKSG-PVR-1--Izvestiya/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
+https://kizug.ru/s/N2Bbp0vzwyRW/4f3a72b1b375/aHR0cHM6Ly9zdHJlYW0tbXNrLTAxLm90dC50cmljb2xvci50di9kdHYvaWQ5MTlfTVNLU0ctUFZSLTEtLUl6dmVzdGl5YS8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
 
 #EXTINF:-1 group-title="Новостные", Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-
-#EXTINF:-1 group-title="Новостные" tvg-logo="https://i.ibb.co/FqRbB9G/Obkom-TV.jpg", Обком
-http://omsk-kprf.ru/hls/stream.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/e04e5b28b894/aHR0cDovL2hscy1pZ2kuY2RudmlkZW8ucnUvaWdpL2lnaV9ocS9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="rzhd-tv", РЖД ТВ
-http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/5263816b2eca/aHR0cDovL2hscy50dmEuY2RudmlkZW8ucnUvdHZhL3R2YS5zZHAvcGxheWxpc3QubTN1OA.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-logo="https://i.ibb.co/yp85zbS/RZHD-TV.png" tvg-id="rzhd-tv", РЖД ТВ HD
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/ab1c5f9b396b/aHR0cDovL2hscy50dmEuY2RudmlkZW8ucnUvdHZhL3R2YWhkLnNkcC9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="Мир 24", Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/4d9479b5cb18/aHR0cDovL2hscy5taXJ0di5jZG52aWRlby5ydS9taXJ0di1wYXJhbXB1Ymxpc2gvbWlyMjRfMjUwMC9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 group-title="Новостные", Вместе-РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/e8b6c2469c2b/aHR0cHM6Ly9xY3BkcXVtaXR3Zi5hLnRyYmNkbi5uZXQvbGl2ZW1hc3RlcnNydC9wcjRtd19sdmllLXZtZXN0ZXJmLXNydC5zbWlsL3BsYXlsaXN0Lm0zdTg.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="krik-tv" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/9eeb7e709b0b078974851708d4a43296.png", Крик-ТВ HD
-http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/07adb134b984/aHR0cDovL2hscy1yaWN0di5jZG52aWRlby5ydS9yaWN0di9yaWN0di1zcnQtc3RyZWFtL3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные" tvg-id="Крым 24", Крым 24
+https://kizug.ru/s/N2Bbp0vzwyRW/c35d009ead68/aHR0cHM6Ly9zdHJlYW1pbmcudGVsZXZpem9yLTI0LXRvY2hrYS5ydS9saXZlLzI4Lm0zdTg.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="Крым 24", Крым 24 HD
 #EXTVLCOPT:http-user-agent=KizugTV
-http://iptv.crimea.net:8787
+https://kizug.ru/s/N2Bbp0vzwyRW/37ccd115b753/aHR0cDovL2lwdHYuY3JpbWVhLm5ldDo4Nzg3.m3u8
 
-#EXTINF:-1 group-title="Новостные" tvg-id="Крым 24", Крым 24
-https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="Крым 24",КРЫМ 24 (VPN)
+https://kizug.ru/s/N2Bbp0vzwyRW/2f7b3a908ce4/aHR0cHM6Ly9jZG4uMXR2Y3JpbWVhLnJ1LzI0dHZjcmltZWEubTN1OA.m3u8
 
-#EXTINF:-1 group-title="Новостные" tvg-logo="https://i.postimg.cc/SsrGCbQ7/Screenshot-1.jpg" tvg-id="no_epg_news", Russian Television Network of America
-#EXTVLCOPT:http-user-agent=KizugTV
-http://4.59.210.197:8815/udp/127.0.0.1:6002
+#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://static.wikia.nocookie.net/faketvchannels/images/c/c4/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F433_20240820140137.png/revision/latest/scale-to-width-down/250?cb=20240830113155&path-prefix=ru", RTN
+https://kizug.ru/s/N2Bbp0vzwyRW/ca6d33cdc42b/aHR0cDovL3JhZGlvc2VydmVyLmFiaW5ldC5jb206ODgxNS91ZHAvMTI3LjAuMC4xOjYwMDI.m3u8
 
 #EXTINF:-1 group-title="Новостные", Москва 24
-https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
+https://kizug.ru/s/N2Bbp0vzwyRW/db69335482c4/aHR0cHM6Ly9zdHJlYW0tbXNrLTEzLm90dC50cmljb2xvci50di9kdHYvaWQyNTRfTVNLU0ctUFZSLTEtLU1vc2t2YTI0LzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
 
-#EXTINF:-1 group-title="Новостные", Про Бизнес
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Новостные", Про бизнес
+https://kizug.ru/s/N2Bbp0vzwyRW/0cf1e38eef8b/aHR0cHM6Ly90di1zdHJlYW1pbmcuYnNoLnJ1OjIxOTM4L3Byb2J1c2luZXNzL3Byb2J1c2luZXNzLnN0cmVhbS9jaHVua2xpc3QubTN1OA.m3u8
 
-#EXTINF:-1 group-title="Новостные" tvg-name="Tv Brics", Tv Brics russian
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="Tv Brics", Tv Brics russian
+https://kizug.ru/s/N2Bbp0vzwyRW/fe1a5d7b640b/aHR0cDovL2JyaWNzLmJvbnVzLXR2LnJ1L2Nkbi9icmljcy9ydXNzaWFuL3RyYWNrcy12MWExL21vbm8ubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/34/Euronews_2022_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20230202105747&path-prefix=ru", EURO NEWS
+https://kizug.ru/s/N2Bbp0vzwyRW/642bf080405d/aHR0cHM6Ly9zdHJlYW04LmNpbmVyYW1hLnV6LzEwMjQvdHJhY2tzLXYxYTEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные",Кавказ 24
+https://kizug.ru/s/N2Bbp0vzwyRW/db1ec87e9580/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvc3RhdnJvcG9sL2thdmthejI0LWhkL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные",Сибирь 24
+https://kizug.ru/s/N2Bbp0vzwyRW/7aec41c887f2/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvbm92b3NpYmlyc2svc2liaXIyNC1oZC9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные",Восток 24
+https://kizug.ru/s/N2Bbp0vzwyRW/bb70fa301f9f/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvdmxhZGl2b3N0b2svdm9zdG9rMjQtaGQvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Новостные",Запад 24
+https://kizug.ru/s/N2Bbp0vzwyRW/c796d840d192/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsva2FsaW5pbmdyYWQvemFwYWQyNC1oZC9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные",Башкортостан 24
+https://kizug.ru/s/N2Bbp0vzwyRW/d92be1f63ac2/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvdWZhL2Jhc2hrb3J0b3N0YW4yNC1oZC9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные",Урал 24
+https://kizug.ru/s/N2Bbp0vzwyRW/2308c4217be7/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvY2hlbHlhYmluc2svdXJhbDI0LWhkL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные",Нижний Новгород 24
+https://kizug.ru/s/N2Bbp0vzwyRW/82f13a295a19/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvbmlnbml5bm92Z29yb2Qvbmlnbml5bm92Z29yb2QyNC1oZC9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные",Арктика 24
+https://kizug.ru/s/N2Bbp0vzwyRW/a4f69935439e/aHR0cHM6Ly92Z3Rya3JlZ2lvbi1yZWcuY2RudmlkZW8ucnUvdmd0cmsvYXJoYW5nZWxzay9hcmt0aWthMjQtaGQvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Новостные",Мир 24
+https://kizug.ru/s/N2Bbp0vzwyRW/3b6cefa96bfc/aHR0cDovLzQ1LjE0NS4zMi4xMzoyMDQ0MC9taXJfMjQvaW5kZXgubTN1OD90b2tlbj10ZXN0.m3u8
+
+#EXTINF:-1 group-title="Новостные",Эхо ТВ 24
+https://kizug.ru/s/N2Bbp0vzwyRW/1fd017d589bd/aHR0cDovL3N0cmVhbS5ub3ZvdXJhbHNrLW5ld3MucnUvZWNob3R2MjQvZWNob3R2MjQtNTc2cC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные",Мордовия 24
+https://kizug.ru/s/N2Bbp0vzwyRW/019c449217cb/aHR0cHM6Ly9saXZlLW1vcmRvdmlhMjQuY2RudmlkZW8ucnUvbW9yZG92aWEyNC9zdHJlYW10ci90cmFja3MtdjFhMS9tb25vLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные",Сочи 24
+https://kizug.ru/s/N2Bbp0vzwyRW/c1fa0f742a48/aHR0cDovL3NlcnYzMC52aW50ZXJhLnR2OjgwODEvc29jaGkvc29jaGkyNF90di9wbGF5bGlzdC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные",Архыз 24
+https://kizug.ru/s/N2Bbp0vzwyRW/04d8011281fb/aHR0cDovL2xpdmUubWVkaWFjZG4ucnUvc3IxL2FyaGlzMjQvcGxheWxpc3Rfc2RoaWdoLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные",Архыз 24 HD
+https://kizug.ru/s/N2Bbp0vzwyRW/222a90fa4963/aHR0cDovL2xpdmUubWVkaWFjZG4ucnUvc3IxL2FyaGlzMjQvcGxheWxpc3RfaGRoaWdoLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные",Астрахань 24
+https://kizug.ru/s/N2Bbp0vzwyRW/36ef8a737608/aHR0cDovL3N0cmVhbWluZy5hc3RyYWtoYW4ucnUvYXN0cmFraGFuMjQvdHJhY2tzLXYyYTEvbW9uby50cy5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Новостные",Белгород 24
+https://kizug.ru/s/N2Bbp0vzwyRW/67858121fd2f/aHR0cDovL2JlbG5vdm9zdGkuY2RuLmVhc3lob3N0ZXIucnU6ODA4MC9zdHJlYW0ubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Новостные",Волга 24
+https://kizug.ru/s/N2Bbp0vzwyRW/bc8abdcb9469/aHR0cDovL2xpdmUtbm50djIuY2RudmlkZW8ucnUvbm50djIvdnJlbXlhbi9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="no_epg_radio" tvg-logo="https://radiopotok.ru/f/station/512/962.png", Радио Спутник (Веб-камера)
-https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/090f2d2a2166/aHR0cHM6Ly9saXZlLXJpYW4uY2RudmlkZW8ucnUvcmlhbi9ydXMtcmFkaW8vcGxheWxpc3QubTN1OA.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-logo="https://i.postimg.cc/NFR7YhFQ/vestifm.png",Вести ФМ
-https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+https://kizug.ru/s/N2Bbp0vzwyRW/464c6cbd5f33/aHR0cHM6Ly9wbGF5ZXIuc21vdHJpbS5ydS9pZnJhbWUvc3RyZWFtL2xpdmVfaWQvMDQ4N2ZkNzktNjBlNi00MzMzLWE1NDUtOTA5ZDZlMDE1MTcz.m3u8
 
-#EXTINF:-1 group-title="Новостные",EURO NEWS
-http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
+#EXTINF:-1 group-title="Новостные",9 канал (Израиль)
+https://kizug.ru/s/N2Bbp0vzwyRW/3613b108bde1/aHR0cDovL3Rpbnl1cmwuY29tL1R2WmFUYWszMS9PUllwVHVFU1RpL2NuYjB5OW4zNjMzd2Izd25wcHJpNHdnNj8.m3u8
+
+#EXTINF:-1 group-title="Новостные",OstWest
+https://kizug.ru/s/N2Bbp0vzwyRW/5c50e702c3fd/aHR0cDovL3Rpbnl1cmwuY29tL1R2WmFUYWszNy9Pc3RXZXN0L3ZpZGVvLm0zdTg_dG9rZW49ZnJlZXBvcnRhbCZ0b2tlbj1kZW9vbGVn.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png", Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://i.imgur.com/M8wbVYK.png", AccuWeather Now
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/0c059889f72e/aHR0cHM6Ly9kN3g4ejR5dXE0MnFuLmNsb3VkZnJvbnQubmV0L2luZGV4XzcubTN1OA.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png", CNN International
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-
-#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png", Bloomberg TV eu
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-
-#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png", Bloomberg TV us
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-
-#EXTINF:-1 group-title="Новостные" tvg-logo="https://i.ibb.co/xHTkkpg/0cf8b4b469ee1a43383c7841549fc542.png", BBC World News
-https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+https://kizug.ru/s/N2Bbp0vzwyRW/05ea42763927/aHR0cHM6Ly9kczJjNTA2b2JvN204LmNsb3VkZnJvbnQubmV0L3YxL21hc3Rlci8zNzIyYzYwYTgxNWMxOTlkOWMwZWYzNmM1YjczZGE2OGE2MmIwOWQxL2NjLTd6anEzdGRxYXNiZzgvaW5kZXgubTN1OA.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/newsmax-us.png", Newsmax TV 
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-
-#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://play-lh.googleusercontent.com/McVghG8NNW9800RAmf1ZXTv2FguV12AvJnPW9Mv8RbK9uLkVZQZX--ee1cJz3Sv_17A=w600-h300-pc0xffffff-pd", Deutsche Welle HD (ИНОАГЕНТ)  VPN
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/74c31f3b3e50/aHR0cHM6Ly9ubXgxb3RhLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjEwNzAxMC9MaXZlXzEvaW5kZXgubTN1OA.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-name="RT" tvg-logo="https://i.ibb.co/Z8pz7k4/image-39.png", RT News
-http://stream-msk-04.ott.tricolor.tv/dtv/id289_MSKSG-PVR-1--RT/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
+https://kizug.ru/s/N2Bbp0vzwyRW/f4e1e53ef8c5/aHR0cDovL3N0cmVhbS1tc2stMDQub3R0LnRyaWNvbG9yLnR2L2R0di9pZDI4OV9NU0tTRy1QVlItMS0tUlQvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
 
-#EXTINF:-1 group-title="Новостные" tvg-logo="http://ottpink.network/picons/euronewsru.png",Euronews HD
-http://portal.ott.pink/C4UK_EuronewsRU/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="Новостные", EURONEWS
-https://flussonic.salomtv.uz/EURONEWS/video.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-logo="http://ottpink.network/picons/dozhdsd.png",Дождь HD
-http://portal.ott.pink/C5UK_DozhdSD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="Новостные" tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее время HD
-http://portal.ott.pink/C4UK_NastoyascheeVremyaHD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://muzz.one/wp-content/uploads/2018/07/radio-rossii-online/Radio-Rossii-logotip-350x350.jpg", Радио России Веб
-http://a0925677.xsph.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://radiopotok.ru/f/station/512/644.png", Радио Вести FM Веб
-http://a0925677.xsph.ru/hls/CH_MCMHD720_IRK.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="no_epg_news" tvg-logo="https://play-lh.googleusercontent.com/McVghG8NNW9800RAmf1ZXTv2FguV12AvJnPW9Mv8RbK9uLkVZQZX--ee1cJz3Sv_17A=w600-h300-pc0xffffff-pd", DW Russian (ИНОАГЕНТ)
+https://kizug.ru/s/N2Bbp0vzwyRW/aaf85205e3d9/aHR0cHM6Ly9kd2FtZHN0cmVhbTExMC5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTc5NzEvZHdzdHJlYW0xMTAvbWFzdGVyLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные" tvg-id="Настоящее время"  tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее время (ИНОАГЕНТ) VPN
+https://kizug.ru/s/N2Bbp0vzwyRW/ba44bb149393/aHR0cHM6Ly9yZmVybC1pbmdlc3QuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMTIxNjU3L3R2bWMwNS9wbGF5bGlzdF8xMDgwLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные" tvg-id="Настоящее время"  tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее Время HD (ИНОАГЕНТ) VPN
+https://kizug.ru/s/N2Bbp0vzwyRW/00b32916dc1e/aHR0cHM6Ly9kYXNoMy5hbnRpay5zay9saXZlL3Rlc3RfY3VycmVudF90aW1lX2F0a3R2L3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Новостные", Царьград
+https://kizug.ru/s/N2Bbp0vzwyRW/d76001dc386e/aHR0cHM6Ly9ibC5ydXR1YmUucnUvbGl2ZXN0cmVhbS85MTgxNWRhNGVkYjE2N2I1YmQ2MTdiYWU0OTBlNTdkYS9pbmRleC5tM3U4P3M9YTc1el9vR3hhS0Jac0hEV0x4Uzg0ZyZlPTIwNjUyNjUwNzAmc2NoZW1lPWh0dHBz.m3u8
+
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://epg.iptvx.one/picons/svoboda.png",Svoboda
+https://kizug.ru/s/N2Bbp0vzwyRW/54ef284ac3a8/aHR0cDovLzkxLjIyOC4zNS4yNDk6ODAwMS8xOjA6MTY6NjU6MmZhODoxM2U6ODIwMDAwOjA6MDowOg.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://dl.dropbox.com/scl/fi/ogv0ekjjnw9ixt4y6mowe/2025-04-05-002814.png?rlkey=ziyvi89fv39mp5vcbnn068o67&dl=0",Svoboda News
+https://kizug.ru/s/N2Bbp0vzwyRW/c88630b00522/aHR0cDovLzkxLjIyOC4zNS4yNDk6ODAwMS8xOjA6MTY6NjY6MmZhODoxM2U6ODIwMDAwOjA6MDowOg.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://dl.dropbox.com/scl/fi/ly3x7mxz82mtbeoqe667j/2025-04-05-002253.png?rlkey=nyudoqdmb849zz442xemmue7s&dl=0",Гордон Live
+https://kizug.ru/s/N2Bbp0vzwyRW/83dd2398778c/aHR0cDovLzkxLjIyOC4zNS4yNDk6ODAwMS8xOjA6MTY6Njc6MkZBODoxM0U6ODIwMDAwOjA6MDow.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://epg.iptvx.one/picons/russfuture.png",Russia's Future
+https://kizug.ru/s/N2Bbp0vzwyRW/9bbe1e79b128/aHR0cDovLzkxLjIyOC4zNS4yNDk6ODAwMS8xOjA6MTY6Njg6MmZhODoxM2U6ODIwMDAwOjA6MDowOg.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://epg.iptvx.one/picons/eqtv.png",eQtv
+https://kizug.ru/s/N2Bbp0vzwyRW/6728f1ed037c/aHR0cDovLzkxLjIyOC4zNS4yNDk6ODAwMS8xOjA6MTY6NzI6MkZBODoxM0U6ODIwMDAwOjA6MDow.m3u8
 
 #EXTINF:-1 group-title="HomeTV (нестабильные)", BCU Action HD
 https://tinyurl.com/24e6oqy8
@@ -3730,6 +3751,455 @@ http://cdntv.online/high/v6rf4syijn/518.m3u8
 #EXTINF:0 tvg-id="519" tvg-logo="http://epg.cdntv.online/img/519.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", FoodTime
 #EXTGRP:Кулинарные
 http://cdntv.online/high/v6rf4syijn/519.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/photo_2026-01-20_16-57-44-kopiya.png" tvg-id="no_epg", Первый Туристический Канал HD (VPN)
+https://kizug.ru/s/N2Bbp0vzwyRW/da7a49f392a2/aHR0cDovLzkxLjE4Ni4xOTYuMTg1L2hscy9ob3RlbHMvc3RyZWFtLm0zdTg.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/6962e7a1-a974-4fbd-a82a-aac2fcd41d1e", Делать не переделать
+https://kizug.ru/s/N2Bbp0vzwyRW/c4c4ad34fd62/aHR0cHM6Ly9zdHJlYW0tbXNrLTE1Lm90dC50cmljb2xvci50di9kdHYvaWQ5MDdfTVNLU0ctUFZSLTEtLUtpbm96YWxfOC8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/c7b1aaa8-c7fc-4caa-9537-ff42d385bfbb" tvg-id="no_epg", ЖИЗНЬ В ДЕРЕВНЕ
+https://kizug.ru/s/N2Bbp0vzwyRW/93cd05aae8d5/aHR0cHM6Ly9zdHJlYW0tbXNrLTE5Lm90dGdvb2RzLnJ1L2R0di9pZDEwNjZfTVNLU0ctUFZSLTEtLUtpbm96YWxfMTMvMDIvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 tvg-id="bobior" group-title="Познавательные", Бобёр
+https://kizug.ru/s/N2Bbp0vzwyRW/ed57e96347a6/aHR0cHM6Ly9zdHJlYW0tbXNrLTEwLm90dC50cmljb2xvci50djo0NDMvZHR2L2lkMTYyX01TS1NHLVBWUi0xLS1Cb2Jlci8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="Ep!c", Ep!c
+https://kizug.ru/s/N2Bbp0vzwyRW/054756704555/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvZHR4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="Ep!c", Усадьба
+https://kizug.ru/s/N2Bbp0vzwyRW/777e83caf7e7/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvdXNhZGJh.m3u8
+
+#EXTINF:-1 group-title="Познавательные", УСАДЬБА
+https://kizug.ru/s/N2Bbp0vzwyRW/bc78db0d59ac/aHR0cDovL2Nkbi5rdWJ0ZWx0di53b3JrZXJzLmRldi8_SUQ9Mzg.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Наша тема
+https://kizug.ru/s/N2Bbp0vzwyRW/116bf893358e/aHR0cDovL2xpdmUtMy5vdGNuZXQucnUvbmFzaGF0ZW1hL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Московский образовательный
+https://kizug.ru/s/N2Bbp0vzwyRW/bb9805a2d297/aHR0cDovL3JldGouZWR1Y29tLnJ1L21vc29icnR2L3R2MS9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="Познавательные", Загородная жизнь
+https://kizug.ru/s/N2Bbp0vzwyRW/5702220cb05a/aHR0cDovLzE4NS41Ny42OC4zMy80MC9tcGVndHM.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://img.catcast.tv/uploads/11082021/logos/40546-6113be283e1cb.jpg", LAYM GOLD TV
+https://kizug.ru/s/N2Bbp0vzwyRW/dd5d7a30d331/aHR0cHM6Ly92Mi5jYXRjYXN0LnR2L2NvbnRlbnQvNDA1NDYvaW5kZXgubTN1OD90b2tlbj1lYmE1OTlmMjc4MTQ4N2E4NTFmN2JjMzAyYmYwNWYwYw.m3u8
+
+#EXTINF:-1 tvg-id="zagorodny" group-title="Познавательные", Загородный
+https://kizug.ru/s/N2Bbp0vzwyRW/3bdfe4a61441/aHR0cDovL3N0cmVhbS1tc2stMDQub3R0LnRyaWNvbG9yLnR2L2R0di9pZDE1NV9NU0tTRy1QVlItMS0tWmFnb3JvZF9UVi8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="zagorodny-int", Загородный Int HD
+https://kizug.ru/s/N2Bbp0vzwyRW/d8f2a961701f/aHR0cHM6Ly9zdHJlYW0tbXNrLTA2Lm90dC50cmljb2xvci50djo0NDMvZHR2L2lkNjE1X01TS1NHLVBWUi0xLS1aYWdvcm9kbml5X2ludF9IRC8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Первый медецинский
+https://kizug.ru/s/N2Bbp0vzwyRW/fe679a9dac09/aHR0cHM6Ly9ycTNxbHR4bmJ4MS5hLnRyYmNkbi5uZXQvbGl2ZW1hc3Rlci84aHd4bnE0czB2X2VmaXIwX3Rjb2RlMTA4MHAvcGxheWxpc3QubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные", МУЖСКОЙ
+https://kizug.ru/s/N2Bbp0vzwyRW/0030360592bf/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvbXV6aHNrb3k.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="https://e7.pngegg.com/pngimages/386/732/png-clipart-airplane-aircraft-logo-airplane-blue-logo-thumbnail.png", Авиакатастрофы
+https://kizug.ru/s/N2Bbp0vzwyRW/60e39e5e6610/aHR0cHM6Ly9saXZlLW1pcnJvci0xOS5vdHQudHJpY29sb3IudHYvZHR2L2lkMTAzN19NU0tTRy1QVlItMS0tS2lub3phbF8zMS8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://paideuma.tv/sites/default/files/logo_0_0.png",Paideuma TV
+https://kizug.ru/s/N2Bbp0vzwyRW/af6fe0838c63/aHR0cHM6Ly9wYWlkZXVtYS50djoxNDQzL2xpdmUvQ2hhbm5lbDI3MjgvY2h1bmtsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные",RTG HD
+https://kizug.ru/s/N2Bbp0vzwyRW/5a9c69e81e55/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvcnRnX2hkLzEvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="neizvestnaya-planeta",Неизвестная планета HD
+https://kizug.ru/s/N2Bbp0vzwyRW/4f8590c2211f/aHR0cDovL3N0aXRjaC50ZWxldGFyZ2V0LnJ1L2FwaS92MS9obHMvdmludGVyYS9uZXBsYW5ldGEvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные",BIG PLANET
+https://kizug.ru/s/N2Bbp0vzwyRW/0cbde1deb274/aHR0cDovLzE4NS4xODQuMjMzLjE3ODo1MDAwL3VkcC8yMjUuMS4yLjE3MDoxMjM0.m3u8
+
+#EXTINF:-1 group-title="Познавательные", РАТНИК HD
+https://kizug.ru/s/N2Bbp0vzwyRW/de7753c8b675/aHR0cHM6Ly9zdHJlYW0tbXNrLTE4Lm90dC50cmljb2xvci50di9kdHYvaWQxMDY4X01TS1NHLVBWUi0xLS1SYXRuaWtfSEQvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="ЗНАНИЕ ТВ",ЗНАНИЕ ТВ HD
+https://kizug.ru/s/N2Bbp0vzwyRW/bc7b7745d254/aHR0cHM6Ly9zdHJlYW0tbXNrLTEwLm90dC50cmljb2xvci50di9kdHYvaWQ5MDhfTVNLU0ctUFZSLTEtLUtpbm96YWxfOS8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://pngicon.ru/file/uploads/128_242.png",ЗНАНИЕ ТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/3d94f51d017e/aHR0cHM6Ly9zdHJlYW0tbXNrLTEwLm90dC50cmljb2xvci50di9kdHYvaWQ5MDhfTVNLU0ctUFZSLTEtLUtpbm96YWxfOS8wMi9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Открытый мир
+https://kizug.ru/s/N2Bbp0vzwyRW/e62d327f5768/aHR0cDovL3N0cmVhbS1tc2stMDcub3R0LnRyaWNvbG9yLnR2L2R0di9pZDY4MF9NU0tTRy1QVlItMS0tT3Rrcnl0aV9taXIvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="eda", Еда
+https://kizug.ru/s/N2Bbp0vzwyRW/a113535c453f/aHR0cDovL3N0cmVhbS1tc2stMDEub3R0LnRyaWNvbG9yLnR2L2R0di9pZDM4MF9NU0tTRy1QVlItMS0tRWRhLzAzL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Еда Премиум Международный
+
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="eda-hd", FoodTime
+https://kizug.ru/s/N2Bbp0vzwyRW/9d50fe2e949b/aHR0cDovL3N0cmVhbS1tc2stMDQub3R0LnRyaWNvbG9yLnR2L2R0di9pZDE3MF9NU0tTRy1QVlItMS0tSERfRWRhLzAzL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="kuxnia-tv", КУХНЯ ТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/b7a2a34c938c/aHR0cDovL2hsczEyNy5mcmVlb3R0LnRvcDo4MDgwL0t1aG55YV9UVi9tb25vLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Kulinar TV Show
+https://kizug.ru/s/N2Bbp0vzwyRW/70f44ef9894e/aHR0cHM6Ly9hcGkuYWxwYWNhLnQ2MmEuY29tL2hscy85MTEwL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tmsearch.onlinepatent.ru/images/d80/d804ba14-e0bf-457c-929a-0f4a0b189b78.jpg",Семейная кухня
+https://kizug.ru/s/N2Bbp0vzwyRW/5ae9f6013f50/aHR0cHM6Ly9saXZlLW1pcnJvci0xOC5vdHQudHJpY29sb3IudHYvZHR2L2lkMTAxM19NU0tTRy1QVlItMS0tS2lub3phbDI1X1NELzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Ключ
+https://kizug.ru/s/N2Bbp0vzwyRW/acfab6d03b21/aHR0cDovL2hsczEyNy5mcmVlb3R0LnRvcDo4MDgwL0tsdWNoL21vbm8ubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Fun Roads
+https://kizug.ru/s/N2Bbp0vzwyRW/7fecacd0968d/aHR0cDovLzEwNC4xNDMuNC41OjIwODAvZnVucm9hZHMubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="kongresstv", Конгресс ТВ HD
+https://kizug.ru/s/N2Bbp0vzwyRW/4f9a841b6d27/aHR0cDovL2xpdmUtMy5vdGNuZXQucnUvY29uZ3Jlc3N0di9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="prodvizhenie", Продвижение
+https://kizug.ru/s/N2Bbp0vzwyRW/43bf097006b7/aHR0cHM6Ly9zdHJlYW0tbXNrLTEzLm90dC50cmljb2xvci50di9kdHYvaWQ4OTdfTVNLU0ctUFZSLTEtLVByb2R2aXpoZW5pZS8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg", Магнат ТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/dc01a61c33b0/aHR0cHM6Ly9zMS50di1uYW5vLmNvbS9NYWduYXRfSERfNTExOTcwNS92aWRlby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png", Неизвестная Россия
+https://kizug.ru/s/N2Bbp0vzwyRW/0a1589c3bf94/aHR0cHM6Ly9zdHJlYW0tbXNrLTE1Lm90dC50cmljb2xvci50di9kdHYvaWQ5MjNfTVNLU0ctUFZSLTEtLVVua25vd25SdXNzaWEvMDIvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/LPqySGk.png",ЖИВИ!
+https://kizug.ru/s/N2Bbp0vzwyRW/cf2b9c3dc1da/aHR0cDovLzE1OC4xMDEuMjIyLjE5Mzo4OC9nZW9yZ2lhX3BsYXkucGhwP2lkPWppdmk.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Живи активно HD
+https://kizug.ru/s/N2Bbp0vzwyRW/81d86338035c/aHR0cDovL3N0cmVhbS1tc2stMDYub3R0LnRyaWNvbG9yLnR2L2R0di9pZDgzNl9NU0tTRy1QVlItMS0tWmhpdmlfYWt0aXZuby8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+#EXTINF:-1 group-title="Познавательные", Тонус ТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/bd9b54c2211f/aHR0cDovL3N0cmVhbS1tc2stMDUub3R0LnRyaWNvbG9yLnR2L2R0di9pZDY4Nl9NU0tTRy1QVlItMS0tVG9udXMvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="zdorovoe-tv", Здоровое ТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/b960a48d0156/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvemRvcm92b2V0dg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/d6f5cc1d-0b85-445c-b61e-0d39ce11f612", НОВЫЙ ИГРОВОЙ КАНАЛ
+https://kizug.ru/s/N2Bbp0vzwyRW/7fe98449cfdb/aHR0cHM6Ly9zdHJlYW0tbXNrLTE2Lm90dGdvb2RzLnJ1L2R0di9pZDEwNzNfTVNLU0ctUFZSLTEtLU5JS19TRC8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/9b3b31a1-f04a-49b1-99ea-56317018bd2d" tvg-id="no_epg_mult", ДОКТОР И
+https://kizug.ru/s/N2Bbp0vzwyRW/26a44690dc25/aHR0cHM6Ly9saXZlLW1pcnJvci0xOC5vdHQudHJpY29sb3IudHYvZHR2L2lkMTAwN19NU0tTRy1QVlItMS0ta2lub3phbF8yMV9zZC8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Silk Way
+https://kizug.ru/s/N2Bbp0vzwyRW/5181ead0f8fc/aHR0cHM6Ly9saXZlLW1pcnJvci0xOS5vdHQudHJpY29sb3IudHYvZHR2L2lkOTY5X01TS1NHLVBWUi0xLS1TaWxrX1dheV9IRC8wMi9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные", SilkWay Prime
+https://kizug.ru/s/N2Bbp0vzwyRW/b7d7e085fb55/aHR0cHM6Ly9zdHJlYW0tbXNrLTE5Lm90dC50cmljb2xvci50di9kdHYvaWQxMDY5X01TS1NHLVBWUi0xLS1TaWxrV2F5X1ByaW1lX0hELzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+
+
+#EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательные", МЫ
+https://kizug.ru/s/N2Bbp0vzwyRW/c1bcb16bc134/aHR0cHM6Ly9saXZlLW1pcnJvci0xOC5vdHQudHJpY29sb3IudHYvZHR2L2lkOTkwX01TS1NHLVBWUi0xLS1XZV9IRC8wMi9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 tvg-id="era" tvg-logo="http://i121.fastpic.org/big/2023/0516/82/abf0c600f233693a715cae61eefa2582.png" group-title="Познавательные", Эра
+https://kizug.ru/s/N2Bbp0vzwyRW/fd7345939dd8/aHR0cDovL3N0cmVhbS1tc2stMDUub3R0LnRyaWNvbG9yLnR2L2R0di9pZDYzMF9NU0tTRy1QVlItMS0tQ2hhbm5lbF9MSVZFMy8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Зал суда
+https://kizug.ru/s/N2Bbp0vzwyRW/c49a5c6b8bca/aHR0cDovL3N0cmVhbS1tc2stMTEub3R0LnRyaWNvbG9yLnR2L2R0di9pZDY5OV9NU0tTRy1QVlItMS0tWmFsX3N1ZGEvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
+https://kizug.ru/s/N2Bbp0vzwyRW/fb8170f5ce94/aHR0cDovLzE5NS4yNi44My45Njo3MDA3L3BsYXkvYTAwbi9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Авто 24
+https://kizug.ru/s/N2Bbp0vzwyRW/48ae95fc85a4/aHR0cDovLzQ1LjE0NS4zMi4xMzoyMDQ0MC9hdnRvMjQvaW5kZXgubTN1OD90b2tlbj10ZXN0.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Авто плюс
+https://kizug.ru/s/N2Bbp0vzwyRW/3c1a7368e793/aHR0cDovLzE1OC4xMDEuMjIyLjE5Mzo4OC9nZW9yZ2lhX3BsYXkucGhwP2lkPWF1dG9wbHVz.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Драйв
+https://kizug.ru/s/N2Bbp0vzwyRW/cc9821255617/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvZHJpdmU.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="360-podmoskovie", 360 ru
+https://kizug.ru/s/N2Bbp0vzwyRW/ec77960b8bb2/aHR0cHM6Ly9zdHJlYW0tbXNrLTE2Lm90dC50cmljb2xvci50di9kdHYvaWQ5NDFfTVNLU0ctUFZSLTEtLVRlbGVrYW5hbF8zNjBfU0QvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="360-podmoskovie", 360 ru HD
+https://kizug.ru/s/N2Bbp0vzwyRW/eaaf005fde7a/aHR0cHM6Ly9lZGdlLXR2LWxsLmZhY2VjYXN0LmlvL2V2YWNvZGVyX2hsc19oaS9Da3hmUjF4TlVBSndUZ3RYVEJaVEFKbGkvMC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure", Travel+Adventure
+https://kizug.ru/s/N2Bbp0vzwyRW/c82ead575bef/aHR0cHM6Ly9saXZlLW1pcnJvci0xOS5vdHQudHJpY29sb3IudHYvZHR2L2lkMTAxOV9NU0tTRy1QVlItMS0tVHJhdmVscGx1c0FkdmVudHVyZV9IRC8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Мир вокруг
+https://kizug.ru/s/N2Bbp0vzwyRW/5f12f88b8a9f/aHR0cDovL3N0cmVhbS1tc2stMDcub3R0LnRyaWNvbG9yLnR2L2R0di9pZDYxNl9NU0tTRy1QVlItMS0tTWlyX3Zva3J1Z19IRC8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая Планета
+https://kizug.ru/s/N2Bbp0vzwyRW/c0df8ad237c3/aHR0cHM6Ly9zdHJlYW0tbXNrLTA1Lm90dC50cmljb2xvci50djo0NDMvZHR2L2lkMjY3X01TS1NHLVBWUi0xLS1aaGl2YXlhX1BsYW5ldGEvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 group-title="Познавательные", Телепутешествия
+https://kizug.ru/s/N2Bbp0vzwyRW/22ef3166b6c8/aHR0cHM6Ly9zdHJlYW0tbXNrLTA0Lm90dC50cmljb2xvci50djo0NDMvZHR2L2lkMTU0X01TS1NHLVBWUi0xLS1UZWxlcHl0LzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Приключения", Приключения HD
+https://kizug.ru/s/N2Bbp0vzwyRW/d2b2ef02e068/aHR0cDovL3N0cmVhbS1tc2stMDQub3R0LnRyaWNvbG9yLnR2L2R0di9pZDE1OF9NU0tTRy1QVlItMS0tSERfVGVsZXRyLzAzL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 group-title="Познавательные", Глазами туриста HD
+https://kizug.ru/s/N2Bbp0vzwyRW/31631e9e891e/aHR0cHM6Ly9zMDYud2F0Y2hlci51ei8xMjcvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIyNTBjbUZqZEY5cFpDSTZNamN3TVRjM0xDSnNiMmRwYmlJNkluUjJMVEkzTURFM055SXNJblJsYlhCdmNtRnllU0k2Wm1Gc2MyVXNJbWx6WDI5aGRYUm9JanBtWVd4elpTd2lZM0psWVhSbFpGOTBhVzFsSWpveE5qVXdNamd6TURJM2ZRLkxhZExqNGI2cGxJeFRHQ1dudFFRcXNRR1ozUjlFc3Z3aGFYUWQxc3VyMmclM0ExNQ.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://masterpiecer-images.s3.yandex.net/7967a04a458a11eeaa77b29646062438:upscaled",По горам по полям
+https://kizug.ru/s/N2Bbp0vzwyRW/8651bc651310/aHR0cHM6Ly9saXZlLW1pcnJvci0xOC5vdHQudHJpY29sb3IudHYvZHR2L2lkMTAxMl9NU0tTRy1QVlItMS0tS2lub3phbDI0X1NELzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="CGTN-Русский", CGTN русский
+https://kizug.ru/s/N2Bbp0vzwyRW/a961498fda31/aHR0cDovL3N0cmVhbS1tc2stMDUub3R0LnRyaWNvbG9yLnR2L2R0di9pZDY1Nl9NU0tTRy1QVlItMS0tQ0dUTl9SdXMvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="CGTN-Русский", CGTN русский HD
+https://kizug.ru/s/N2Bbp0vzwyRW/7e8303fb614a/aHR0cHM6Ly9ydXNzaWFuLWxpdmVhbGkuY2d0bi5jb20vaGxzL0xTdmV4QUJoTmlwaWJLNUtSdVVrdkhaNzIyMDgwMkxTVGV6ZTlvOHRkRlhNSHNiMVZvc2dvVDIyMDgwMmNkL3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="VIJU HISTORY", VIJU HISTORY HD
+https://kizug.ru/s/N2Bbp0vzwyRW/77e564c69401/aHR0cDovLzE3OC4xMzQuMS4xNTg6ODA4MS92aWFzYXRoaXN0b3J5L2luZGV4Lm0zdTg_dG9rZW49dGVzdA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="VIJU HISTORY", VIJU HISTORY
+https://kizug.ru/s/N2Bbp0vzwyRW/577206d28348/aHR0cDovLzE1OC4xMDEuMjIyLjE5Mzo4OC9nZW9yZ2lhX3BsYXkucGhwP2lkPXZpYXNhdGhpc3Q.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Viju Nature
+https://kizug.ru/s/N2Bbp0vzwyRW/7bfdde366ffa/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvbmF0dXJl.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-explore.png",viju Explore HD
+https://kizug.ru/s/N2Bbp0vzwyRW/2e06a32d827d/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTdjNTdhNGMzZjlhODk2ZWEvdmlkZW8ubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-explore.png",Viju Explore
+https://kizug.ru/s/N2Bbp0vzwyRW/19108f312a51/aHR0cDovLzE1OC4xMDEuMjIyLjE5Mzo4OC9nZW9yZ2lhX3BsYXkucGhwP2lkPXZpYXNhdGV4cA.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
+https://kizug.ru/s/N2Bbp0vzwyRW/b7581f778517/aHR0cHM6Ly9raW5vLnp1bm90di53b3JrZXJzLmRldi92aWp1X3BsdXNfcGxhbmV0X2hkL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные",ZOOПАРК
+https://kizug.ru/s/N2Bbp0vzwyRW/9de0c2abdd40/aHR0cDovLzQ2LjMyLjE3Ni41MC96b29wYXJrL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Travel Channel HD
+
+
+#EXTINF:-1 group-title="Познавательные", CURIOSITY STREAM HD orig
+https://kizug.ru/s/N2Bbp0vzwyRW/21f9ffe2276e/aHR0cDovLzM3LjQ2LjQ5LjE0OjE4MDEwL3BsYXkvYTA4dy9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Terra Incognita
+https://kizug.ru/s/N2Bbp0vzwyRW/87fd0aa75ec7/aHR0cDovL3N0aXRjaC50ZWxldGFyZ2V0LnJ1L3ZpbnRlcmEvdGVycmEvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru", Terra HD
+https://kizug.ru/s/N2Bbp0vzwyRW/168d63636e95/aHR0cDovL2Nkbi5rdWJ0ZWx0di53b3JrZXJzLmRldi8_SUQ9MTQ4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru", Terra
+https://kizug.ru/s/N2Bbp0vzwyRW/9ef3ff3d5d63/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvbmF0Z2Vv.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Техно 24
+https://kizug.ru/s/N2Bbp0vzwyRW/46c338d40338/aHR0cDovL3N0cmVhbS1tc2stMDMub3R0LnRyaWNvbG9yLnR2L2R0di9pZDI4M19NU0tTRy1QVlItMS0tVGVobm8yNC8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные",НАША СИБИРЬ
+https://kizug.ru/s/N2Bbp0vzwyRW/47515f0cdc5f/aHR0cHM6Ly9zMDYud2F0Y2hlci51ei8xMjgvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIyNTBjbUZqZEY5cFpDSTZNamN3TVRjM0xDSnNiMmRwYmlJNkluUjJMVEkzTURFM055SXNJblJsYlhCdmNtRnllU0k2Wm1Gc2MyVXNJbWx6WDI5aGRYUm9JanBtWVd4elpTd2lZM0psWVhSbFpGOTBhVzFsSWpveE5qVXdNamd6TURJM2ZRLkxhZExqNGI2cGxJeFRHQ1dudFFRcXNRR1ozUjlFc3Z3aGFYUWQxc3VyMmclM0ExNQ.m3u8
+
+#EXTINF:-1 group-title="Познавательные",TLC HD
+https://kizug.ru/s/N2Bbp0vzwyRW/d11c2558d07e/aHR0cHM6Ly9raW5vLnp1bm90di53b3JrZXJzLmRldi90bGNfaGQvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные", NAT GEO WILD
+https://kizug.ru/s/N2Bbp0vzwyRW/c372d84c1c02/aHR0cDovLzE4NS4yMjEuMjEzLjI1NC9saXZlL3N0cmVhbTExLnBocD9xPTROYUk3X3A0XzhsNmFZVmNva2owMG9HUGlqN2VEbUtmWGota0tvTllBWFZqcXlwYnVWTWtxSjZhQzhHdkplWWduRXNpM0ZIaHlXdTlNdktscWRzSmpZY29ON0l4QU1NOU1mNF8wTW5pYWZ6aldyaXZIRHZYSi1IUjZMbDFMTTFBMmd4LWhfcjgyYmlRb3ZaTGZwSkJwck53a0pVUXo2eXJFRl8ycTR2eXJIUFdiZjYxRG84aHJzODQwMnBSVGlaWVJxSWEwV2kwbHN6Q3NPWkVWWUFmZlRrYkY2dmgwVUhyQXNCMW9JejhweWcwVzJrSzZydWtWOFlETVRJcDAybURMblJMUmdjYU5iN1g2aWJId05QVlpvLXRpZlE2cVFZS0ZlVVdDYVZmSFY5NF9MeWxOS24zWUtBb2RHaXVBS29hJnRva2VuPU1qSXlNam95TWpJeU1qST0.m3u8
+
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+https://kizug.ru/s/N2Bbp0vzwyRW/91a8b064d57e/aHR0cHM6Ly9zMDYud2F0Y2hlci51ei8xMTYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIyNTBjbUZqZEY5cFpDSTZNamN3TVRjM0xDSnNiMmRwYmlJNkluUjJMVEkzTURFM055SXNJblJsYlhCdmNtRnllU0k2Wm1Gc2MyVXNJbWx6WDI5aGRYUm9JanBtWVd4elpTd2lZM0psWVhSbFpGOTBhVzFsSWpveE5qVXdNamd6TURJM2ZRLkxhZExqNGI2cGxJeFRHQ1dudFFRcXNRR1ozUjlFc3Z3aGFYUWQxc3VyMmclM0ExNQ.m3u8
+
+#EXTINF:-1 group-title="Познавательные", National geographic
+https://kizug.ru/s/N2Bbp0vzwyRW/f0655da5ddb0/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvbmF0aW9uYWxfZ2VvZ3JhcGhpYy8xL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel", Discovery Channel
+https://kizug.ru/s/N2Bbp0vzwyRW/4c3bdb014fce/aHR0cDovLzUuMTg4LjE1OS4xMjg6ODA3MC9EaXNjb3ZlcnlDaGFubmVsL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel", Discovery Channel
+https://kizug.ru/s/N2Bbp0vzwyRW/d6566b0afd3d/aHR0cHM6Ly9raW5vLnp1bm90di53b3JrZXJzLmRldi9kaXNjb3ZlcnlfY2hhbm5lbF9oZC9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные",National Geographic
+https://kizug.ru/s/N2Bbp0vzwyRW/bf18b01e2188/aHR0cDovLzQ2LjMyLjE3Ni41MC9OYXRpb25hbEdlb2dyYXBoaWNIRC9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные",NationalGeographic HD
+https://kizug.ru/s/N2Bbp0vzwyRW/43055a511231/aHR0cDovLzE3OC42My45OC4xMTk6ODAwMC9wbGF5L2EwMW8vaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/801.png", Animal Planet HD
+https://kizug.ru/s/N2Bbp0vzwyRW/7d7d1714f5c1/aHR0cDovLzQ2LjMyLjE3Ni41MC9BbmltYWxQbGFuZXRIRC9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/801.png", Animal Planet
+https://kizug.ru/s/N2Bbp0vzwyRW/95fc3411dfae/aHR0cDovLzQ2LjMyLjE3Ni41MC9hbmltYWxwbGFuZXQvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+https://kizug.ru/s/N2Bbp0vzwyRW/4538211d751f/aHR0cDovLzE3Ni45Ni4yNDEuNDAvQW5pbWFsUGxhbmV0L2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="voprosy-i-otvety" tvg-logo="https://www.cableman.ru/sites/default/files/voprosy_i_otvety.png",Вопросы и ответы
+
+
+#EXTINF:-1 group-title="Познавательные", Поехали!
+https://kizug.ru/s/N2Bbp0vzwyRW/21a95432b99c/aHR0cHM6Ly9zdHJlYW0tbXNrLTA1Lm90dC50cmljb2xvci50djo0NDMvZHR2L2lkMzY3X01TS1NHLVBWUi0xLS1Qb2VoYWxpLzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Кто есть кто
+https://kizug.ru/s/N2Bbp0vzwyRW/acebd9e844ff/aHR0cDovLzQ2LjMyLjE3Ni41MC9rdG9lc3RrdG8vaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+https://kizug.ru/s/N2Bbp0vzwyRW/dc291bb62b11/aHR0cDovL2hsczEyNy5mcmVlb3R0LnRvcDo4MDgwL09jZWFuX1RWL3ZpZGVvLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+https://kizug.ru/s/N2Bbp0vzwyRW/a6e8e1c6a229/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvb2NlYW5fdHYvMS9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Моя Планета HD
+https://kizug.ru/s/N2Bbp0vzwyRW/00b3fa69ed8e/aHR0cDovL3N0cmVhbS1tc2stMDQub3R0LnRyaWNvbG9yLnR2L2R0di9pZDYyM19NU0tTRy1QVlItMS0tTW95YV9QbGFuZXRhX0hELzAzL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/ISJzQGP.png", Домашние животные
+https://kizug.ru/s/N2Bbp0vzwyRW/406671c460f8/aHR0cHM6Ly9zdHJlYW04LmNpbmVyYW1hLnV6LzE0MjYvdHJhY2tzLXYxYTEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="morskoy", Моя стихия
+https://kizug.ru/s/N2Bbp0vzwyRW/bd919a0d2b92/aHR0cHM6Ly9zdHJlYW0tbXNrLTE2Lm90dC50cmljb2xvci50di9kdHYvaWQ5MzBfTVNLU0ctUFZSLTEtLU15U3RpaGl5YS8wMi9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+#EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
+https://kizug.ru/s/N2Bbp0vzwyRW/4fe2bfad28be/aHR0cDovL3N0cmVhbS1tc2stMDMub3R0LnRyaWNvbG9yLnR2L2R0di9pZDE1OV9NU0tTRy1QVlItMS0tSERfRXVyZWthLzAzL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="nano-hd", Nano HD
+https://kizug.ru/s/N2Bbp0vzwyRW/e01065a97a3a/aHR0cHM6Ly9zdHJlYW0tbXNrLTEzLm90dC50cmljb2xvci50di9kdHYvaWQ2NzFfTVNLU0ctUFZSLTEtLU5hbm9fSEQvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Живая природа HD
+https://kizug.ru/s/N2Bbp0vzwyRW/4252033c7f81/aHR0cHM6Ly9zdHJlYW04LmNpbmVyYW1hLnV6LzE0MTEvdHJhY2tzLXYxYTEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="psixologia-21", Психология 21
+https://kizug.ru/s/N2Bbp0vzwyRW/8c319c6950b0/aHR0cHM6Ly9qZWthbGljaC5naXRodWIuaW8vc210ay9jaGFubmVscy9wc2l4b2xvZ2lhLTIxLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные", 365 ДНЕЙ
+https://kizug.ru/s/N2Bbp0vzwyRW/1b47d7ec5896/aHR0cDovLzc3LjI0NS45OC4xODo4MDAwL3BsYXkvYTAxMw.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv", Ocean TV
+https://kizug.ru/s/N2Bbp0vzwyRW/3463ec78c4bf/aHR0cHM6Ly9zdHJlYW0tbXNrLTA5Lm90dC50cmljb2xvci50di9kdHYvaWQ4NzJfTVNLU0ctUFZSLTEtLU9DRUFOX1RWLzAyL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="Познавательные", Первый вегетарианский
+https://kizug.ru/s/N2Bbp0vzwyRW/462fe3810be8/aHR0cHM6Ly9zdHJlYW0tbXNrLTEwLm90dC50cmljb2xvci50di9kdHYvaWQ0NzFfTVNLU0ctUFZSLTEtLVBlcnZpeV9WZWdldG9yLzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 group-title="Познавательные", Оружие
+https://kizug.ru/s/N2Bbp0vzwyRW/7a961dda412c/aHR0cHM6Ly9zdHJlYW0tbXNrLTA4Lm90dC50cmljb2xvci50djo0NDMvZHR2L2lkMzY5X01TS1NHLVBWUi0xLS1PcnV6aGllLzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="arsenaltv", Арсенал HD
+https://kizug.ru/s/N2Bbp0vzwyRW/c4f70be55044/aHR0cHM6Ly9zdHJlYW0tbXNrLTAzLm90dC50cmljb2xvci50djo0NDMvZHR2L2lkNjM0X01TS1NHLVBWUi0xLS1BcnNlbmFsX0hELzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="centralnoye-tv" , ЦТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/762453c84510/aHR0cHM6Ly9zdHJlYW0tbXNrLTExLm90dC50cmljb2xvci50di9kdHYvaWQ2NTRfTVNLU0ctUFZSLTEtLUNlbnRyYWxub2VfVFYvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Дикая рыбалка HD
+https://kizug.ru/s/N2Bbp0vzwyRW/d7683a7dda25/aHR0cDovL3Rpbnl1cmwuY29tL1R2WmFUYWszMS9LdFQ1V2lsRjN3L2NuYjB5OW4zNjMzd2Izd25wcHJpNHdnNg.m3u8
+
+#EXTINF:-1 group-title="Познавательные", ДИКАЯ ОХОТА HD
+https://kizug.ru/s/N2Bbp0vzwyRW/90c11a52c3a9/aHR0cDovL3Rpbnl1cmwuY29tL1R2WmFUYWszMS9EaWtheWFPa2hvdGFIRC9jbmIweTluMzYzM3diM3ducHByaTR3ZzY.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="oxota-i-rybalka", Охота и рыбалка
+https://kizug.ru/s/N2Bbp0vzwyRW/3161341ed8dc/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvb2hvdGE.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="oxota-i-rybalka", РЫБАЛКА И ОХОТА HD
+https://kizug.ru/s/N2Bbp0vzwyRW/2cc1b0add6cf/aHR0cDovLzIxMy4xNjkuMzkuMzA6NTI2Mg.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Дикий охота и рыбалка
+https://kizug.ru/s/N2Bbp0vzwyRW/679e472c92f2/aHR0cDovL2hsczEyNy5mcmVlb3R0LnRvcDo4MDgwL0Rpa2l5L3ZpZGVvLm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="Охотник и рыболов HD", Охотник и рыболов HD
+https://kizug.ru/s/N2Bbp0vzwyRW/9d22d42785b9/aHR0cDovL3Nndy5vdHQudHJpY29sb3IudHYvc3RyZWFtaW5nR2F0ZXdheS9HZXRMaXZlUGxheUxpc3Q_c291cmNlPUhEX09oX1JibC5tM3U4JnNlcnZpY2VBcmVhPU1TSy1TQS0xJmRybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="Охотник и Рыболов Int ", Охотник и рыболов International
+https://kizug.ru/s/N2Bbp0vzwyRW/8ee7500ae8f2/aHR0cHM6Ly9zdHJlYW0tbXNrLTE0Lm90dC50cmljb2xvci50djo0NDMvZHR2L2lkNjE0X01TS1NHLVBWUi0xLS1PaG90bmlrX2lfcnliX2ludF9IRC8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Рыболов
+https://kizug.ru/s/N2Bbp0vzwyRW/70fadf3248dc/aHR0cHM6Ly9zdHJlYW0tbXNrLTEzLm90dC50cmljb2xvci50di9kdHYvaWQ2NjVfTVNLU0ctUFZSLTEtLVJ5YmFsb3YvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="nasha-tema" tvg logo"https://epgx.site/p/nasha-tema.png", Наша тема HD
+https://kizug.ru/s/N2Bbp0vzwyRW/85d98b1579f2/aHR0cHM6Ly9zdHJlYW0tbXNrLTA0Lm90dC50cmljb2xvci50di9kdHYvaWQ1OTBfTVNLU0ctUFZSLTEtLU5hc2hhX1RlbWEvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные", В мире животных HD
+https://kizug.ru/s/N2Bbp0vzwyRW/2371f3abc97c/aHR0cHM6Ly9zdHJlYW0tbXNrLTA0Lm90dC50cmljb2xvci50di9kdHYvaWQxNjBfTVNLU0ctUFZSLTEtLUhEX0FuaW1fRmFtLzAyL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzNPVFV6TVRBMk9Dd2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemM0T1RJMk1qWTRMQ0p6WlhOemFXOXVYMmxrSWpvaVl6WmpaVEE0TTJZNE1UZ3dNREV4WTJNeU1qWXdZbVEwWkdRMllXTmtZMklpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5FWmk5NW9pcDBXNXdQdkpDRkxjQ0plNjZyRE4yYmxyVm5UQzJoemE1elZj.m3u8
+#EXTINF:-1 tvg-id="lapki-live" group-title="Познавательные", Лапки Live
+https://kizug.ru/s/N2Bbp0vzwyRW/caa2389ceb4c/aHR0cHM6Ly9zdHJlYW0tbXNrLTE0Lm90dC50cmljb2xvci50di9kdHYvaWQ5MjZfTVNLU0ctUFZSLTEtLUxhcGtpTGl2ZS8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+#EXTINF:-1 group-title="Познавательные", История
+https://kizug.ru/s/N2Bbp0vzwyRW/05911318e1d4/aHR0cDovL3N0cmVhbS1tc2stMDQub3R0LnRyaWNvbG9yLnR2L2R0di9pZDI1OV9NU0tTRy1QVlItMS0tSXN0b3JpeWEvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="HISTORY", HISTORY (vpn)
+https://kizug.ru/s/N2Bbp0vzwyRW/8f91dfe7a561/aHR0cHM6Ly9pcHR2LnByb3N0by50di9pZDI3NS92aWRlby5tM3U4P3NlY3JldD14d3M2ZGxhMw.m3u8
+
+#EXTINF:-1 group-title="Познавательные", History
+https://kizug.ru/s/N2Bbp0vzwyRW/567c0c11f951/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvaGlzdG9yeS8xL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные", H2
+https://kizug.ru/s/N2Bbp0vzwyRW/4b9f7731fb93/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvaGlzdG9yeV8yLzEvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg", 555 Hunt Fishing TV
+https://kizug.ru/s/N2Bbp0vzwyRW/6ed299d3de6f/aHR0cDovLzE5My4xNjkuMTc4LjI5OjgwODEvcG9kc2VrYWlUVi9jaGFuZWxIRC9wbGF5bGlzdC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg", 555 Hunt Fishing TV HD
+https://kizug.ru/s/N2Bbp0vzwyRW/2a9d6b40d62e/aHR0cDovLzE5My4xNjkuMTc4LjI5OjgwODEvcG9kc2VrYWlUVi9jaGFuZWxIRDEwODAvcGxheWxpc3QubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Точка отрыва
+https://kizug.ru/s/N2Bbp0vzwyRW/45cdaeb5de68/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvb3V0ZG9vcg.m3u8
+
+#EXTINF:-1 group-title="Познавательные", GALAXY TV
+https://kizug.ru/s/N2Bbp0vzwyRW/7a9dce2d1ff5/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvZ2FsYXh5LzEvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Galaxy TV
+https://kizug.ru/s/N2Bbp0vzwyRW/11639cb9b1e9/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvZ2FsYXh5.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Красная линия
+https://kizug.ru/s/N2Bbp0vzwyRW/602bbe687aee/aHR0cHM6Ly9zNTU3NjYuY2RuLm5nZW5peC5uZXQvczU1NzY2LW1lZGlhLW9yaWdpbi9ybGluZV9oaWdoL3RyYWNrcy12MWExL21vbm8ubTN1OA.m3u8
+
+#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные", Наука 2.0 HD
+https://kizug.ru/s/N2Bbp0vzwyRW/4a51e800a49c/aHR0cDovL3N0cmVhbS1tc2stMTAub3R0LnRyaWNvbG9yLnR2L2R0di9pZDY1M19NU0tTRy1QVlItMS0tTmF1a2FfSEQvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 tvg-id="zootv" group-title="Познавательные", Зоо ТВ
+https://kizug.ru/s/N2Bbp0vzwyRW/665e0b0b07e0/aHR0cHM6Ly9zdHJlYW0tbXNrLTA0Lm90dC50cmljb2xvci50djo0NDMvZHR2L2lkMTUyX01TS1NHLVBWUi0xLS1ab29fVFYvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="teatr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8gShH9HPlwd98sZS2KPYPFZGd0rNnyL2VG8jdajLLOw=s900-c-k-c0x00ffffff-no-rj", Театр
+#EXTVLCOPT:http-user-agent=KizugTV
+https://kizug.ru/s/N2Bbp0vzwyRW/066ad5cdd896/aHR0cDovLzMxLjE0OC40OC4xNS9Tb2NoaV9IRC9pbmRleC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="rus-hualiang-tv", Китай ТВ HD
+https://kizug.ru/s/N2Bbp0vzwyRW/b69b7c754296/aHR0cHM6Ly9jZG4ubmV4dHR2bmV0LnJ1L2hsc2wvcHJvdmlkZS82MTM5NC9DaGluYVRWMi9jaGluYS10dl8xOTIweDEwODAvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Большая Азия
+https://kizug.ru/s/N2Bbp0vzwyRW/d2e091aca95c/aHR0cDovL3N0cmVhbS1tc2stMDUub3R0LnRyaWNvbG9yLnR2L2R0di9pZDY5MF9NU0tTRy1QVlItMS0tQmlnX0FzaWEvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjM09UVXpNVEEyT0N3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56YzRPVEkyTWpZNExDSnpaWE56YVc5dVgybGtJam9pWXpaalpUQTRNMlk0TVRnd01ERXhZMk15TWpZd1ltUTBaR1EyWVdOa1kySWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLkVaaTk1b2lwMFc1d1B2SkNGTGNDSmU2NnJETjJibHJWblRDMmh6YTV6VmM.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="doktor", Доктор
+https://kizug.ru/s/N2Bbp0vzwyRW/2aa98b61a2f9/aHR0cHM6Ly9zdHJlYW0tbXNrLTE0Lm90dC50cmljb2xvci50di9kdHYvaWQ5MzZfTVNLU0ctUFZSLTEtLURva3Rvcl9TRC8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGMzT1RVek1UQTJPQ3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94TnpjNE9USTJNalk0TENKelpYTnphVzl1WDJsa0lqb2lZelpqWlRBNE0yWTRNVGd3TURFeFkyTXlNall3WW1RMFpHUTJZV05rWTJJaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuRVppOTVvaXAwVzV3UHZKQ0ZMY0NKZTY2ckROMmJsclZuVEMyaHphNXpWYw.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="HD Life", Точка.рф
+https://kizug.ru/s/N2Bbp0vzwyRW/720572e5cc83/aHR0cDovLzQ1LjE0NS4zMi4xMzoyMDQ0MC9oZGwvaW5kZXgubTN1OD90b2tlbj10ZXN0.m3u8
+
+#EXTINF:-1 group-title="Познавательные", 5 Minute Crafts (VPN)
+https://kizug.ru/s/N2Bbp0vzwyRW/ae641e381c11/aHR0cHM6Ly90aW55dXJsLmNvbS9tcng0a3JlZj8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Познавательные", 5 Minute Crafts (VPN)
+https://kizug.ru/s/N2Bbp0vzwyRW/42680328ed97/aHR0cHM6Ly9zb3VsLTVtaW5jcmFmdGVuZy1yYWt1dGVuLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные", BBC Earth (VPN)
+https://kizug.ru/s/N2Bbp0vzwyRW/863931d4f5a6/aHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M2LXh1bW8tdXMtMjY2OS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvQkJDU3R1ZGlvcy1CQkNFYXJ0aEEtaGxzL3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Wired 2 Fish (VPN)
+https://kizug.ru/s/N2Bbp0vzwyRW/12efd2ee0164/aHR0cHM6Ly9saW5lYXItODAuZnJlcXVlbmN5LnN0cmVhbS9kaXN0L3BsZXgvODAvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные", BBC Top Gear (VPN)
+https://kizug.ru/s/N2Bbp0vzwyRW/e0ea49ebb596/aHR0cHM6Ly9hbWcwMDc5My1hbWcwMDc5M2M1LXh1bW8tdXMtMjY2NC5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvYmJjc3R1ZGlvcy1iYmN0b3BnZWFyOG1pbi1hbGwvcGxheWxpc3QubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Waterbear (VPN)
+https://kizug.ru/s/N2Bbp0vzwyRW/a1ea5733eefa/aHR0cHM6Ly9jZG4tdWUxLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDE0MTUtd2F0ZXJiZWFybmV0d29yLXdhdGVyYmVhci1zYW1zdW5nbmwvcGxheWxpc3QubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные", CraftsyTV
+https://kizug.ru/s/N2Bbp0vzwyRW/59c4aa75b388/aHR0cHM6Ly9saW5lYXItNDkyLmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC94dW1vLzQ5Mi9obHMvbWFzdGVyL3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXy1NYRPkPxhVPPQbdNBS8u9c-UzbtqZXiA&s", CraftsyTV
+https://kizug.ru/s/N2Bbp0vzwyRW/8c5dcd854c6e/aHR0cHM6Ly9saW5lYXItNDkyLmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC92aWRhYS80OTIvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4P2Fkcy52aWRhYV9hZHNfY29udGVudFR5cGU9NjAwMDA3JmFkcy52aWRhYV9hZHNfY29udGVudElkPTQ5NzI.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0pUPcDReE0yy0vx8EAuGOlFT8a92tdXOYg&s", Nature Time
+https://kizug.ru/s/N2Bbp0vzwyRW/0e4c23a4ef00/aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDAwOTAtYmx1ZWFudGxsYy1sb3ZlbmF0dXJlYXUtZmV0Y2h0dmF1L3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png", Outdoor Channel
+https://kizug.ru/s/N2Bbp0vzwyRW/917e760dfd8b/aHR0cHM6Ly9jZG4tYXBzZTEtcHJvZC50c3YyLmFtYWdpLnR2L2xpbmVhci9hbWcwMDcxOC1vdXRkb29yY2hhbm5lbGEtb3V0ZG9vcnR2LWZldGNodHZhdS9wbGF5bGlzdC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Real Wild
+https://kizug.ru/s/N2Bbp0vzwyRW/0d764b9e2a8c/aHR0cHM6Ly9sZHMtcmVhbHdpbGQtcmFrdXRlbi5hbWFnaS50di9wbGF5bGlzdC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные", MyZen Wellbeing TV
+https://kizug.ru/s/N2Bbp0vzwyRW/93b9b5f27981/aHR0cHM6Ly9yYWt1dGVuYWEtbXl6ZW4tZW4tcmFrdXRlbi01c2V4Ny5hbWFnaS50di9wbGF5bGlzdC9yYWt1dGVuQUEtbXl6ZW4tZW4tcmFrdXRlbi9wbGF5bGlzdC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Hell's Kitchen
+https://kizug.ru/s/N2Bbp0vzwyRW/1787262ddcbf/aHR0cHM6Ly9pdHYtaGVsbHNraXRjaGVuLXJha3V0ZW4uYW1hZ2kudHYvcGxheWxpc3QubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные", H20 TV
+https://kizug.ru/s/N2Bbp0vzwyRW/25af43b9b3d7/aHR0cHM6Ly8xMjYxYTc4NzA5MzQ0ODEwYTViODM0ZDM5NzUwOTg3OS5tZWRpYXRhaWxvci51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvYmE2MmZlNzQzZGYwZmU5MzM2NmViYTNhMjU3ZDc5Mjg4NDEzNmM3Zi9MSU5FQVItNzM4LUgyT1RWLVNQT1JUU1RSSUJBTFRWL210L3Nwb3J0c3RyaWJhbHR2LzczOC9obHMvbWFzdGVyL3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные", infast tv
+https://kizug.ru/s/N2Bbp0vzwyRW/aac776e7fcf8/aHR0cHM6Ly9pbnNpZ2h0dHYtc2Ftc3VuZy1jYW5hZGEuYW1hZ2kudHYvcGxheWxpc3QubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Samnaun TV
+https://kizug.ru/s/N2Bbp0vzwyRW/7a5acc88e15f/aHR0cDovL3N0cmVhbWluZzEyLmh1YmVyd2VibWVkaWEuYXQvTGl2ZUFwcC9zdHJlYW1zL2xpdmVzdHJlYW0ubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные",ANIMAUX
+https://kizug.ru/s/N2Bbp0vzwyRW/b958c25336ce/aHR0cDovLzE0NS4yMzkuNS4xNzcvMzE0L2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
+https://kizug.ru/s/N2Bbp0vzwyRW/ed4d3510baca/aHR0cHM6Ly9ib25hcHBldGl0LXNhbXN1bmcuYW1hZ2kudHYvcGxheWxpc3QubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/15a9pG9.png",Chef Champion
+https://kizug.ru/s/N2Bbp0vzwyRW/79361d63ed5f/aHR0cHM6Ly9ycG4uYm96enR2LmNvbS9ndXNhL2d1c2EtY2hlZmNoYW1waW9uL2luZGV4Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay
+https://kizug.ru/s/N2Bbp0vzwyRW/8b02e0667780/aHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby9jODM2NGYzNi1jNjBiLTRhMzktOGQ4Ni0wYjkyZGI0NjExYzAvaW5kZXgubTN1OA.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/B45qcQX.png",Jordan Kitchen
+https://kizug.ru/s/N2Bbp0vzwyRW/d27409a4c99c/aHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL2NjMGJsb3Jhd3kxaWJvaGhydXByYWEvY29va2luZy9wbGF5bGlzdC5tM3U4.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/lWfh8pP.png",Roya Kitchen
+https://kizug.ru/s/N2Bbp0vzwyRW/5cb4217704c0/aHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL3RvYTJ1dWhoeWdoZXVseTd4dHVxcmcvcm95YS1raXRjaGVuL3BsYXlsaXN0Lm0zdTg.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/xP7Ehn8.png",Tastemade
+https://kizug.ru/s/N2Bbp0vzwyRW/312ba5d03fc8/aHR0cHM6Ly90YXN0ZW1hZGUtdGRpbnQtcmFrdXRlbi5hbWFnaS50di9wbGF5bGlzdC5tM3U4.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/xP7Ehn8.png",Tastemade
+https://kizug.ru/s/N2Bbp0vzwyRW/c5e5d7e6b528/aHR0cHM6Ly9yYWt1dGVuYWEtdG0taW50bC1hdXMtcmFrdXRlbi1ldS1uMWd0Zy5hbWFnaS50di9wbGF5bGlzdC9yYWt1dGVuQUEtdG0taW50bC1hdXMtcmFrdXRlbi1ldS9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 tvg-name="12.Федя Зайцев" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="МУЛЬТИ-ПУЛЬТИ", 12.Федя Зайцев
 #EXTGRP:МУЛЬТИ-ПУЛЬТИ
@@ -8489,504 +8959,6 @@ http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Эфирные",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Казахстан",TV Line (KZ)
-http://109.248.236.21/tvline/stream.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/photo_2026-01-20_16-57-44-kopiya.png" tvg-id="no_epg", Первый Туристический Канал HD (VPN)
-http://91.186.196.185/hls/hotels/stream.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" group-title="⚡Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTBGlKTfuS9IHQfAd7GhP_Sxr2hovXbvQ0w&s", Деревеня
-https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/c7b1aaa8-c7fc-4caa-9537-ff42d385bfbb" tvg-id="no_epg", ЖИЗНЬ В ДЕРЕВНЕ
-https://stream-msk-19.ottgoods.ru/dtv/id1066_MSKSG-PVR-1--Kinozal_13/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 tvg-id="bobior" group-title="⚡Познавательные", Бобёр
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 tvg-id="no_epg" group-title="⚡Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTBGlKTfuS9IHQfAd7GhP_Sxr2hovXbvQ0w&s", Деревеня
-https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="Ep!c", Ep!c
-http://193.25.8.59:8000/dtx
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="Ep!c", Усадьба
-http://193.25.8.59:8000/usadba
-
-#EXTINF:-1 group-title="⚡Познавательные", УСАДЬБА
-http://cdn.kubteltv.workers.dev/?ID=38
-
-#EXTINF:-1 group-title="⚡Познавательные",Наша тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Московский образовательный
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="⚡Познавательные", Загородная жизнь
-http://185.57.68.33/40/mpegts
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://img.catcast.tv/uploads/11082021/logos/40546-6113be283e1cb.jpg", LAYM GOLD TV
-https://v2.catcast.tv/content/40546/index.m3u8?token=eba599f2781487a851f7bc302bf05f0c
-
-#EXTINF:-1 tvg-id="zagorodny" group-title="⚡Познавательные", Загородный
-http://stream-msk-04.ott.tricolor.tv/dtv/id155_MSKSG-PVR-1--Zagorod_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="zagorodny-int", Загородный Int HD
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id615_MSKSG-PVR-1--Zagorodniy_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные",Первый медецинский
-https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", МУЖСКОЙ
-http://193.25.8.59:8000/muzhskoy
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="no_epg" tvg-logo="https://e7.pngegg.com/pngimages/386/732/png-clipart-airplane-aircraft-logo-airplane-blue-logo-thumbnail.png", Авиакатастрофы
-https://live-mirror-19.ott.tricolor.tv/dtv/id1037_MSKSG-PVR-1--Kinozal_31/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://paideuma.tv/sites/default/files/logo_0_0.png",Paideuma TV
-https://paideuma.tv:1443/live/Channel2728/chunklist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",RTG HD
-https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="neizvestnaya-planeta",Неизвестная планета HD
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",BIG PLANET
-http://185.184.233.178:5000/udp/225.1.2.170:1234
-
-#EXTINF:-1 group-title="⚡Познавательные", РАТНИК HD
-https://stream-msk-18.ott.tricolor.tv/dtv/id1068_MSKSG-PVR-1--Ratnik_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="ЗНАНИЕ ТВ",ЗНАНИЕ ТВ HD
-https://stream-msk-10.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://pngicon.ru/file/uploads/128_242.png",ЗНАНИЕ ТВ
-https://stream-msk-10.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", Открытый мир
-http://stream-msk-07.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="eda", Еда
-http://stream-msk-01.ott.tricolor.tv/dtv/id380_MSKSG-PVR-1--Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", Еда Премиум Международный
-
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="eda-hd", FoodTime
-http://stream-msk-04.ott.tricolor.tv/dtv/id170_MSKSG-PVR-1--HD_Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="kuxnia-tv", КУХНЯ ТВ
-http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Kulinar TV Show
-https://api.alpaca.t62a.com/hls/9110/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://tmsearch.onlinepatent.ru/images/d80/d804ba14-e0bf-457c-929a-0f4a0b189b78.jpg",Семейная кухня
-https://live-mirror-18.ott.tricolor.tv/dtv/id1013_MSKSG-PVR-1--Kinozal25_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные",Ключ
-http://hls127.freeott.top:8080/Kluch/mono.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Fun Roads
-http://104.143.4.5:2080/funroads.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="kongresstv", Конгресс ТВ HD
-http://live-3.otcnet.ru/congresstv/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="prodvizhenie", Продвижение
-https://stream-msk-13.ott.tricolor.tv/dtv/id897_MSKSG-PVR-1--Prodvizhenie/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg", Магнат ТВ
-https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png", Неизвестная Россия
-https://stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1--UnknownRussia/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/LPqySGk.png",ЖИВИ!
-http://158.101.222.193:88/georgia_play.php?id=jivi
-
-#EXTINF:-1 group-title="⚡Познавательные", Живи активно HD
-http://stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные", Тонус ТВ
-http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="zdorovoe-tv", Здоровое ТВ
-http://193.25.8.59:8000/zdorovoetv
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/d6f5cc1d-0b85-445c-b61e-0d39ce11f612", НОВЫЙ ИГРОВОЙ КАНАЛ
-https://stream-msk-16.ottgoods.ru/dtv/id1073_MSKSG-PVR-1--NIK_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/9b3b31a1-f04a-49b1-99ea-56317018bd2d" tvg-id="no_epg_mult", ДОКТОР И
-https://live-mirror-18.ott.tricolor.tv/dtv/id1007_MSKSG-PVR-1--kinozal_21_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-
-#EXTINF:-1 group-title="⚡Познавательные", Silk Way
-https://live-mirror-19.ott.tricolor.tv/dtv/id969_MSKSG-PVR-1--Silk_Way_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", SilkWay Prime
-https://stream-msk-19.ott.tricolor.tv/dtv/id1069_MSKSG-PVR-1--SilkWay_Prime_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-
-#EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="⚡Познавательные", МЫ
-https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 tvg-id="era" tvg-logo="http://i121.fastpic.org/big/2023/0516/82/abf0c600f233693a715cae61eefa2582.png" group-title="⚡Познавательные", Эра
-http://stream-msk-05.ott.tricolor.tv/dtv/id630_MSKSG-PVR-1--Channel_LIVE3/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", Зал суда
-http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
-http://195.26.83.96:7007/play/a00n/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Авто 24
-http://45.145.32.13:20440/avto24/index.m3u8?token=test
-
-#EXTINF:-1 group-title="⚡Познавательные", Авто плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
-
-#EXTINF:-1 group-title="⚡Познавательные", Драйв
-http://193.25.8.59:8000/drive
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="360-podmoskovie", 360 ru
-https://stream-msk-16.ott.tricolor.tv/dtv/id941_MSKSG-PVR-1--Telekanal_360_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="360-podmoskovie", 360 ru HD
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="travel-adventure", Travel+Adventure
-https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", Мир вокруг
-http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные", Живая Планета
-https://stream-msk-05.ott.tricolor.tv:443/dtv/id267_MSKSG-PVR-1--Zhivaya_Planeta/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные", Телепутешествия
-https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="Приключения", Приключения HD
-http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные", Глазами туриста HD
-https://s06.watcher.uz/127/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://masterpiecer-images.s3.yandex.net/7967a04a458a11eeaa77b29646062438:upscaled",По горам по полям
-https://live-mirror-18.ott.tricolor.tv/dtv/id1012_MSKSG-PVR-1--Kinozal24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="CGTN-Русский", CGTN русский
-http://stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="CGTN-Русский", CGTN русский HD
-https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="VIJU HISTORY", VIJU HISTORY HD
-http://178.134.1.158:8081/viasathistory/index.m3u8?token=test
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="VIJU HISTORY", VIJU HISTORY
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-
-#EXTINF:-1 group-title="⚡Познавательные", Viju Nature
-http://193.25.8.59:8000/nature
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-explore.png",viju Explore HD
-http://92.63.106.41/24hp/stream.php?id=997
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-explore.png",Viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-
-#EXTINF:-1 group-title="⚡Познавательные",Viju+ Planet HD
-https://kino.zunotv.workers.dev/viju_plus_planet_hd/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",ZOOПАРК
-http://46.32.176.50/zoopark/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Travel Channel HD
-
-
-#EXTINF:-1 group-title="⚡Познавательные", CURIOSITY STREAM HD orig
-http://92.63.106.41/24hp/stream.php?id=988
-
-#EXTINF:-1 group-title="⚡Познавательные",Terra Incognita
-http://stitch.teletarget.ru/vintera/terra/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="terra-ru", Terra HD
-http://cdn.kubteltv.workers.dev/?ID=148
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="terra-ru", Terra
-http://193.25.8.59:8000/natgeo
-
-#EXTINF:-1 group-title="⚡Познавательные", Техно 24
-http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные",НАША СИБИРЬ
-https://s06.watcher.uz/128/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 group-title="⚡Познавательные",TLC HD
-https://kino.zunotv.workers.dev/tlc_hd/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", NAT GEO WILD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgnEsi3FHhyWu9MvKlqdsJjYcoN7IxAMM9Mf4_0MniafzjWrivHDvXJ-HR6Ll1LM1A2gx-h_r82biQovZLfpJBprNwkJUQz6yrEF_2q4vyrHPWbf61Do8hrs8402pRTiZYRqIa0Wi0lszCsOZEVYAffTkbF6vh0UHrAsB1oIz8pyg0W2kK6rukV8YDMTIp02mDLnRLRgcaNb7X6ibHwNPVZo-tifQ6qQYKFeUWCaVfHV94_LylNKn3YKAodGiuAKoa&token=MjIyMjoyMjIyMjI=
-
-#EXTINF:-1 group-title="⚡Познавательные",NAT GEO WILD
-https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 group-title="⚡Познавательные", National Geographic Wild HD
-http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", National geographic
-https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="discovery-channel", Discovery Channel
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="discovery-channel", Discovery Channel
-https://kino.zunotv.workers.dev/discovery_channel_hd/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",National Geographic
-http://46.32.176.50/NationalGeographicHD/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",NationalGeographic HD
-http://178.63.98.119:8000/play/a01o/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="http://only4.tv/ch/801.png", Animal Planet HD
-http://46.32.176.50/AnimalPlanetHD/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="http://only4.tv/ch/801.png", Animal Planet
-http://46.32.176.50/animalplanet/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Animal Planet
-http://176.96.241.40/AnimalPlanet/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="voprosy-i-otvety" tvg-logo="https://www.cableman.ru/sites/default/files/voprosy_i_otvety.png",Вопросы и ответы
-
-
-#EXTINF:-1 group-title="⚡Познавательные", Поехали!
-https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", Кто есть кто
-http://46.32.176.50/ktoestkto/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Ocean TV
-http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Ocean TV
-https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Моя Планета HD
-http://stream-msk-04.ott.tricolor.tv/dtv/id623_MSKSG-PVR-1--Moya_Planeta_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/ISJzQGP.png", Домашние животные
-https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="morskoy", Моя стихия
-https://stream-msk-16.ott.tricolor.tv/dtv/id930_MSKSG-PVR-1--MyStihiya/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 tvg-id="eureka-hd" group-title="⚡Познавательные",Первый Космический HD
-http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="nano-hd", Nano HD
-https://stream-msk-13.ott.tricolor.tv/dtv/id671_MSKSG-PVR-1--Nano_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", Живая природа HD
-https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="psixologia-21", Психология 21
-https://jekalich.github.io/smtk/channels/psixologia-21.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", 365 ДНЕЙ
-http://77.245.98.18:8000/play/a013
-
-#EXTINF:-1 group-title="⚡Познавательные", Совершенно секретно
-http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="ocean-tv", Ocean TV
-https://stream-msk-09.ott.tricolor.tv/dtv/id872_MSKSG-PVR-1--OCEAN_TV/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="⚡Познавательные", Первый вегетарианский
-https://stream-msk-10.ott.tricolor.tv/dtv/id471_MSKSG-PVR-1--Perviy_Vegetor/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные", Оружие
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id369_MSKSG-PVR-1--Oruzhie/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="arsenaltv", Арсенал HD
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="centralnoye-tv" , ЦТВ
-https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", Дикая рыбалка HD
-http://tinyurl.com/TvZaTak31/KtT5WilF3w/cnb0y9n3633wb3wnppri4wg6
-
-#EXTINF:-1 group-title="⚡Познавательные", ДИКАЯ ОХОТА HD
-http://tinyurl.com/TvZaTak31/DikayaOkhotaHD/cnb0y9n3633wb3wnppri4wg6
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="oxota-i-rybalka", Охота и рыбалка
-http://193.25.8.59:8000/ohota
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="oxota-i-rybalka", РЫБАЛКА И ОХОТА HD
-http://213.169.39.30:5262
-
-#EXTINF:-1 group-title="⚡Познавательные", Дикий охота и рыбалка
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="Охотник и рыболов HD", Охотник и рыболов HD
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="Охотник и Рыболов Int ", Охотник и рыболов International
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", Рыболов
-https://stream-msk-13.ott.tricolor.tv/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="nasha-tema" tvg logo"https://epgx.site/p/nasha-tema.png", Наша тема HD
-https://stream-msk-04.ott.tricolor.tv/dtv/id590_MSKSG-PVR-1--Nasha_Tema/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные", В мире животных HD
-https://stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 tvg-id="lapki-live" group-title="⚡Познавательные", Лапки Live
-https://stream-msk-14.ott.tricolor.tv/dtv/id926_MSKSG-PVR-1--LapkiLive/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные", История
-http://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="HISTORY", HISTORY (vpn)
-https://iptv.prosto.tv/id275/video.m3u8?secret=xws6dla3
-
-#EXTINF:-1 group-title="⚡Познавательные", History
-https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", H2
-https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="no_epg", 555 Hunt Fishing TV
-http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="no_epg", 555 Hunt Fishing TV HD
-http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Точка отрыва
-http://193.25.8.59:8000/outdoor
-
-#EXTINF:-1 group-title="⚡Познавательные", GALAXY TV
-https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Galaxy TV
-http://193.25.8.59:8000/galaxy
-
-#EXTINF:-1 group-title="⚡Познавательные", Красная линия
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="nauka-20" group-title="⚡Познавательные", Наука 2.0 HD
-http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 tvg-id="zootv" group-title="⚡Познавательные", Зоо ТВ
-https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="teatr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8gShH9HPlwd98sZS2KPYPFZGd0rNnyL2VG8jdajLLOw=s900-c-k-c0x00ffffff-no-rj", Театр
-#EXTVLCOPT:http-user-agent=KizugTV
-http://31.148.48.15/Sochi_HD/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="rus-hualiang-tv", Китай ТВ HD
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Большая Азия
-http://stream-msk-05.ott.tricolor.tv/dtv/id690_MSKSG-PVR-1--Big_Asia/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="doktor", Доктор
-https://stream-msk-14.ott.tricolor.tv/dtv/id936_MSKSG-PVR-1--Doktor_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="HD Life", Точка.рф
-http://45.145.32.13:20440/hdl/index.m3u8?token=test
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="HD Life", Точка.рф
-http://31.148.48.15:80/HD_Life/index.m3u8?token=test
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="HD Life", HDL
-http://31148.rafail1982.uz/HD_Life/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", 5 Minute Crafts (VPN)
-https://tinyurl.com/mrx4kref?.m3u8
-#EXTINF:-1 group-title="⚡Познавательные", 5 Minute Crafts (VPN)
-https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", BBC Earth (VPN)
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Wired 2 Fish (VPN)
-https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", BBC Top Gear (VPN)
-https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Waterbear (VPN)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", CraftsyTV
-https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXy1NYRPkPxhVPPQbdNBS8u9c-UzbtqZXiA&s", CraftsyTV
-https://linear-492.frequency.stream/dist/vidaa/492/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4972
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0pUPcDReE0yy0vx8EAuGOlFT8a92tdXOYg&s", Nature Time
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-fetchtvau/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png", Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-fetchtvau/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Real Wild
-https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", MyZen Wellbeing TV
-https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", Hell's Kitchen
-https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", H20 TV
-https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные", infast tv
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Samnaun TV
-http://streaming12.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",ANIMAUX
-http://145.239.5.177/314/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/15a9pG9.png",Chef Champion
-https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay
-https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/B45qcQX.png",Jordan Kitchen
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/lWfh8pP.png",Roya Kitchen
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/xP7Ehn8.png",Tastemade
-https://tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/xP7Ehn8.png",Tastemade
-https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.imgur.com/xP7Ehn8.png",Tastemade
-https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-
-#EXTINF:-1 group-title="Казахстан",TV1 (KG)
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Terra
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Terra
-http://31.148.48.15/Terra/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Terra HD
-http://31.148.48.15/Terra_HD/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Terra Incognita
-http://178.124.153.123:44400/terra
-
-#EXTINF:-1 group-title="⚡Познавательные",Travel+Adventure HD
-http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Univer TV HD
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-
-#EXTINF:-1 group-title="⚡Познавательные",Viju History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-
 #EXTINF:-1 group-title="Эфирные",АРТ ТВ
 http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="Эфирные",АРТ ТВ
@@ -9054,9 +9026,6 @@ http://bsttv.bonus-tv.ru:80/cdn/hdbst/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Эфирные",БСТ24 HD
 http://bst.bratsk.ru/hls/bst2/fhd/stream.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",Байкал Универ ТВ
-http://stream01.bgu.ru:8081/1/1/playlist.m3u8
-
 #EXTINF:-1 group-title="Казахстан",Балапан ТВ
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
@@ -9091,11 +9060,6 @@ http://213.59.128.165/Belgorod_24/index.m3u8
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Эфирные",Бобёр
 http://178.212.71.253:8000/play/77/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="⚡Познавательные",Большая Азия HD
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Региональные",Брянская Губерния
 http://31.148.6.9:10021/index.m3u8
@@ -9135,9 +9099,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Региональные",Волжский Плюс HD
 http://flussonic.powernet.com.ru:8080/volplus/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Вопросы и ответы
-http://178.212.71.253:8000/play/97/index.m3u8
 
 #EXTINF:-1 group-title="Региональные",Восток 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
@@ -9195,9 +9156,6 @@ http://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Эфирные",Дон 24 HD
 http://donmedia.bonus-tv.ru/cdn/donmedia/playlist_hdhigh.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",Е ТВ
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1  group-title="Региональные",Евпатория 24
 http://195.26.83.96:7029/play/a009
 
@@ -9209,57 +9167,8 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Жара
 http://178.212.71.253:8000/play/141/index.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",Живая Планета
-http://178.212.71.253:8000/play/114/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Живая Планета
-http://95.66.188.74/Zhivaya_Planeta/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Живая Природа
-http://178.212.71.253:8002/play/a00o/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Живая Природа HD
-http://178.212.71.253:8000/play/79/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Живая планета
-http://95.66.188.74/Zhivaya_Planeta/mono.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Живи
-http://31.148.48.15:80/Zhivi/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Живи Активно HD
-http://213.230.65.254:8000/play/a026
-
-#EXTINF:-1 group-title="Региональные",Жизнь Глазова
-http://yellow.garant.tv/glazov24/stream.m3u8
-
-#EXTINF:-1 group-title="Эфирные",За! ТВ
-https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Загородная Жизнь
-http://185.57.68.33/40/index.m3u8
-
-
-#EXTINF:-1 group-title="⚡Познавательные",Загородный
-http://95.66.188.74:80/Zagorodniy/mono.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Загородный Int
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-
 #EXTINF:-1 group-title="Региональные",Запад 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-
-
-
-#EXTINF:-1 group-title="⚡Познавательные",Здоровое ТВ
-http://178.212.71.253:8000/play/94/index.m3u8
-#EXTINF:-1 group-title="⚡Познавательные",Здоровое ТВ
-http://31.148.48.15:80/Zdorovoe_TV/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Зоо ТВ
-http://95.66.188.74:80/Zoo_TV/mono.m3u8
-#EXTINF:-1 group-title="⚡Познавательные",Зоо ТВ
-http://193.25.8.59:8000/zoo
 
 
 #EXTINF:-1 group-title="Региональные",Известия (Армавир)
@@ -9273,17 +9182,6 @@ http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Известия (Старый Оскол)
 http://stream.tvbelgorod.ru:8080/izvestiya/index.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",История
-http://95.66.188.74/Istoria/mono.m3u8
-
-#EXTINF:-1 group-title="Казахстан",КТК
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-
-#EXTINF:-1 group-title="Казахстан",КТК HD
-http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Региональные",Кавказ 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Казахстан",Казахстан
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v2a1/mono.ts.m3u8
@@ -9292,8 +9190,6 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.t
 #EXTINF:-1 group-title="Казахстан",Казахстан International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",Калейдоскоп ТВ
-http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные",Камчатка 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -9311,22 +9207,11 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 group-title="Региональные",Катунь 24 (Барнаул)
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",Кварц ТВ
-http://109.94.1.3:8080/25/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Китай ТВ
-http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-
 #EXTINF:-1 group-title="Музыкальные",Кнопка ТВ
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 
 #EXTINF:-1 group-title="Региональные",Колыма Плюс ТВ
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Конгресс ТВ HD
-http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1 group-title="⚡Познавательные",Конгресс ТВ HD
-https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 
 #EXTINF:-1 group-title="Эфирные",Красная линия ТВ
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -9351,20 +9236,11 @@ http://178.212.71.253:8000/play/25/index.m3u8
 #EXTINF:-1 group-title="Эфирные",Крым 24
 https://cdn.1tvcrimea.ru/switcher.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",Кто есть кто
-http://178.212.71.253:8000/play/132/index.m3u8
-
 #EXTINF:-1 group-title="Региональные",Кузбасс 1 HD
 http://192.162.37.3:8000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="Региональные",Культ Медиа (Астрахань) [HD]
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Кухня
-http://31.148.48.15:80/Kuhnya_TV/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Кухня ТВ
-http://95.66.188.74/Kuhnya/mono.m3u8
 
 #EXTINF:-1 group-title="Эфирные",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
@@ -9444,15 +9320,6 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 #EXTINF:-1 group-title="Региональные",Москва Доверие
 http://178.212.71.253:8000/play/53/index.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",Моя Планета
-http://194.143.148.28:8080/Nauka20/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Моя планета HD
-http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
-
-#EXTINF:-1 group-title="Эфирные",Мужской
-http://193.25.8.59:8000/muzhskoy
-
 #EXTINF:-1 group-title="Музыкальные",Муз Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Муз ТВ
@@ -9513,19 +9380,6 @@ https://air.nts-tv.ru/fhd.m3u8
 #EXTINF:-1 group-title="Региональные",НТС Севастополь
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",Наука
-http://178.212.71.253:8000/play/88/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Наша Тема
-http://178.212.71.253:8000/play/73/index.m3u8
-
-#EXTINF:-1 group-title="Эфирные",Наши Города
-http://kogalimtv.servicecdn.ru/streams/775_913148/480n/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Наши Города HD
-http://kogalimtv.servicecdn.ru/streams/775_913148/1080n/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Неизвестная Планета
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Региональные",Нижний Новгород 24
 http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Нижний Новгород 24 HD
@@ -9711,13 +9565,6 @@ http://95.47.155.244:8001/play/a021
 
 #EXTINF:-1 group-title="Региональные",Продвижение Солнце ТВ (Южно-Сахалинск)
 http://188.113.190.13/25/video.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Просвещение
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Психология
-http://178.212.71.253:8000/play/96/index.m3u8
-
 
 #EXTINF:-1 group-title="Эфирные",РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
@@ -10485,9 +10332,6 @@ http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 http://hls-video01.cdnvideo.ru/video01/video01_480.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Новое Радио ТВ HD
 http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="⚡Познавательные",Первый Медицинский канал
-https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="Радио",Радио 1 [RU]
 http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
