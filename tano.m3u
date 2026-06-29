@@ -1,49 +1,175 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG7, http://epg.iptvcinema.ru/epg.gz"
 
-#EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
-http://cdntv.online/high/v6rf4syijn/1.m3u8
-#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1
-http://cdntv.online/high/v6rf4syijn/2.m3u8
-#EXTINF:0 tvg-id="3" tvg-logo="http://epg.cdntv.online/img/3.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Матч! ТВ
-http://cdntv.online/high/v6rf4syijn/3.m3u8
-#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ
-http://cdntv.online/high/v6rf4syijn/4.m3u8
-#EXTINF:0 tvg-id="5" tvg-logo="http://epg.cdntv.online/img/5.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Пятый канал
-http://cdntv.online/high/v6rf4syijn/5.m3u8
-#EXTINF:0 tvg-id="6" tvg-logo="http://epg.cdntv.online/img/6.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия К
-http://cdntv.online/high/v6rf4syijn/6.m3u8
-#EXTINF:0 tvg-id="9" tvg-logo="http://epg.cdntv.online/img/9.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ОТР
-http://cdntv.online/high/v6rf4syijn/9.m3u8
-#EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр
-http://cdntv.online/high/v6rf4syijn/10.m3u8
-#EXTINF:0 tvg-id="11" tvg-logo="http://epg.cdntv.online/img/11.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ
-http://cdntv.online/high/v6rf4syijn/11.m3u8
-#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
-http://cdntv.online/high/v6rf4syijn/14.m3u8
-#EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ3
-http://cdntv.online/high/v6rf4syijn/15.m3u8
-#EXTINF:0 tvg-id="17" tvg-logo="http://epg.cdntv.online/img/17.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда
-http://cdntv.online/high/v6rf4syijn/17.m3u8
-#EXTINF:0 tvg-id="18" tvg-logo="http://epg.cdntv.online/img/18.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Мир
-http://cdntv.online/high/v6rf4syijn/18.m3u8
-#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал HD
-http://cdntv.online/high/v6rf4syijn/29.m3u8
-#EXTINF:0 tvg-id="33" tvg-logo="http://epg.cdntv.online/img/33.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1 HD
-http://cdntv.online/high/v6rf4syijn/33.m3u8
-#EXTINF:0 tvg-id="360" tvg-logo="http://epg.cdntv.online/img/360.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ HD
-http://cdntv.online/high/v6rf4syijn/360.m3u8
-#EXTINF:0 tvg-id="388" tvg-logo="http://epg.cdntv.online/img/388.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ HD
-http://cdntv.online/high/v6rf4syijn/388.m3u8
-#EXTINF:0 tvg-id="1036" tvg-logo="http://epg.cdntv.online/img/1036.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ3 HD
-http://cdntv.online/high/v6rf4syijn/1036.m3u8
-#EXTINF:0 tvg-id="1115" tvg-logo="http://epg.cdntv.online/img/1115.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда HD
-http://cdntv.online/high/v6rf4syijn/1115.m3u8
-#EXTINF:0 tvg-id="1352" tvg-logo="http://epg.cdntv.online/img/1352.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Мир HD
-http://cdntv.online/high/v6rf4syijn/1352.m3u8
-#EXTINF:0 tvg-id="2076" tvg-logo="http://epg.cdntv.online/img/2076.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр HD
-http://cdntv.online/high/v6rf4syijn/2076.m3u8
-#EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний HD
-http://cdntv.online/high/v6rf4syijn/2077.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+http://95.66.188.74:80/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="Федеральные",Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74:80/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР 24 FHD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+http://2.57.217.85:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Федеральные", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Россия К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ
+http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ
+http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1
+http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия К
+http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Viasat History
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",2x2
+http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",VIP Comedy HD
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Кинопоказ
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница
+http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",TMTV
+http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНВ-Татарстан
+http://89.232.68.194:8080/tnv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3
+http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Карусель
+http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные", Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные", Первый канал
+http://95.66.188.74/PerviyKanal/mono.m3u8
+#EXTINF:-1 group-title="Федеральные", Рен ТВ
+http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:-1 group-title="Федеральные", Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные", Россия 24
+http://95.66.188.74/Rossia24/mono.m3u8
+#EXTINF:-1 group-title="Федеральные", НТВ
+http://95.66.188.74/NTV/mono.m3u8
+#EXTINF:-1 group-title="Федеральные", 5 канал
+http://95.66.188.74/5kanal/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Домашний HD
+http://195.158.223.132:8002/Domashniy
+#EXTINF:-1 group-title="Федеральные",Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные",Известия ТВ
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные",Известия ТВ HD
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР24 FHD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ
+http://178.212.71.253:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ
+http://95.66.188.74/NTV/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://178.212.71.253:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+http://95.66.188.74:80/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница!
+http://95.66.188.74/Pyatnica/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница! Int.
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1
+http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия К HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия К
+http://193.25.8.59:8000/rossiak
+#EXTINF:-1 group-title="Федеральные",СТС HD
+http://95.66.188.74:80/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3 HD
+http://195.158.223.132:8002/TV_3
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://193.25.8.59:8000/tvc
+#EXTINF:-1 group-title="Федеральные",ТНТ
+http://178.212.71.253:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74:80/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="ntv-style", НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=KizugTV
 https://kizug.ru/s/N2Bbp0vzwyRW/67652a51028a/aHR0cHM6Ly9jZG4ubnR2LnJ1OjQ0My90aF9zdHlsZS9wbGF5bGlzdC5tM3U4.m3u8
