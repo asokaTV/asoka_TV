@@ -1,41 +1,29 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG7, http://epg.iptvcinema.ru/epg.gz"
 
-#EXTINF:-1 group-title="Федеральные",Первый HD
-http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://95.66.188.74:80/PerviyHD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
-http://95.66.188.74/Rossia1HD/mono.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="Федеральные",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://95.66.188.74:80/TNT_HD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ HD
-http://95.66.188.74/TNT_HD/mono.m3u8
+
 #EXTINF:-1 group-title="Федеральные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 group-title="Федеральные",МИР 24 FHD
+
+#EXTINF:-1 group-title="Федеральные",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",МИР 24
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+
 #EXTINF:-1 group-title="Федеральные",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",МИР HD
-https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал
-http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
+
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://2.57.217.85:8000/play/a035/index.m3u8
+
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Федеральные", Россия 1 HD
@@ -48,56 +36,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал
-http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ
-http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1
-http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия К
-http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Viasat History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятый канал
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",2x2
-http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",VIP Comedy HD
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Кинопоказ
-http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятница
-http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС
-http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",TMTV
-http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНВ-Татарстан
-http://89.232.68.194:8080/tnv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ3
-http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Карусель
-http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные", Первый HD
-http://95.66.188.74/PerviyHD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", Первый канал
-http://95.66.188.74/PerviyKanal/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", Рен ТВ
-http://95.66.188.74/RenTV/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", Россия 1 HD
-http://95.66.188.74/Rossia1HD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", Россия 24
-http://95.66.188.74/Rossia24/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", НТВ
-http://95.66.188.74/NTV/mono.m3u8
-#EXTINF:-1 group-title="Федеральные", 5 канал
-http://95.66.188.74/5kanal/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",Домашний HD
-http://195.158.223.132:8002/Domashniy
+
 #EXTINF:-1 group-title="Федеральные",Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда HD
