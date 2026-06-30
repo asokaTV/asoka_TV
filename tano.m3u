@@ -2,159 +2,122 @@
 
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-
-
-#EXTINF:-1 group-title="Федеральные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="Федеральные",Россия 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Федеральные",МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 group-title="Федеральные",МИР HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
-
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="Федеральные", Россия 1 HD
+#EXTINF:-1 group-title="Wink и другие часовые пояса" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные" ,Россия 24
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="Федеральные",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" ,Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия К
+http://193.25.8.59:8000/rossiak
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС
+http://45.145.32.13:20440/ctc/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС International
+http://158.101.222.193:88/georgia_play.php?id=ctctv
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные", НТВ МИР
+https://kizug.ru/s/N2Bbp0vzwyRW/a74f55262304/aHR0cDovLzIxNy4xNzQuMjI5LjEzNjo4MDAwL3BsYXkvYTAyMA.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3
+http://85.192.10.131/hls/tv3/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://193.25.8.59:8000/tvc
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Домашний
+http://45.145.32.13:20440/domashnij/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Ю
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",8 Канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",8 канал
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница
+http://45.145.32.13:20440/piatnica/index.m3u8?token=test
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Красная Линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="Федеральные" ,Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Известия ТВ
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Федеральные",Известия ТВ HD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Федеральные",МИР24 FHD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Россия 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные",Россия К
-http://193.25.8.59:8000/rossiak
-
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-http://193.25.8.59:8000/tvc
-
-#EXTINF:-1 group-title="Развлекательные",Домашний
-http://45.145.32.13:20440/domashnij/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные",Пятница
-http://45.145.32.13:20440/piatnica/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные",СТС
-http://45.145.32.13:20440/ctc/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные",ТВ3
-http://85.192.10.131/hls/tv3/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",8 канал
-http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда
-http://45.145.32.13:20440/zvezda/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные",Звезда Плюс
-http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные",Мир
-http://45.145.32.13:20440/mir/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные",Мир 24
-http://45.145.32.13:20440/mir_24/index.m3u8?token=test
-#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные" ,Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Федеральные",Красная Линия
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",8 Канал
-http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 group-title="Федеральные",СТС International
-http://158.101.222.193:88/georgia_play.php?id=ctctv
-#EXTINF:-1 group-title="Федеральные",Ю
-http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",8 канал
-http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные" tvg-id="ntv-style", НТВ СТИЛЬ
-#EXTVLCOPT:http-user-agent=KizugTV
-https://kizug.ru/s/N2Bbp0vzwyRW/67652a51028a/aHR0cHM6Ly9jZG4ubnR2LnJ1OjQ0My90aF9zdHlsZS9wbGF5bGlzdC5tM3U4.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-id="ntv-pravo", НТВ ПРАВО
-#EXTVLCOPT:http-user-agent=KizugTV
-https://kizug.ru/s/N2Bbp0vzwyRW/78afeade2335/aHR0cHM6Ly9jZG4ubnR2LnJ1OjQ0My90aF9wcmF2by9wbGF5bGlzdC5tM3U4.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ ХИТ
-#EXTVLCOPT:http-user-agent=KizugTV
-https://kizug.ru/s/N2Bbp0vzwyRW/3b105cbc64da/aHR0cDovL2NkbjIubnR2LnJ1L3RoX2hpdC9wbGF5bGlzdC5tM3U4.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ СЕРИАЛ
-#EXTVLCOPT:http-user-agent=KizugTV
-https://kizug.ru/s/N2Bbp0vzwyRW/44630180c082/aHR0cDovL2NkbjIubnR2LnJ1L3RoX3NlcmlhbC9wbGF5bGlzdC5tM3U4.m3u8
 
 #EXTINF:-1 group-title="Rutube TV",Rutube TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
