@@ -1,7 +1,5 @@
 #EXTM3U 
-#EXTINF:0 tvg-rec="0",VF Граиндхаус
-#EXTGRP:18+
-http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/14158/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Playboy TV
 #EXTGRP:18+
 http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/527/index.m3u8
