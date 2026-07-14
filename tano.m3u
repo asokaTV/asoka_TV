@@ -3655,17 +3655,153 @@ http://kinowalk.hopto.org/lisfix_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18716382/avatar?change_time=1737140673&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="IPTV Cinema (нестабильные)", dj Zour
 http://kinowalk.hopto.org/zsmedia_live
 
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png","Мимоза" с тунцом - суп с креветками и сыром - котлеты из рыбы и картофеля
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/113/477.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png","Правильные" бутерброды - фасоль "Cкачущий Джон" - сардельки с разноцветными перцами - йогуртовое парфе
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/096/139.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png","Пьяные" куриные грудки - салат из чечевицы - ягодно апельсиновый пирог
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high/071/858.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Баклажаны по-итальянски - печень в крахмале - йогуртовый пирог с цитрусовым сиропом
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/102/748.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бараний суп с фасолью - говяжья вырезка с тыквой - пирожное "Картошка"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/088/734.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Баранина в индийском стиле - сэндвич из хлеба с красной рыбой и сметаной - шоколадный пирог - "внеплановый" овощной салат с пикантной заправкой
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/073/311.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Белый борщ - паприкаш с вёшенками - салат с орехами
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/115/807.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Борщ - осетинский соус цахтон - салат с картошечкой - груздями и сметаной - картофель с тремя видами мяса
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/120/822.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Говядина "по царски" - рыбная московская солянка - грушевый пирог "Боярыня"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/089/033.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Говядина с лапшой и овощами - закуска из нута  маслин и красного лука - жареные бананы в кокосовой стружке
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/117/159.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Говяжья вырезка с пюре из цукини - капустный салат с кокосово-кунжутной заправкой - пасхальные булочки
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/109/516.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Гороховый суп с пряностями - запечённая курица с имбирём - салат из кумкватов и десерт "Пьяная груша"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/091/176.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Гречневый суп с куриными фрикадельками - "Пушкинский экзерсис" - яблочный пирог Вульфов
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/093/958.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Грибная окрошка по-удмуртски - тушёная капуста с мясом - зимняя шарлотка и морковно-яблочный салат
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/091/531.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Грибной суп - курица с базиликом по тайски - салат "Нисуаз"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/094/689.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Гуляш с тыквой и индейкой - салат из жареных перцев - кёрёзёт
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/118/844.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Джаджик - курица в перце - клубничный трайфл
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/112/849.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Еврейский суп хамин (чолнт) - гульчехру из курицы - слоёные пирожки с телячьим фаршем
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/103/130.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Кролик с луком и помидорами - окрошка со свёклой - запеканка из зелени в сливочном соусе
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/093/208.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Куриная лапша с песто из укропа - тушённая капуста с яблоками - постный открытый пирог с грибами
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/117/512.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Куриная пицца без муки - салат с кальмарами и кукурузой - ньокки с историей
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/113/781.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Куриные тефтели с овсяными хлопьями - жёлтый гороховый суп - плюшки с корицей
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/119/494.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Куриный салат с грейпфрутом - джамбалайя с бурым рисом и копчёной курицей - вишнёво-шоколадные кексы
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/100/920.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Курица в глазури из мёда и горчицы - рулетики из лаваша с картофелем и грибами - сосиски в медово-горчичном соусе
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/114/930.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Курица по калифорнийски - стейки из тыквы - кекс с ананасом и кокосом
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/083/650.mp4?id=83650
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лечо с кабачками - ростбиф с цветной капустой и грибами - салат из бобовых - огурцы и помидоры "по-милявски"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/117/864.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лимонно-чечевичный суп - пирог из лаваша и фарша - шоколадный мусс с апельсином
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/101/991.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Марокканский салат - куриные крылышки в соево-горчичном соусе и десерт "Клубничная нежность"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/095/424.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Минестроне с песто - соте в прованском стиле - лёгкий салат из редиса и апельсинов
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/111/542.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Овощной салат с креветкам - бараньи рёбрышки с клюквенным соусом - шоколадный торт
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/115/506.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Оджахури - довга - кюкю
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/112/520.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Оладьи с зелёным луком и зелёным кремом - тефтели в картофельных корзинках - яблочный десерт - молочно-фисташковый коктейль
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/075/332.mp4?id=75332
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Отбивные из индейки - салат с креветками - мятой и апельсинами - запеканка с моцареллой
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/107/381.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Оякодон - кальмар с овощами по корейски - помидоры в кляре - яблочный уксус на абрикосах
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/097/760.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Паста с креветками в чесночно-сливочном соусе - рыбный суп с помидорами и сладким перцем - апельсиновое печенье
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/114/650.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Плов "Падишах"  салат "Хабиби"  десерт "Восточная сказка"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/medium/002/952.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Португальский зелёный суп - индийское рыбное карри - пирог с зеленью
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/095/796.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Постная солянка - казан кабоб - кексы из тыквы по-домашнему
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/118/523.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Постный борщ с баклажанами - форель на картофельной подушке - брокколи с имбирём
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/114/371.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Солянка матросская - отбивные из баранины - тарталетки с сырным соусом
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/106/736.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Соус сацебели - люля-кебаб из говядины - свекольно творожные горки
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/077/925.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Судак а-ля натюрель - курочка в хрустящей корочке - яйца кокот с шампиньоновым пюре
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/088/334.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Судак со свекольным пюре - яблочный свекольник - баклажаны по рюмински
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/079/740.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп из грибов - грибные оладьи - телятина с малиной и розмарином
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/096/466.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп из тыквы с бобами - куриная печень с орехами - салат "Цезарь" с беконом и яйцом
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/109/157.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп из утки с пшеном - рис с изюмом и шпинатом - гурьевская каша
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/108/773.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп из щавеля с сыром - китайский салат из дикого риса с курицей - говядина с сельдереем
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/110/850.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп с курицей - овощами и ньокки - тальятелле с индейкой - тосты с начинкой
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/106/021.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп с фрикадельками и булгуром - курицу "Три чашки" - батончики из сухофруктов
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/105/313.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп с фрикадельками из трески - тёплый картофельный салат с тунцом - рыбная запеканка
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/109/880.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп с чечевицей - салат с телятиной и сладким перцем - горячий клюквенный чай - имбирно-лимонный напиток
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/084/038.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Суп султана Махмуда - помидоры по восточному - пирог с яблоками и инжиром
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/081/402.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сёмга под шубой из лука порея - морковные оладьи с авокадо - лжеяблочный пирог
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/107/689.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Тайский кокосовый суп с фрикадельками - азу по-татарски - оладьи на кипячёном кефире
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/102/382.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Террин из творога с редисом - лосось с овощами в фольге - крем-суп из шампиньонов и кольраби
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/116/468.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Тефтели  запечённые с фасолью - оладьи из тыквы с ореховым соусом и салат с блинчиками и слабосолёным лососем
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/089/676.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Томатный суп из Северной Африки - жареная курица с овощами - пюре из кольраби - сельдерея и картофеля
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/119/824.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Тыквенный суп - кролик с печёными помидорами и чесночной тыквой - персики в меду
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/116/148.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Тёплый салат с говядиной - овощной суп с фрикадельками - печенье с миндалём и цукатами
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/076/020.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Узбекский плов и ачучук - зелёное лобио по бакински - фруктовый салат с соусом из грейпфрута
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/101/605.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",фасолью и кефирной заправкой - десерт "Творожное капучино" - индейка в соусе гуакамоле
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/096/800.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Форель в ароматных травах - салат из корня сельдерея - суп из индейки "Нерастолстейка"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/074/972.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Форель в тонком лаваше - суп чаудер с рисом - пряный творожный паштет
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/093/593.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Хумус с грибами - тефтели с фасолью и черносливом - домашние сырные палочки
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/116/804.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Царские щи - пирог с рыбой - салат из кольраби - салат импровизация от Кулинара
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/099/100.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Цыплёнок в тесте - суп "Простенько  но со вкусом" - яблоки  фаршированные фруктами и шоколадом
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high/072/205.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Цыплёнок тапака - пхали из свёклы - "Тбилисское первое  второе и третье"
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/078/672.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Чечевичный суп - кебаб из баранины в ливанском стиле - картофель по-мексикански
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/099/461.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Чечевичный суп с копчёными рёбрами - жаркое из баранины с тыквой и нутом - нормандский хлеб
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/110/551.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Шашлычки "Цезарь" - сицилийская кассата - жареный морской окунь
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/106/372.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Щи из свежей капусты с яблоками - салат с белыми грибами - тыквенно-овсяное печенье
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/098/424.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Щи царские - блинный пирог с курицей и грибами - оладушки с шоколадным соусом
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/106/962.mp4
+#EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Эларджи - кисло сладкая курица - айран
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/079/038.mp4
 
-#EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", Кухня ТВ
-http://cdntv.online/high/v6rf4syijn/336.m3u8
-#EXTINF:0 tvg-id="427" tvg-logo="http://epg.cdntv.online/img/427.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", Food Network HD
-http://cdntv.online/high/v6rf4syijn/427.m3u8
-#EXTINF:0 tvg-id="517" tvg-logo="http://epg.cdntv.online/img/517.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", Food Network
-http://cdntv.online/high/v6rf4syijn/517.m3u8
-#EXTINF:0 tvg-id="518" tvg-logo="http://epg.cdntv.online/img/518.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", Еда
-http://cdntv.online/high/v6rf4syijn/518.m3u8
-#EXTINF:0 tvg-id="519" tvg-logo="http://epg.cdntv.online/img/519.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кулинарные", FoodTime
-http://cdntv.online/high/v6rf4syijn/519.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -3673,7 +3809,7 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://45.11.139.43:8555/365dney/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:0 group-title="Познавательные",Моя Планета
+#EXTINF:-1 group-title="Познавательные",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
@@ -12532,6 +12668,523 @@ https://kizug.ru/s/N2Bbp0vzwyRW/7e401840f892/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5
 https://kizug.ru/s/N2Bbp0vzwyRW/ac292cdb7024/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTEwNDQwMA.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-30)
 https://kizug.ru/s/N2Bbp0vzwyRW/2ea4fa4f0374/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTEwODAwMA.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Abba - If It Wasn t For The Nights
+http://dsx.obmenvsemfiles.net/fo/get/5705124_137951081/137951081_ABBA___If_It_Wasn_t_For_The_Nights_Japan_1978-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Abba - S O S (1975)
+http://ds2.obmenvsemfiles.net/fo/get/6474762_162697728/162697728_ABBA___S_O_S_1975-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Abba - Summer Night City
+https://z27.anwap.be/klipy/content/4/ABBA-Summer_Night_City_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Abba - Voulez Vous (1979)
+http://ds2.obmenvsemfiles.net/fo/get/6480082_162876655/162876655_ABBA___Voulez_Vous_1979_g_-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ace of Base - Beautiful Life
+http://ds2.obmenvsemfiles.net/fo/get/6501502_163587505/163587505_Ace_of_Base___Beautiful_Life-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Amanda Lear - Solomon Gundie (1980).mp4
+http://ds2.obmenvsemfiles.net/fo/get/6486562_163092252/163092252_Amanda_Lear___Solomon_Gundie_1980_g_-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Aqua - Barbie girl
+https://z27.anwap.be/klipy/content/5/Aqua-Barbie_girl_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Arabesque - In for a penny in for a pound
+https://z27.anwap.be/klipy/content/4/Arabesque-In_for_a_penny_in_for_a_pound_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Arabesque - Rock me after midnight
+https://z27.anwap.be/klipy/content/4/Arabesque-Rock_me_after_midnight_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Babyaposs Gang and Boney M - Happy Song (1984)
+http://ds2.obmenvsemfiles.net/fo/get/6474726_162696209/162696209_Babyaposs_Gang_and_Boney_M___Happy_Song_1984-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Bad Boys Blue - A World Without You Michelle
+https://z27.anwap.be/klipy/content/5/BAD_BOYS_BLUE-A_World_Without_You_Michelle_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Bad Boys Blue - Youre A Woman
+http://ds2.obmenvsemfiles.net/fo/get/5123954_121530263/121530263_Bad_Boys_Blue___Youre_A_Woman_1985-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Blue Sistem - My Bed Is Too Big
+http://ds2.obmenvsemfiles.net/fo/get/5727310_138637933/138637933_Blue_Sistem_2-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",C C Catch - Backseat of your cadillac
+https://z27.anwap.be/klipy/content/4/CC_Catch-Backseat_of_your_cadillac_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",C C Catch - Cause You Are Young
+http://ds2.obmenvsemfiles.net/fo/get/6287918_156572828/156572828_C_C_Catch___Cause_You_Are_Young_Extended_Version-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",C C Catch - I Can Lose My Heart Tonight Maxi Version
+http://ds2.obmenvsemfiles.net/fo/get/5492530_131583039/131583039_C_C_Catch___I_Can_Lose_My_Heart_Tonight_Maxi_Version_HD-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Camouflage - Love Is A Shield
+https://z27.anwap.be/klipy/content/5/CAMOUFLAGE-Love_Is_A_Shield_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Camouflage - The Great Commandment
+https://z27.anwap.be/klipy/content/5/CAMOUFLAGE-The_Great_Commandment_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Captain Hollywood Project - Engachados Impossible Only with you More
+http://ds2.obmenvsemfiles.net/fo/get/6519246_164167327/164167327_Captain_Hollywood_Project___Engachados_Impossible_Only_with_you_More_and_HD-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Chris Norman - Sun Is Rising
+https://z27.anwap.be/klipy/content/5/CHRIS_NORMAN-Sun_Is_Rising_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Dan Balan и В.Брежнева - Наше лето
+https://z27.anwap.be/klipy/content/5/DAN_BALAN-Nashe_leto_ft._Vera_Brezhneva_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Doddy feat Lora - Dor Sa Te Ador (Remix)
+http://ds2.obmenvsemfiles.net/fo/get/6417146_160841147/160841147_Doddy_feat_Lora___Dor_Sa_Te_Ador_Remix-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",E-Rotic - Sex me
+http://ds2.obmenvsemfiles.net/fo/get/5022770_118721873/118721873_E_Rotic___Sex_me_AVC_854x480p_866kaac_160-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",E-Type - Camilla
+http://ds2.obmenvsemfiles.net/fo/get/6492734_163282379/163282379_E_Type_Camilla-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Eagles - Hotel California
+https://z27.anwap.be/klipy/content/2/The_Eagles-Hotel_California_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Eddy Huntington - U S S R
+https://z27.anwap.be/klipy/content/4/Eddy_Huntington-USSR_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Europe - Final countdown
+https://z27.anwap.be/klipy/content/2/Europe-Final_countdown_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Fancy - Bodyguard
+https://z27.anwap.be/klipy/content/5/FANCY-Bodyguard_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",French Affair - Sexy
+http://ds2.obmenvsemfiles.net/fo/get/6363386_159057186/159057186_French_Affair___Sexy_Official_Music_Video-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Gregorian - Moment of Peace
+http://dsx.obmenvsemfiles.net/fo/get/6254096_155449518/155449518_Gregorian__Moment_of_Peace_HD-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Haddaway - What is love
+https://z27.anwap.be/klipy/content/5/Haddaway-What_is_love_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Haddaway - Who Do You Love
+http://ds2.obmenvsemfiles.net/fo/get/4020550_91234742/91234742_003_Haddaway___Who_Do_You_Love-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Hi-Fi - Нам пора
+https://z27.anwap.be/klipy/content/5/Hi-Fi-Nam_pora_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Inna - I Need You For Christmas
+https://z27.anwap.be/klipy/content/5/Inna-I_Need_You_For_Christmas_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Inna-Heaven
+https://z27.anwap.be/klipy/content/5/INNA-Heaven_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Julia Westlin - Lifeline
+http://ds2.obmenvsemfiles.net/fo/get/6341474_158329720/158329720_Julia_Westlin___Lifeline-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Katy Perry - Hot n cold
+https://z27.anwap.be/klipy/content/5/Katy_Perry-Hot_n_cold_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Kim Wilde - You Keep Me Hangin On (Moreno J Remix)
+http://ds2.obmenvsemfiles.net/fo/get/6474746_162697134/162697134_Kim_Wilde___You_Keep_Me_Hangin_On_Moreno_J_Remix-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",La Bouche - Be My Lover
+https://z27.anwap.be/klipy/content/6/La_Bouche-Be_My_Lover_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Lian Ross - Can You Love Me
+http://ds2.obmenvsemfiles.net/fo/get/6553534_165262841/165262841_Lian_Ross___Can_You_Love_Me_Extended_Version___BEST_ITALO_DISCO___EURODIS_HD-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Lian Ross - Young Forever
+http://dsx.obmenvsemfiles.net/fo/get/6360980_158969045/158969045_Lian_Ross___Young_Forever_Official_Video-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Madonna - La Isla Bonita (1986)
+http://ds2.obmenvsemfiles.net/fo/get/5127158_121621150/121621150_MADONNA___La_Isla_Bonita_1986-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Masterboy - Feel The Heat Of The Night
+http://ds2.obmenvsemfiles.net/fo/get/6563074_165596950/165596950_Masterboy___Feel_The_Heat_Of_The_Night_Thomas_Grand_Remix_HD-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Michael Jackson - Billie Jean
+https://z27.anwap.be/klipy/content/5/Michael_Jackson-Billie_Jean_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Modern Talking - Do You Wanna (Exclusive Video)
+http://ds2.obmenvsemfiles.net/fo/get/6515870_164057138/164057138_Modern_Talking___Do_You_Wanna_Exclusive_Video-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Modern Talking - Geronimos Cadillac
+https://z27.anwap.be/klipy/content/4/Modern_Talking-Geronimo039s_Cadillac_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Modern Talking - Heaven Will Know
+http://ds2.obmenvsemfiles.net/fo/get/6508150_163804395/163804395_Modern_Talking___Heaven_Will_Know-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Modern talking - You can win if you want
+https://z27.anwap.be/klipy/content/4/Modern_talking-You_can_win_if_you_want_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Monte Kristo - The Girl Of Lucifer
+http://ds2.obmenvsemfiles.net/fo/get/6372346_159369849/159369849_Monte_Kristo___The_Girl_Of_Lucifer_Video_HQ-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Patty Ryan - You Are My Lover (Official Video)
+http://dsx.obmenvsemfiles.net/fo/get/6432060_161316751/161316751_Patty_Ryan___You_Are_My_Lover_Official_Video-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Pink Floyd - Another Brick In The Wall
+http://ds2.obmenvsemfiles.net/fo/get/6180622_153054194/153054194_PINK_FLOYD_Another_Brick_In_The_Wall-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Rednex - Hold me for a while
+https://z27.anwap.be/klipy/content/5/Rednex-Hold_me_for_a_while_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Rednex - Wish you were here
+https://z27.anwap.be/klipy/content/5/Rednex-Wish_you_were_here_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Robbie Williams - Supreme
+https://z27.anwap.be/klipy/content/5/Robbie_Williams-Supreme_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Sandra - Around my heart
+https://z27.anwap.be/klipy/content/4/Sandra-Around_my_heart_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Sandra - In the heat of the night
+https://z27.anwap.be/klipy/content/4/Sandra-In_the_heat_of_the_night_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Sandra - Maria Magdalena
+https://z27.anwap.be/klipy/content/4/Sandra-Maria_Magdalena_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Sandra - We ll Be Together (1989)
+http://ds2.obmenvsemfiles.net/fo/get/6477330_162784968/162784968_Sandra___We_ll_Be_Together_ZDF_Hitparade_1989-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Savage - Dont Cry Tonight
+http://ds2.obmenvsemfiles.net/fo/get/5123978_121531708/121531708_Savage___Dont_Cry_Tonight_1985-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",September - Cry for you
+https://z27.anwap.be/klipy/content/5/September-Cry_for_you_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Silent Circle vs Ken Laszlo - Hey Hey Guy vs Touch in the Night remix
+http://ds2.obmenvsemfiles.net/fo/get/6559226_165461972/165461972_Silent_Circle_vs_Ken_Laszlo___Hey_Hey_Guy_vs_Touch_in_the_Night_remix_by_J_HD-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Smokie - I ll Meet You At Midnight
+http://dsx.obmenvsemfiles.net/fo/get/5330108_127112107/127112107_Smokie___I_ll_Meet_You_At_Midnight-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Smokie - Lay Back In the Arms Of Someone
+http://ds2.obmenvsemfiles.net/fo/get/6553686_165268434/165268434_Smokie___Lay_Back_In_the_Arms_Of_Someone_ZDF_Disco-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Sofia Carson - Love Is The Name
+https://z27.anwap.be/klipy/content/5/SOFIA_CARSON-Love_Is_The_Name_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Space - Just Blue
+http://dsx.obmenvsemfiles.net/fo/get/6389212_159931177/159931177_Space__Didier_Marouani___Just_Blue_in_Russia_1991_HQ_stereo-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Space - Tango In Space (1977)
+http://dsx.obmenvsemfiles.net/fo/get/6474760_162697666/162697666_Space__Tango_In_Space_1977_g-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Stars On 45 - ABBA Medley
+http://ds2.obmenvsemfiles.net/fo/get/5733986_138847802/138847802_Stars_On_45___ABBA_Medley-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Thomas Anders - Love Of My Own
+https://z27.anwap.be/klipy/content/5/THOMAS_ANDERS-Love_Of_My_Own_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Thomas Anders - Sternenregen
+https://z27.anwap.be/klipy/content/5/THOMAS_ANDERS-Sternenregen_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Trans-X - I m Yours Tonight (Electro Potato Remix)
+http://ds2.obmenvsemfiles.net/fo/get/6562102_165564151/165564151_Trans_X___I_m_Yours_Tonight_Electro_Potato_Remix-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Yaki Da - I saw you dancing
+https://z27.anwap.be/klipy/content/5/Yaki_Da-I_saw_you_dancing_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",А Студио - Так же как все
+http://ds2.obmenvsemfiles.net/fo/get/6414058_160733364/160733364_A_Studio_Tak_zhe_kak_vse-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Азиза - Всё или ничего
+https://z27.anwap.be/klipy/content/5/Aziza-Vsyo_ili_nichego_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Айвазов и Алена Валенсия - Ты любовь моя
+https://z27.anwap.be/klipy/content/5/Aleksandr_Ajvazov-Ty_lyubovq_moya_ft._Alena_Valensiya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Дюмин - Джанкойский этап
+https://z27.anwap.be/klipy/content/1/Dyumin-Dzhankojskij_yetap_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Дюмин - Журавли
+http://z27.anwap.be/klipy/content/1/Aleksandr_Dyumin-ZHuravli_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Дюмин - Одна у меня
+http://z27.anwap.be/klipy/content/1/Aleksandr_Dyumin-Odna_u_menya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Дюмин - Пили Водочку
+https://z27.anwap.be/klipy/content/1/Aleksandr_Dyumin-Pili_Vodochku_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Дюмин - Шпана
+https://z27.anwap.be/klipy/content/1/Dyumin-SHpana_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Звинцов - Долгая зима
+https://z27.anwap.be/klipy/content/1/Zvincov-Dolgaya_zima_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Звинцов - Ни гвоздя  ни жезла
+https://z27.anwap.be/klipy/content/1/Zvincov-Ni_gvozdya_ni_zhezla_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Левшин - Не будьте ко мне равнодушны
+http://z27.anwap.be/klipy/content/1/ALEKSANDR_LEVSHIN-Ne_budqte_ko_mne_ravnodushny_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Новиков - Девочка из лета
+https://z27.anwap.be/klipy/content/1/Aleksandr_Novikov-Devochka_iz_leta_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Новиков - Помнишь девочка...
+https://z27.anwap.be/klipy/content/1/Aleksandr_Novikov-Pomnishq_devochka_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Новиков - С красавицей в обнимку
+https://z27.anwap.be/klipy/content/1/Aleksandr_Novikov-S_krasavicej_v_obnimku_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Новиков - Уличная красотка
+https://z27.anwap.be/klipy/content/1/Aleksandr_Novikov-Ulichnaya_krasotka_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Панайотов - Зачем тебе я
+https://z27.anwap.be/klipy/content/5/ALEKSANDR_PANAJOTOV-Zachem_tebe_ya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Александр Серов - Мадонна
+https://z27.anwap.be/klipy/content/4/Aleksandr_Serov-Madonna_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Алексей Брянцев - Мне не хватает твоих глаз
+http://z27.anwap.be/klipy/content/1/Aleksej_Bryancev-Mne_ne_hvataet_tvoih_glaz_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Алексей Глызин и Валерия- Он и она
+https://z27.anwap.be/klipy/content/5/ALEKSEJ_GLYZIN-On_i_ona_ft._Valeriya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Алексей Созонов - Зацепила
+http://z27.anwap.be/klipy/content/1/ALEKSEJ_SOZONOV-Zacepila_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Алла Пугачёва - Надо же
+https://z27.anwap.be/klipy/content/5/ALLA_PUGACHEVA-Nado_zhe_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Алёна Апина - Электричка
+https://z27.anwap.be/klipy/content/5/Alyona_Apina-YElektrichka_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Анатолий Корж - Красивая и смелая
+https://z27.anwap.be/klipy/content/1/Anatolij_Korzh-Krasivaya_i_smelaya_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Анатолий Полотно - Против Ветра
+https://z27.anwap.be/klipy/content/1/Anatolij_Polotno-Protiv_Vetra_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Андрей Бандера - Осень в Москве
+https://z27.anwap.be/klipy/content/1/Andrej_Bandera-Osenq_v_Moskve_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Андрей Климнюк - Пацаны
+https://z27.anwap.be/klipy/content/1/Andrej_Klimnyuk-Pacany_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Анна Семенович - Секси бомбочка
+https://ds2.obmenvsemfiles.net/fo/get/6083726_149968777/149968777_Anna_Semenovich___Seksi_bombochka_2019-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Анна Семенович и Arash - На моря
+https://z27.anwap.be/klipy/content/5/Anna_Semenovich_i_Arash-Na_morya_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Аркадий Кобяков - Ветерок
+http://z27.anwap.be/klipy/content/1/ARKADIJ_KOBYAKOV-Veterok_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Аркадий Кобяков - Некуда бежать
+http://z27.anwap.be/klipy/content/1/Arkadij_Kobyakov-Nekuda_bezhatq_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Белое Золото - Любимая женщина
+http://z27.anwap.be/klipy/content/1/BELOE_ZOLOTO-Lyubimaya_zhenwina_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Белое Золото - Одна
+http://z27.anwap.be/klipy/content/1/BELOE_ZOLOTO-Odna_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Белый орел - Как упоительны в России вечера
+https://z27.anwap.be/klipy/content/5/Belyj_orel-Kak_upoitelqny_v_Rossii_vechera_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Белый орёл - Потому что нельзя быть на свете красивой такой
+https://z27.anwap.be/klipy/content/5/Belyj_oryol-Potomu_chto_nelqzya_bytq_na_svete_krasivoj_takoj_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Блестящие - А я все летала
+https://z27.anwap.be/klipy/content/5/Blestyawie-A_ya_vse_letala_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бумер - Не плачь
+http://z27.anwap.be/klipy/content/1/BUMER-Ne_plachq_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бумер - Огонек
+http://z27.anwap.be/klipy/content/1/BUMER-Ogonek_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бумер – Письма
+https://z27.anwap.be/klipy/content/1/Bumer__Pisqma-_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бутырка - Аттестат
+https://z27.anwap.be/klipy/content/1/Butyrka-Attestat_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бутырка - Девчонка с центра
+https://z27.anwap.be/klipy/content/1/Butyrka-Devchonka_s_centra_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бутырка - Икона
+http://z27.anwap.be/klipy/content/1/Butyrka-Ikona_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бутырка - Не плачь родная мать (Live)
+http://z27.anwap.be/klipy/content/1/Butyrka-Ne_plachq_rodnaya_matq_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бутырка - Субботник
+http://z27.anwap.be/klipy/content/1/BUTYRKA-Subbotnik_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Бутырка - Шарик
+https://z27.anwap.be/klipy/content/1/Butyrka-SHarik_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Вадим Казаченко - На летающем коне
+https://z27.anwap.be/klipy/content/4/Vadim_Kazachenko-Na_letayuwem_kone_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Валентина Легкоступова - Ягода малина
+https://z27.anwap.be/klipy/content/4/Valentina_Legkostupova-YAgoda_malina_(1987)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Василий Фоос - Снова стук колес
+https://z27.anwap.be/klipy/content/1/VASILIJ_FOOS-Snova_stuk_koles_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Весна - Самый близкий человек
+http://z27.anwap.be/klipy/content/1/Vesna-Samyj_blizkij_chelovek_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Весёлые ребята - Автомобили
+http://ds2.obmenvsemfiles.net/fo/get/6504786_163692636/163692636_Vesjolye_rebyata_Avtomobili-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Весёлые ребята - Розовые розы
+https://z27.anwap.be/klipy/content/4/Vesyolyee_rebyata-Rozovyee_rozy_(Pesnya_89)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Калина - Слезы девчонки
+https://z27.anwap.be/klipy/content/1/Viktor_Kalina-Slezy_devchonki_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Калина - Старые друзья
+https://z27.anwap.be/klipy/content/1/Viktor_Kalina-Staryee_druzqya_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Королёв - Снегири
+https://z27.anwap.be/klipy/content/1/Viktor_Korolyov-Snegiri_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Петлюра - Белая берёза
+https://z27.anwap.be/klipy/content/1/Viktor_Petlyura-Belaya_beryoza_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Петлюра - В городском саду
+https://z27.anwap.be/klipy/content/1/Viktor_Petlyura-V_gorodskom_sadu_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Петлюра - Дембеля
+https://z27.anwap.be/klipy/content/1/Viktor_Petlyura-Dembelya_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Петлюра - Окольцованная птица
+https://z27.anwap.be/klipy/content/1/Viktor_Petlyura-Okolqcovannaya_ptica_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Петлюра - Родителям
+https://z27.anwap.be/klipy/content/1/Viktor_Petlyura-Roditelyam_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Петлюра - Седой
+https://z27.anwap.be/klipy/content/1/Viktor_Petlyura-Sedoj_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Петлюра - Слёзы матушки
+https://z27.anwap.be/klipy/content/1/Viktor_Petlyura-Slyozy_matushki_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Виктор Петлюра - Цвела акация (Live)
+http://z27.anwap.be/klipy/content/1/Viktor_Petlyura-Cvela_akaciya_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Геннадий Жаров - Ушаночка
+https://z27.anwap.be/klipy/content/1/Gennadij_ZHarov-Ushanochka_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Григорий Заречный - Дальнобойщик
+https://z27.anwap.be/klipy/content/1/Grigorij_Zarechnyj-Dalqnobojwik_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Гуляй поле - Сибирь
+https://z27.anwap.be/klipy/content/1/Gulyaj_pole-Sibirq_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Димитрий Христов - Есть душа
+http://z27.anwap.be/klipy/content/1/Dimitrij_Hristov-Estq_dusha_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Дискотека Авария и Жанна Фриске - Малинки
+https://z27.anwap.be/klipy/content/5/Diskoteka_Avariya_feat_ZHanna_Friske-Malinki_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Елена Ваенга - Любимый
+https://z27.anwap.be/klipy/content/1/ELENA_VAENGA-Lyubimyj_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Елена Ваенга - Снег
+https://z27.anwap.be/klipy/content/1/ELENA_VAENGA-Sneg_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ефрем Амирамов - Молодая
+http://z27.anwap.be/klipy/content/1/Efrem_Amiramov-Molodaya_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Жасмин-Ты моё моё
+https://z27.anwap.be/klipy/content/5/ZHASMIN-Ty_moyo_moyo_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Жека - Мегамикс
+https://z27.anwap.be/klipy/content/1/ZHeka-Megamiks_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Женя Белоусов - Девочка моя синеглазая
+https://z27.anwap.be/klipy/content/4/ZHenya_Belousov-Devochka_moya_sineglazaya_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Женя Белоусов - Такое короткое лето
+http://ds2.obmenvsemfiles.net/fo/get/5812170_141258759/141258759_ZHenya_Belousov___Takoe_korotkoe_leto-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Забытый разговор - Арабское золото
+https://z27.anwap.be/klipy/content/5/Zabytyj_razgovor-Arabskoe_zoloto_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Земляне - Каскадёры
+http://ds2.obmenvsemfiles.net/fo/get/6360982_158969221/158969221_Zemljanequot___Kaskadery_1981_g_-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Золотое Кольцо - У церкви стояла карета
+https://z27.anwap.be/klipy/content/5/Zolotoe_Kolqco-U_cerkvi_stoyala_kareta_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Иван Кучин - Не уходи
+https://z27.anwap.be/klipy/content/1/IVAN_KUCHIN-Ne_uhodi_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Иванушки International - Золото волос
+http://ds2.obmenvsemfiles.net/fo/get/6483822_163002738/163002738_Ivanushki_International___Zoloto_volos-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Корнелюк - Билет на балет
+https://z27.anwap.be/klipy/content/4/Igorq_Kornelyuk-Bilet_na_balet_(1988)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Огурцов - Горный перевал
+http://z27.anwap.be/klipy/content/1/IGOR_OGURCOV-Gornyj_pereval_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Огурцов - Звездочка
+http://z27.anwap.be/klipy/content/1/IGOR_OGURCOV-Zvezdochka_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Огурцов - Королева моих снов
+http://z27.anwap.be/klipy/content/1/IGOR_OGURCOV-Koroleva_moih_snov_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Огурцов - Листья с тополей
+http://z27.anwap.be/klipy/content/1/IGOR_OGURCOV-Listqya_s_topolej_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Огурцов - Моя Любовь
+http://z27.anwap.be/klipy/content/1/IGOR_OGURCOV-Moya_Lyubovq_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Огурцов - Осенний Дождь
+http://z27.anwap.be/klipy/content/1/IGOR_OGURCOV-Osennij_Dozhdq_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Огурцов - Признание в любви
+http://z27.anwap.be/klipy/content/1/IGOR_OGURCOV-Priznanie_v_lyubvi_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Огурцов - Снежинка Новогодняя
+http://z27.anwap.be/klipy/content/1/IGOR_OGURCOV-Snezhinka_Novogodnyaya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Игорь Тальков - Летний дождь
+https://z27.anwap.be/klipy/content/5/Igorq_Talqkov-Letnij_dozhdq_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ирина Круг - Моя королева
+http://ds2.obmenvsemfiles.net/fo/get/6301766_157037572/157037572_Irina_Krug_Moya_Koroleva-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ирина Круг - Шанель
+https://z27.anwap.be/klipy/content/1/IRINA_KRUG-SHanelq_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ирина Круг и Edgar - А ты меня люби
+https://z27.anwap.be/klipy/content/5/IRINA_KRUG-A_ty_menya_lyubi_ft._Edgar_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ирина Салтыкова - Бегу за тобой
+https://z27.anwap.be/klipy/content/5/Irina_Saltykova-Begu_za_toboj_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ирина Салтыкова - Серые глаза
+https://z27.anwap.be/klipy/content/5/Irina_Saltykova-Seryee_glaza_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Кар-мэн - Лондон good bye
+https://z27.anwap.be/klipy/content/4/Kar-myen-London_good_bye_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Катерина Голицына - Без права на любовь
+http://z27.anwap.be/klipy/content/1/KATERINA_GOLICYNA-Bez_prava_na_lyubovq_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Катерина Голицына - Как ты там
+http://z27.anwap.be/klipy/content/1/KATERINA_GOLICYNA-Kak_ty_tam_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Катерина Голицына - Какая дама пропадает
+http://z27.anwap.be/klipy/content/1/Katerina_Golicyna-Kakaya_dama_propadaet_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Катерина Голицына - Попутчик
+http://z27.anwap.be/klipy/content/1/Katerina_Golicyna-Poputchik_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Комиссар - Королева Снежная
+http://dsx.obmenvsemfiles.net/fo/get/6576736_166059060/166059060_gruppa_KOMISSAR___Koroleva_Snezhnaya___Moskva_13_01_2001___low-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Комиссар - Любовь это яд
+https://z27.anwap.be/klipy/content/5/Komissar-Lyubovq_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Комиссар - Ты Уйдешь
+http://dsx.obmenvsemfiles.net/fo/get/5966996_146115177/146115177_Komissar___Ty_Ujjdesh_Full_HD-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Крис Кельми - Ночное Рандеву
+http://ds2.obmenvsemfiles.net/fo/get/6448898_161835168/161835168_Kris_Kelmi___Nochnoe_Randevu-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Кристина Соколова Русскии Стилль - Одинокая Ветка Берез 2023
+http://ds2.obmenvsemfiles.net/fo/get/6585778_166363481/166363481_Kristina_Sokolova_Russkii_Still_Odinokaya_Vetka_Berez_2023_Premera_2023_1-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лада Дэнс - Пойду с тобой
+https://z27.anwap.be/klipy/content/5/Lada_Dyens-Pojdu_s_toboj_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лариса Черникова - Одинокий волк
+https://z27.anwap.be/klipy/content/5/Larisa_CHernikova-Odinokij_volk_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ласковый май - Белые розы
+http://ds2.obmenvsemfiles.net/fo/get/6041206_148583774/148583774_Laskovyjj_majj_Belye_rozy-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лев Лещенко и Татьяна Анциферова - До свиданья  Москва  до свиданья
+https://z27.anwap.be/klipy/content/4/Lev_Lewenko_i_Tatqyana_Anciferova-Do_svidanqya_Moskva_do_svidanqya_(1980)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Леди - Не дари мне розы
+http://ds2.obmenvsemfiles.net/fo/get/6122794_151249353/151249353_VID_20220727_WA0375-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лесоповал - Заповедь
+https://z27.anwap.be/klipy/content/1/Lesopoval-Zapovedq_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лицей - Осень
+http://ds2.obmenvsemfiles.net/fo/get/6295834_156838424/156838424_Licejj___Osen_Oficialnyjj_klip-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лучшие танцевальные хиты 70-х
+http://ds2.obmenvsemfiles.net/fo/get/6060542_149249476/149249476_70s_Best_Disco___Funk___R_n_B_Hits___Vol_2_Serega_Bolonkin_Video_Mix___Luchshie_tancevalnye_khity_70_kh-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Лучшие танцевальные хиты 80-х
+http://ds2.obmenvsemfiles.net/fo/get/6321782_157683175/157683175_80s_Best_Euro_Disco_Synth_Pop_Dance_Hits_Vol_1_Serega_Bolonkin_Video_Mix___Tancevalnye_KHity_80kh__-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Ляля Размахова - Привет
+https://z27.anwap.be/klipy/content/1/LYALYA_RAZMAHOVA-Privet_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Маленький принц - Мы встретимся снова
+http://dsx.obmenvsemfiles.net/fo/get/6288904_156608938/156608938_Malenkijj_princ___My_vstretimsya_snova_Full_HD-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Маленький Принц - Прощай
+http://ds2.obmenvsemfiles.net/fo/get/6289042_156611894/156611894_Gruppa_Malenkii_Princ_Proshhajj-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Маленький Принц - Ты или нет
+http://ds2.obmenvsemfiles.net/fo/get/6289046_156612200/156612200_Malenkijj_princ_Ty_ili_net-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Марина Журавлёва - Белая черёмуха
+http://ds2.obmenvsemfiles.net/fo/get/6390498_159971461/159971461_Marina_ZHuravljova_Belaya_cherjomukha-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Марина Журавлёва - Если ты со мною рядом
+https://z27.anwap.be/klipy/content/5/Marina_ZHuravlyova-Esli_ty_so_mnoyu_ryadom_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Марина Хлебникова - Чашка кофию
+http://ds2.obmenvsemfiles.net/fo/get/6283762_156425552/156425552_Marina_KHlebnikova___CHashka_kofiyu_Oficialnyjj_klip_HIGH-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Мафик - Братуха
+https://z27.anwap.be/klipy/content/1/Mafik-Bratuha_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Мафик - Гастроли
+https://z27.anwap.be/klipy/content/1/Mafik-Gastroli_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Мираж - 1000 звёзд
+https://z27.anwap.be/klipy/content/5/Mirazh-1000_zvyozd_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Мираж - Ты словно тень
+http://ds2.obmenvsemfiles.net/fo/get/5969486_146196287/146196287_Gruppa_Mirazh___Ty_slovno_ten__Zvjozdnyjj_dozhd_1992_g__HIGH-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Митя Фомин - Следуй за солнцем
+https://z27.anwap.be/klipy/content/5/MITYA_FOMIN-Sleduj_za_solncem_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Михаил Круг - Кольщик
+https://z27.anwap.be/klipy/content/1/Mihail_Krug-Kolqwik_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Михаил Шелег - За глаза твои карие
+https://z27.anwap.be/klipy/content/1/Mihail_SHeleg-Za_glaza_tvoi_karie_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Михаил Шуфутинский - Таганка
+https://z27.anwap.be/klipy/content/1/Mihail_SHufutinskij-Taganka_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Мурат Насыров - Я это ты
+https://z27.anwap.be/klipy/content/5/Murat_Nasyrov-YA_yeto_ty_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Натали - Снежная роза
+https://z27.anwap.be/klipy/content/5/Natali-Snezhnaya_roza_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Наталия Бучинская - Налейте шампанского
+http://z27.anwap.be/klipy/content/1/Nataliya_Buchinskaya-Nalejte_shampanskogo_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Наталья Ветлицкая - Глаза цвета виски
+https://z27.anwap.be/klipy/content/5/Natalqya_Vetlickaya-Glaza_cveta_viski_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Наталья Власова - Мираж
+https://z27.anwap.be/klipy/content/5/NATALIYA_VLASOVA-Mirazh_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Наталья Могилевская - Полюби меня такой
+https://z27.anwap.be/klipy/content/5/Natalqya_Mogilevskaya-Polyubi_menya_takoj_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Наташа Королёва - Зять
+http://ds2.obmenvsemfiles.net/fo/get/6042770_148641021/148641021_Natasha_Koroljova___Zyat_Udachnye_Pesni_2019_AC_HD720p_1800kaac_128-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Неигрушки - 100 дней до приказа
+http://ds2.obmenvsemfiles.net/fo/get/6486906_163100251/163100251_Neigruwki___100_Dnej_Do_Prikaza-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Николай Басков и Таисия Повалий - Ты далеко
+https://z27.anwap.be/klipy/content/5/Nikolaj_Baskov_i_Taisiya_Povalij-Ty_daleko_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Николай Гнатюк - Малиновый звон
+https://z27.anwap.be/klipy/content/4/Nikolaj_Gnatyuk-Malinovyj_zvon_(1987)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Николай Тимофеев - Моя осень
+https://z27.anwap.be/klipy/content/8/Nikolaj_Timofeev-Moya_osenq_remix_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Нэнси - Дым сигарет с ментолом
+https://z27.anwap.be/klipy/content/4/Nyensi-Dym_sigaret_s_mentolom_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Олег Газманов - Единственная моя
+https://z27.anwap.be/klipy/content/5/Oleg_Gazmanov-Edinstvennaya_moya_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Олег Яковлев - Новогодняя
+https://z27.anwap.be/klipy/content/5/OLEG_YAKOVLEV-Novogodnyaya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Петлюра - Самая любимая в мире женщина
+http://z27.anwap.be/klipy/content/1/PETLYURA-Samaya_lyubimaya_v_mire_zhenwina_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Петлюра - Скорый поезд
+http://z27.anwap.be/klipy/content/1/Petlyura-Skoryj_poezd_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Пропаганда - Яй-я
+https://z27.anwap.be/klipy/content/5/Propaganda-YAj-ya_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Пятилетка - Дубль раз
+https://z27.anwap.be/klipy/content/1/Pyatiletka-Dublq_raz_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Рада Рай - Территория любви
+http://z27.anwap.be/klipy/content/1/RADA_RAJ-TERRITORIYA_LYUBVI_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Рождество - Так хочется жить
+http://z27.anwap.be/klipy/content/1/Rozhdestvo-Tak_hochetsya_zhitq_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Рок-острова - Не ищи меня
+https://z27.anwap.be/klipy/content/5/Rok-ostrova-Ne_iwi_menya_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Рок-острова - Ничего не говори
+https://z27.anwap.be/klipy/content/5/Rok-ostrova-Nichego_ne_govori_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Рома Жуков - Я люблю вас девочки
+https://z27.anwap.be/klipy/content/5/Roma_ZHukov-YA_lyublyu_vas_devochki_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Русский размер - Ангел дня
+https://z27.anwap.be/klipy/content/5/Russkij_razmer-Angel_dnya_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Русский Стилль - Ты не любишь меня
+http://ds2.obmenvsemfiles.net/fo/get/6193434_153427508/153427508_Russkii_Still___Ty_ne_lyubish_menya-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Санкт-Петербург - Очарована  околдована
+https://z27.anwap.be/klipy/content/5/Sankt-Peterburg-Ocharovana_okoldovana_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Вольный - Для настроения
+https://z27.anwap.be/klipy/content/1/SERGEJ_VOLNYJ-Dlya_nastroeniya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Лазарев - Everytime
+https://z27.anwap.be/klipy/content/5/Sergej_Lazarev-Everytime_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Лазарев - Shattered dreams
+https://z27.anwap.be/klipy/content/5/Sergej_Lazarev-Shattered_dreams_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Лазарев - Идеальный мир
+https://z27.anwap.be/klipy/content/5/SERGEJ_LAZAREV-Idealqnyj_mir_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Лещев - Единое Целое
+http://z27.anwap.be/klipy/content/1/SERGEJ_LEWEV-Edinoe_Celoe_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Лещев - Единое Целое
+https://z27.anwap.be/klipy/content/1/SERGEJ_LEWEV-Edinoe_Celoe_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Наговицин - Городские встречи
+https://z27.anwap.be/klipy/content/1/Sergej_Nagovicin-Gorodskie_vstrechi_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Сухачёв - Ты самая нежная
+http://z27.anwap.be/klipy/content/1/SERGEJ_SUHACHYOV-Ty_samaya_nezhnaya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Сергей Трофимов - Снегири
+https://z27.anwap.be/klipy/content/1/Sergej_Trofimov-Snegiri_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",София Ротару - Не спросишь
+https://z27.anwap.be/klipy/content/5/Sofiya_Rotaru-Ne_sprosishq_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",София Ротару - Один на свете
+https://z27.anwap.be/klipy/content/5/Sofiya_Rotaru-Odin_na_svete_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",София Ротару и Машина времени - За тех кто в море
+https://z27.anwap.be/klipy/content/4/Sofiya_Rotaru_i_Mashina_vremeni-Za_teh_kto_v_more_(1984)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Стас Михайлов - Без тебя
+https://z27.anwap.be/klipy/content/1/Stas_Mihajlov-Bez_tebya_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Стас Михайлов - Белая река
+https://z27.anwap.be/klipy/content/5/STAS_MIHAJLOV-Belaya_reka_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Стас Михайлов - Жизнь-река
+https://z27.anwap.be/klipy/content/1/Stas_Mihajlov-ZHiznq-reka_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Стас Михайлов - Любовь запретная
+https://z27.anwap.be/klipy/content/1/STAS_MIHAJLOV-Lyubovq_zapretnaya_live_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Стас Михайлов - Ночь
+https://z27.anwap.be/klipy/content/1/Stas_Mihajlov-Nochq_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Стас Михайлов - Ну вот и всё
+https://z27.anwap.be/klipy/content/1/Stas_Mihajlov-Nu_vot_i_vsyo_(Live)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Стас Михайлов - Там за горизонтом
+https://z27.anwap.be/klipy/content/5/STAS_MIHAJLOV-Tam_za_gorizontom_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Студия-80 - Снег за окном
+http://ds2.obmenvsemfiles.net/fo/get/6511978_163940267/163940267_Studiya_80Elen_Cora___Sneg_za_oknom__LIVE_2014_-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Таисия Повалий - Сердце - дом для любви
+https://z27.anwap.be/klipy/content/5/TAISIYA_POVALIJ-Serdce_-_dom_dlya_lyubvi_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Таисия Повалий - Твоих рук родные объятья
+https://z27.anwap.be/klipy/content/5/Taisiya_Povalij-Tvoih_ruk_rodnyee_obxyatqya_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Татьяна Буланова - Ледяное сердце
+https://z27.anwap.be/klipy/content/5/Tatqyana_Bulanova-Ledyanoe_serdce_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Татьяна Буланова - Не плачь
+http://ds2.obmenvsemfiles.net/fo/get/6217542_154219956/154219956_VID_20221022_WA0371-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Татьяна Овсиенко - Дальнобойщик
+http://ds2.obmenvsemfiles.net/fo/get/5443810_130202048/130202048_01_26_at_17_46_1-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Унесенные ветром - Какао
+https://z27.anwap.be/klipy/content/5/Unesennyee_vetrom-Kakao_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Форум - Белая ночь
+https://z27.anwap.be/klipy/content/4/Forum-Belaya_nochq_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Фристайл - Ах какая женщина
+https://z27.anwap.be/klipy/content/5/Fristajl-Ah_kakaya_zhenwina_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Фристайл - Новое и лучшее
+http://ds2.obmenvsemfiles.net/fo/get/6555594_165334494/165334494_FRISTAJL___NOVOE_I_LUChWEE_Videosbornik_-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Чи-ли - Маки
+https://z27.anwap.be/klipy/content/5/CHi-li-Maki_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Юра Шатунов - Забудь (Remix)
+https://z27.anwap.be/klipy/content/5/YUra_SHatunov-Zabudq_(Remix)_b_(anwap.org).mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Юрий Шатунов - Заметает листья снег
+http://ds2.obmenvsemfiles.net/fo/get/5367482_128113276/128113276_YUrijj_SHatunov___Zametaet_listya_sneg_Premera_2020-nashobmen.org.mp4
+#EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Юрий Шатунов - Седая ночь
+https://z27.anwap.be/klipy/content/5/YUrij_SHatunov-Sedaya_nochq_b_(anwap.org).mp4
+
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg", CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
