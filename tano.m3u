@@ -3673,7 +3673,7 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://45.11.139.43:8555/365dney/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя Планета
+#EXTINF:0 group-title="Познавательные",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
