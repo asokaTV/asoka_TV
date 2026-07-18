@@ -1,7 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Новинки кино" tvg-logo="https://i.postimg.cc/25VcB58T/auto-x2-1.jpg",🔺 INFO 🔺Посмотри!!!
-https://github.com/Dimonovich/TV/releases/download/v1.0.0/1.mp4
 #EXTINF:-1 group-title="Новинки кино" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-12/c1/d1/c1d1650fda73500caa06a6587e486422.jpg", Когда не ожидаешь (2026)
 https://river-4-480.rtbcdn.ru/hls-vod/7YWl8MjkAwyasx5v6yYW5g/1784990415/2650/0x5000039ce818327d/bc9818c3b5074565b83f9334a9df6ab7.mp4.m3u8?i=1920x1080_2849
 #EXTINF:-1 group-title="Новинки кино" tvg-logo="https://pic.rtbcdn.ru/video/2026-07-14/ae/e8/aee8b9c3b1e99863036c2cda35f94e53.jpg", Эта страна не для одиноких (2026)
