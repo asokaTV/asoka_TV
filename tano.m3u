@@ -42,18 +42,18 @@ https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-id="ntv-style", НТВ СТИЛЬ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://kizug.ru/s/N2Bbp0vzwyRW/67652a51028a/aHR0cHM6Ly9jZG4ubnR2LnJ1OjQ0My90aF9zdHlsZS9wbGF5bGlzdC5tM3U4.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-id="ntv-pravo", НТВ ПРАВО
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://kizug.ru/s/N2Bbp0vzwyRW/78afeade2335/aHR0cHM6Ly9jZG4ubnR2LnJ1OjQ0My90aF9wcmF2by9wbGF5bGlzdC5tM3U4.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ ХИТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://kizug.ru/s/N2Bbp0vzwyRW/3b105cbc64da/aHR0cDovL2NkbjIubnR2LnJ1L3RoX2hpdC9wbGF5bGlzdC5tM3U4.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ СЕРИАЛ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://kizug.ru/s/N2Bbp0vzwyRW/44630180c082/aHR0cDovL2NkbjIubnR2LnJ1L3RoX3NlcmlhbC9wbGF5bGlzdC5tM3U4.m3u8
+#EXTINF:-1 ,НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ-Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
