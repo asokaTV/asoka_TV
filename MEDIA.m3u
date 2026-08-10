@@ -2088,22 +2088,20 @@ http://dmi3y-tv6.ru/hls/film/YA_LEGENDA.m3u8
 #EXTINF:-1 group-title="Киношка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9-XFsRmZ7LH-w_BBFOhdX9QbDsPQCXsU4w&s" tvg-id="no_epg_cinema",Я. Франкенштейн [США/2013]
 http://dmi3y-tv6.ru/hls/film/YA_FRANKENSHTEYN.m3u8
 
-#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-03/b1/22/b122436e2094df90c219d895ba128270.jpg?size=l", Очень страшное кино 6 (фильм 2026) / Scary Movie
-https://kizug.ru/s/N2Bbp0vzwyRW/066a90004636/196822.m3u8
-#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-03/63/2e/632ed3985c0d47a80e880569c4bdfe8d.jpg?size=l", Моана 2026 - Moana - смотреть на RUTUBE
-https://kizug.ru/s/N2Bbp0vzwyRW/2df9dfde3dd6/196823.m3u8
-#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-03/bd/e0/bde0f0909d2e92565f8bcc3436353677.jpg?size=l", Человек-паук: Новый день фильм 2026 - Spider-Man: Brand New Day - смотреть на RUTUBE
-https://kizug.ru/s/N2Bbp0vzwyRW/bce73e894e25/196824.m3u8
-#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-09/90/8e/908e45b229e34f3d9f801b2991b9212b.jpg?size=l", Очень страшное кино 5 (2013) / Scary Movie 5
-https://kizug.ru/s/N2Bbp0vzwyRW/3cb49173b713/196825.m3u8
-#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-09/ce/15/ce157b4ddeeb9277f40a2f86887cc7c7.jpg?size=l", Очень страшное кино 4 (2006) / Scary Movie 4
-https://kizug.ru/s/N2Bbp0vzwyRW/4398764b4d82/196826.m3u8
-#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-09/52/69/5269dd0cc3974b394400b34197c94bde.jpg?size=l", Очень страшное кино 3 (2003) / Scary Movie 3
-https://kizug.ru/s/N2Bbp0vzwyRW/f31a5c1d6006/196827.m3u8
-#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-09/c9/95/c9959a717e78aeec8657998b00eedcbb.jpg?size=l", Очень страшное кино 2 (2001) / Scary Movie 2
-https://kizug.ru/s/N2Bbp0vzwyRW/761551fec59e/196828.m3u8
 #EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-03/59/8b/598b66b94a863c2db7ce60b2e3fe419a.jpg?size=l", Очень страшное кино / Scary Movie (2000)
 https://kizug.ru/s/N2Bbp0vzwyRW/c4a934cf01db/196829.m3u8
+#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-09/c9/95/c9959a717e78aeec8657998b00eedcbb.jpg?size=l", Очень страшное кино 2 (2001) / Scary Movie 2
+https://kizug.ru/s/N2Bbp0vzwyRW/761551fec59e/196828.m3u8
+#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-09/52/69/5269dd0cc3974b394400b34197c94bde.jpg?size=l", Очень страшное кино 3 (2003) / Scary Movie 3
+https://kizug.ru/s/N2Bbp0vzwyRW/f31a5c1d6006/196827.m3u8
+#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-09/ce/15/ce157b4ddeeb9277f40a2f86887cc7c7.jpg?size=l", Очень страшное кино 4 (2006) / Scary Movie 4
+https://kizug.ru/s/N2Bbp0vzwyRW/4398764b4d82/196826.m3u8
+#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-09/90/8e/908e45b229e34f3d9f801b2991b9212b.jpg?size=l", Очень страшное кино 5 (2013) / Scary Movie 5
+https://kizug.ru/s/N2Bbp0vzwyRW/3cb49173b713/196825.m3u8
+#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-03/b1/22/b122436e2094df90c219d895ba128270.jpg?size=l", Очень страшное кино 6 (фильм 2026) / Scary Movie
+https://kizug.ru/s/N2Bbp0vzwyRW/066a90004636/196822.m3u8
+#EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-03/bd/e0/bde0f0909d2e92565f8bcc3436353677.jpg?size=l", Человек-паук: Новый день фильм 2026 - Spider-Man: Brand New Day - смотреть на RUTUBE
+https://kizug.ru/s/N2Bbp0vzwyRW/bce73e894e25/196824.m3u8
 #EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-04-29/b7/3a/b73a1cc5aacfbb494037550349ee2dde.jpg?size=l", Девушка по соседству (2007)  / The Girl Next Door
 https://kizug.ru/s/N2Bbp0vzwyRW/d0bcc54184fc/196830.m3u8
 #EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/2026-04-29/4b/de/4bde2755fd901c686544d0c0c10c0e3d.jpg?size=l", Ревность (2023)  / Panibugho
@@ -6042,6 +6040,7 @@ https://kizug.ru/s/N2Bbp0vzwyRW/27f666ee842c/198796.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/a2d7b9cbefcc/198797.m3u8
 #EXTINF:-1 group-title="Кинозал_1" tvg-logo="https://pic.rtbcdn.ru/video/7f/9f/7f9f74b1a40f19dbf883751d43663cc8.jpg?size=l", Санта Клаус (фильм, 1994)
 https://kizug.ru/s/N2Bbp0vzwyRW/b2ad559a1e79/198798.m3u8
+
 
 #EXTINF:-1 group-title="Кинозал_2" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-06/43/c7/43c7ec29cb8eddf81989d02d686dc03a.jpg?size=l", Нация мечтателей | Daydream Nation (2010)
 https://kizug.ru/s/N2Bbp0vzwyRW/701c4067dd2c/198799.m3u8
