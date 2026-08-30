@@ -3802,27 +3802,23 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/106/962.mp4
 #EXTINF:-1 group-title="Барышня и кулинар" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Эларджи - кисло сладкая курица - айран
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/079/038.mp4
 
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH, http://epg.iptvcinema.ru/epg.gz"
-#EXTINF:-1 group-title="Познавательные", #КтоКуда
-https://kizug.ru/s/N2Bbp0vzwyRW/ed2e7a580298/192088.m3u8
-
 #EXTINF:-1 group-title="Познавательные", Неизвестная Планета
 https://kizug.ru/s/N2Bbp0vzwyRW/988415bb356b/192089.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://katinklev.ru/wp-content/uploads/2025/07/klev_logo-1.png" tvg-id="no_epg", Астраханский Клёв!
-https://kizug.ru/s/N2Bbp0vzwyRW/3a054263ec85/221527.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/faf15bffa437/283226.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/photo_2026-01-20_16-57-44-kopiya.png" tvg-id="no_epg", Первый Туристический Канал HD (VPN)
 https://kizug.ru/s/N2Bbp0vzwyRW/10d463a369ec/1280.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Познавательные" tvg-logo="https://kino.tricolor.ru/filestorage/images/channels/posters/d28b374b-bc63-4749-8e5e-7ba7043e03b6.webp", Чиним, строим!
-https://kizug.ru/s/N2Bbp0vzwyRW/3ff82e680e70/221528.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/3ff9a1cd8fe7/283227.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/c7b1aaa8-c7fc-4caa-9537-ff42d385bfbb" tvg-id="no_epg", ЖИЗНЬ В ДЕРЕВНЕ
-https://kizug.ru/s/N2Bbp0vzwyRW/339dc705cfb7/221529.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/a881f95de034/283228.m3u8
 
 #EXTINF:-1 tvg-id="bobior" group-title="Познавательные", Бобёр
-https://kizug.ru/s/N2Bbp0vzwyRW/9906e405e74a/221530.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/0b75c65dff6a/283229.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="Ep!c", Epic
 
@@ -3846,9 +3842,9 @@ https://kizug.ru/s/N2Bbp0vzwyRW/35a49c57634a/1289.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/53433b5b7ece/207248.m3u8
 
 #EXTINF:-1 tvg-id="zagorodny" group-title="Познавательные", Загородный
-https://kizug.ru/s/N2Bbp0vzwyRW/8698855b0790/221531.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/733e011bac4a/283230.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zagorodny-int", Загородный Int HD
-https://kizug.ru/s/N2Bbp0vzwyRW/ae4d4c06355e/221532.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/f64a68e1cd8c/283231.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Первый медицинский
 https://kizug.ru/s/N2Bbp0vzwyRW/c9359fd22a74/1293.m3u8
@@ -3857,7 +3853,7 @@ https://kizug.ru/s/N2Bbp0vzwyRW/c9359fd22a74/1293.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/84e35fb9547e/207249.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="https://e7.pngegg.com/pngimages/386/732/png-clipart-airplane-aircraft-logo-airplane-blue-logo-thumbnail.png", Авиакатастрофы
-https://kizug.ru/s/N2Bbp0vzwyRW/2c61af1372a9/221533.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/2bbbc764fa8f/283232.m3u8
 
 #EXTINF:-1 group-title="Познавательные",RTG int.
 https://kizug.ru/s/N2Bbp0vzwyRW/fd3326ec8320/207250.m3u8
@@ -3875,23 +3871,23 @@ https://kizug.ru/s/N2Bbp0vzwyRW/3ea60618ebf1/1298.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", РАТНИК HD
-https://kizug.ru/s/N2Bbp0vzwyRW/3bfbf1fd7101/221534.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/8ca74ac269cf/283233.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ЗНАНИЕ ТВ",ЗНАНИЕ ТВ HD
-https://kizug.ru/s/N2Bbp0vzwyRW/122da1ee29f8/221535.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/71db6d44f3fd/283234.m3u8
 #EXTINF:-1 group-title="Познавательные",ЗНАНИЕ ТВ
-https://kizug.ru/s/N2Bbp0vzwyRW/033099bb49f4/221536.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/c8461faa70ec/283235.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Открытый мир
 https://kizug.ru/s/N2Bbp0vzwyRW/a33d2ccb6042/136764.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="eda", Еда
-https://kizug.ru/s/N2Bbp0vzwyRW/717412c1313f/221537.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/d55deea390f4/283236.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Еда Премиум Международный
 
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="eda-hd", FoodTime
-https://kizug.ru/s/N2Bbp0vzwyRW/29ce9ec831ca/221538.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/5d94328a17ba/283237.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="kuxnia-tv", КУХНЯ ТВ
 https://kizug.ru/s/N2Bbp0vzwyRW/92ed91d08d52/1307.m3u8
@@ -3906,22 +3902,22 @@ https://kizug.ru/s/N2Bbp0vzwyRW/5b18d9d54243/1310.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/e35656523475/1311.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="prodvizhenie", Продвижение
-https://kizug.ru/s/N2Bbp0vzwyRW/a77825aa6a63/221539.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/598ad877190a/283238.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg", Магнат ТВ
 https://kizug.ru/s/N2Bbp0vzwyRW/f78e0fde24c6/1313.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png", Неизвестная Россия
-https://kizug.ru/s/N2Bbp0vzwyRW/3adedae5a4df/221540.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/aa7e7faf1e50/283239.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/LPqySGk.png",ЖИВИ!
 https://kizug.ru/s/N2Bbp0vzwyRW/9b746d4c3d9b/1315.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Живи активно HD
-https://kizug.ru/s/N2Bbp0vzwyRW/6db9410c6b16/221541.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/54e628707647/283240.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Тонус ТВ
-https://kizug.ru/s/N2Bbp0vzwyRW/48c44661156d/221542.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/afb5ae6181ab/283241.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="zdorovoe-tv", Здоровое ТВ
 https://kizug.ru/s/N2Bbp0vzwyRW/e13299b675b4/2927.m3u8
@@ -3930,32 +3926,32 @@ https://kizug.ru/s/N2Bbp0vzwyRW/e13299b675b4/2927.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/8582ebc8a02b/207251.m3u8
 
 #EXTINF:-1 group-title="Познавательные"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzfx-DgPMb59X5kQGH6MBu35uVIRwrtMqtQ&s", Союзный
-https://kizug.ru/s/N2Bbp0vzwyRW/cf942e577a97/221543.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/31ff9f3c30e1/283242.m3u8
 
 #EXTINF:-1 group-title="Познавательные"  tvg-logo="https://kino-static.tricolor.ru/media/v2/8150b18a-7d03-47d9-bc68-db7085ebe61a", НВВ
 
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/d6f5cc1d-0b85-445c-b61e-0d39ce11f612", НОВЫЙ ИГРОВОЙ КАНАЛ
-https://kizug.ru/s/N2Bbp0vzwyRW/13097a8b9fcb/221544.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/7a67024e2877/283243.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://kino-static.tricolor.ru/media/v2/9b3b31a1-f04a-49b1-99ea-56317018bd2d" tvg-id="no_epg_mult", ДОКТОР И
-https://kizug.ru/s/N2Bbp0vzwyRW/38d8d61073bb/221545.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/426562b55d9a/283244.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Silk Way
-https://kizug.ru/s/N2Bbp0vzwyRW/76891b96a1e4/221546.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/ac2de0320668/283245.m3u8
 
 #EXTINF:-1 group-title="Познавательные", SilkWay Prime
-https://kizug.ru/s/N2Bbp0vzwyRW/2d3c314ca27e/221547.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/fbf209059d95/283246.m3u8
 
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательные", МЫ
-https://kizug.ru/s/N2Bbp0vzwyRW/635f9edf2c80/221548.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/77ff4f0931a8/283247.m3u8
 
 #EXTINF:-1 tvg-id="era" tvg-logo="http://i121.fastpic.org/big/2023/0516/82/abf0c600f233693a715cae61eefa2582.png" group-title="Познавательные", Эра
-https://kizug.ru/s/N2Bbp0vzwyRW/9aa342ddd0ce/221549.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/47991eab1dee/283248.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Зал суда
-https://kizug.ru/s/N2Bbp0vzwyRW/c0c4b4ce43c3/221550.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/4e241e02b74b/283249.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Авто 24
 https://kizug.ru/s/N2Bbp0vzwyRW/0bd94d9062e7/1330.m3u8
@@ -3967,30 +3963,30 @@ https://kizug.ru/s/N2Bbp0vzwyRW/5b5ff0941e40/1331.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/1b418866c8f7/2922.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="360-podmoskovie", 360 ru
-https://kizug.ru/s/N2Bbp0vzwyRW/97eb1eda1b4e/221551.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/5008877484b2/283250.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="360-podmoskovie", 360 ru HD
 https://kizug.ru/s/N2Bbp0vzwyRW/4381a7fea5f2/1334.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure", Travel+Adventure
-https://kizug.ru/s/N2Bbp0vzwyRW/8349d6935d3d/221552.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/51dba2b732bf/283251.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Мир вокруг
-https://kizug.ru/s/N2Bbp0vzwyRW/1b2d4c9f74ba/221553.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/232c8bd20c1b/283252.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
-https://kizug.ru/s/N2Bbp0vzwyRW/ebb9fbf63a8e/221554.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/8628a1d4a3e8/283253.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
-https://kizug.ru/s/N2Bbp0vzwyRW/442d25cbe08c/221555.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/228713df7c1b/283254.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="Приключения", Приключения HD
-https://kizug.ru/s/N2Bbp0vzwyRW/88c6a7fd70c0/221556.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/0d16f8ac6546/283255.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD
 https://kizug.ru/s/N2Bbp0vzwyRW/58e771b70ddb/1340.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://kino.tricolor.ru/filestorage/images/channels/posters/140203f4-b4c6-4b6c-b107-fb2d8c24acb0.webp",Двое в лодке
-https://kizug.ru/s/N2Bbp0vzwyRW/9af07aeb476b/221557.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/5c0baa8516de/283256.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="CGTN-Русский", CGTN русский
-https://kizug.ru/s/N2Bbp0vzwyRW/a6c87ebf04f9/221558.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/2ec959ff1ebd/283257.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="CGTN-Русский", CGTN русский HD
 https://kizug.ru/s/N2Bbp0vzwyRW/6814f9ca6cbb/1343.m3u8
 
@@ -4042,7 +4038,7 @@ https://kizug.ru/s/N2Bbp0vzwyRW/c405511abba1/207253.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/8b73d96f61ef/207254.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Техно 24
-https://kizug.ru/s/N2Bbp0vzwyRW/10562911dcb1/221559.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/60917643af85/283258.m3u8
 
 #EXTINF:-1 group-title="Познавательные",НАША СИБИРЬ
 https://kizug.ru/s/N2Bbp0vzwyRW/6b79db0280c0/1355.m3u8
@@ -4077,7 +4073,7 @@ https://kizug.ru/s/N2Bbp0vzwyRW/f073b70b3602/207258.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/64cb79687326/1366.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Поехали!
-https://kizug.ru/s/N2Bbp0vzwyRW/b4cb7417c03d/221560.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/a39fd486a571/283259.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Кто есть кто
 https://kizug.ru/s/N2Bbp0vzwyRW/a9318773c61d/207259.m3u8
@@ -4086,16 +4082,16 @@ https://kizug.ru/s/N2Bbp0vzwyRW/a9318773c61d/207259.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/aba9b2b8d328/207260.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Моя Планета HD
-https://kizug.ru/s/N2Bbp0vzwyRW/4f01aaa63927/221561.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/aeb7fdb25504/283260.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.imgur.com/ISJzQGP.png", Домашние животные
 https://kizug.ru/s/N2Bbp0vzwyRW/9ce76365676a/108253.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy", Моя стихия
-https://kizug.ru/s/N2Bbp0vzwyRW/40adf4ffaa9b/221562.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/1ce78107e354/283261.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
-https://kizug.ru/s/N2Bbp0vzwyRW/1dffc884d8f0/221563.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/a66aaead0dd6/283262.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nano-hd", Nano HD
-https://kizug.ru/s/N2Bbp0vzwyRW/e68024e19e60/221564.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/68341c6f417e/283263.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Живая природа HD
 https://kizug.ru/s/N2Bbp0vzwyRW/841600c98e6c/108254.m3u8
@@ -4110,19 +4106,19 @@ https://kizug.ru/s/N2Bbp0vzwyRW/a129e6976f46/1378.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/551b6df4d589/1369.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv", Ocean TV
-https://kizug.ru/s/N2Bbp0vzwyRW/3022b5108974/221565.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/bd4e9374baa6/283264.m3u8
 
 #EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="Познавательные", Первый вегетарианский
 
 
 #EXTINF:-1 group-title="Познавательные", Оружие
-https://kizug.ru/s/N2Bbp0vzwyRW/91cdae1b5ab0/221566.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/ca73a76c5f0e/283265.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="arsenaltv", Арсенал HD
-https://kizug.ru/s/N2Bbp0vzwyRW/92ea93d42e9f/221567.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/07f62c35255f/283266.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="centralnoye-tv" , ЦТВ
-https://kizug.ru/s/N2Bbp0vzwyRW/1285a5ebd264/221568.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/f0276c22b811/283267.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Дикая рыбалка HD
 https://kizug.ru/s/N2Bbp0vzwyRW/388cfaaef41e/1384.m3u8
@@ -4143,23 +4139,23 @@ https://kizug.ru/s/N2Bbp0vzwyRW/96088743611e/207261.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/02e8ee30dca3/1388.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="Охотник и рыболов HD", Охотник и рыболов HD
-https://kizug.ru/s/N2Bbp0vzwyRW/45be6012a5c9/221569.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/017b44954545/283268.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="Охотник и Рыболов Int ", Охотник и рыболов International
-https://kizug.ru/s/N2Bbp0vzwyRW/81256a907c0b/221570.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/2da30fe02c67/283269.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Рыболов
-https://kizug.ru/s/N2Bbp0vzwyRW/f3b647c270c3/221571.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/9531b4f89eb9/283270.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="nasha-tema" tvg logo"https://epgx.site/p/nasha-tema.png", Наша тема HD
-https://kizug.ru/s/N2Bbp0vzwyRW/5d5ffd280bad/221572.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/5a00a0cd4e19/283271.m3u8
 
 #EXTINF:-1 group-title="Познавательные", В мире животных HD
-https://kizug.ru/s/N2Bbp0vzwyRW/8a0e0d70f141/221573.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/d1c8f628f8dd/283272.m3u8
 #EXTINF:-1 tvg-id="lapki-live" group-title="Познавательные", Лапки Live
-https://kizug.ru/s/N2Bbp0vzwyRW/b10ed90eb56f/221574.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/c57bcfcfe7b1/283273.m3u8
 #EXTINF:-1 group-title="Познавательные", История
-https://kizug.ru/s/N2Bbp0vzwyRW/72b8055b3e46/221575.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/a893be430819/283274.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="HISTORY", HISTORY (vpn)
 https://kizug.ru/s/N2Bbp0vzwyRW/4f230a2f22b8/151359.m3u8
@@ -4186,9 +4182,9 @@ https://kizug.ru/s/N2Bbp0vzwyRW/c0720100a8e0/203213.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/9d21b91a1550/1404.m3u8
 
 #EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные", Наука 2.0 HD
-https://kizug.ru/s/N2Bbp0vzwyRW/192b49bf300c/221576.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/c9e2b543781c/283275.m3u8
 #EXTINF:-1 tvg-id="zootv" group-title="Познавательные", Зоо ТВ
-https://kizug.ru/s/N2Bbp0vzwyRW/dc3b3e628777/221577.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/7b2f53e1b947/283276.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr", Театр
 https://kizug.ru/s/N2Bbp0vzwyRW/af17b8091571/207264.m3u8
@@ -4197,9 +4193,9 @@ https://kizug.ru/s/N2Bbp0vzwyRW/af17b8091571/207264.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/c771654e41ca/1408.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Большая Азия
-https://kizug.ru/s/N2Bbp0vzwyRW/b06c1ccbbbcc/221578.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/cb45b6d98ed2/283277.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="doktor", Доктор
-https://kizug.ru/s/N2Bbp0vzwyRW/2dc64d7f3a3c/221579.m3u8
+https://kizug.ru/s/N2Bbp0vzwyRW/4e7b64a3ea03/283278.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="HD Life", Точка.рф
 https://kizug.ru/s/N2Bbp0vzwyRW/3ce01920c47f/1411.m3u8
@@ -4282,6 +4278,7 @@ https://kizug.ru/s/N2Bbp0vzwyRW/19ae454ff0ae/207267.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmUk9A_WFQFRJuF8iwl9tIq40sxJFnHazHqNiHPE3m0HeB4kefPntZ8TY&s=10",Village Cooking Channel
 https://kizug.ru/s/N2Bbp0vzwyRW/0067362f6478/159252.m3u8
+
 
 
 
@@ -14402,6 +14399,7 @@ https://kizug.ru/s/N2Bbp0vzwyRW/a35bf9760a6c/222607.m3u8
 https://kizug.ru/s/N2Bbp0vzwyRW/270946d92034/222608.m3u8
 #EXTINF:-1 group-title="Музыка на канале"  tvg-id="no_epg_music"  tvg-logo="https://pic.rtbcdn.ru/video/2026-03-13/c9/2a/c92ae0d7dd844c21648fc2da050e8804.jpg?size=l", New Year Vocal Deep House Mix
 https://kizug.ru/s/N2Bbp0vzwyRW/2eae236382e4/222609.m3u8
+
 
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png", СоюзМультфильм
