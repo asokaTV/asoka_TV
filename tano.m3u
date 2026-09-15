@@ -14,11 +14,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="Федеральные",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Россия К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия К
+http://193.25.8.59:8000/rossiak
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
@@ -12509,311 +12512,268 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
 
 
-#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9A%D0%A5%D0%9B_%D0%A2%D0%92_%282021%29.svg/revision/latest/scale-to-width-down/220?cb=20210904092712&path-prefix=ru" group-title="Спортивные",KHL Prime
-http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",MMA-TV.COM
-http://45.145.32.13:20440/mmatv/index.m3u8?token=test
-#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://www.ph4.ru/DL/LOGO/m/match_khl.gif" group-title="Спортивные",КХЛ ТВ
-http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч HD
-http://45.145.32.13:20440/match_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч ТВ
-http://45.145.32.13:20440/match/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://45.145.32.13:20440/match_arena/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! Арена HD
-http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://45.145.32.13:20440/match_boets/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! Игра
-http://45.145.32.13:20440/match_igra/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
-http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Матч! Страна
-http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_football1/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Мир баскетбола
-http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
-http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные",Extreme sports
-http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
-#EXTINF:-1 group-title="Спортивные", KHL
-http://95.66.188.74/KHL/mono.m3u8
+#EXTINF:-1 group-title="Спортивные", Russian Extreme HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/5f8b901ad8cb/aHR0cHM6Ly9zdHJlYW0tbXNrLTEwLm90dC50cmljb2xvci50di9kdHYvaWQyOTRfTVNLU0ctUFZSLTEtLUhEX1J1c3NraXlfRXh0cmVtZS8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGM0TURjMU1ETXhNU3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94Tnpnd01UUTFOVEV4TENKelpYTnphVzl1WDJsa0lqb2lNamRoWkRVeU5USmhZVFUxTTJVd1l6ZzNNMlZpWVRRME1HRXpaVEZrWTJRaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuTXRkTkhRTUltYi0zNzNOWXJTWTUyajBZa0JNRE9GZ0hZMGl6SXZvRkFQdw.m3u8
+#EXTINF:-1 group-title="Спортивные", ВОЛЕЙБОЛ
+https://kizug.xyz/s/N2Bbp0vzwyRW/88478088cfa0/aHR0cHM6Ly9zdHJlYW0tbXNrLTE5Lm90dC50cmljb2xvci50di9kdHYvaWQxMDY0X01TS1NHLVBWUi0xLS1Wb2xsZXliYWxsX0hELzA0L3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzRNRGMxTURNeE1Td2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemd3TVRRMU5URXhMQ0p6WlhOemFXOXVYMmxrSWpvaU1qZGhaRFV5TlRKaFlUVTFNMlV3WXpnM00yVmlZVFEwTUdFelpURmtZMlFpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5NdGROSFFNSW1iLTM3M05ZclNZNTJqMFlrQk1ET0ZnSFkwaXpJdm9GQVB3.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
+https://kizug.xyz/s/N2Bbp0vzwyRW/ce8ff9de5ad1/aHR0cDovL3Rpbnl1cmwuY29tL1R2WmFUYWszNy9Gb290YmFsbC9tYW5pZmVzdC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://overtime26.ru/wp-content/themes/overtime/img/overtime.png", Overtime (Ставрополь)
+https://kizug.xyz/s/N2Bbp0vzwyRW/edd16eab6fcf/aHR0cDovL2xpdmUub3ZlcnRpbWUyNi5ydS9hcHAvcG90b2svcGxheWxpc3QubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные", Бокс ТВ
+https://kizug.xyz/s/N2Bbp0vzwyRW/e020c416fbb6/aHR0cHM6Ly9hMzI4NTI3Mjc4My1zODA3MTguY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JPS1NfVFZIRC92aWRlb18xOTIweDEwODBfYXZjMS9wbGF5bGlzdC5tM3U4P3VzZXNlcT10cw.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
-http://95.66.188.74/MatchBoec/mono.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Игра
-http://95.66.188.74/MatchIgra/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-http://178.212.71.253:8000/play/143/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч ТВ HD
-http://178.212.71.253:8000/play/34/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://178.212.71.253:8000/play/55/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
-http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Русский Экстрим
-http://178.212.71.253:8000/play/118/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Старт
-http://178.212.71.253:8000/play/81/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Eurosport 2 HD
-https://flussonic.salomtv.uz/eurosport_2/video.m3u8
-#EXTINF:-1 group-title="Спортивные", Futbol TV
-https://flussonic.salomtv.uz/FutbolTV/video.m3u8
-
-
-#EXTINF:-1 group-title="Спортивные", Матч ТВ
-http://catchup.videoline.ru/match/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Спортивный
-http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч Премьер
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч ТВ
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ ТВ
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч ТВ
-http://tv.tuva.ru/machtv/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Viasat sport
-http://2.57.217.85:8000/play/a0a0/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-http://45.87.35.12:7093/stream
-
-#EXTINF:-1 group-title="Спортивные",Eurosport 2
-http://84.54.128.52:9090/play/15004/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2 FR
-http://41.205.93.154/EUROSPORT2/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",NHL NETWORK
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Спортивные",NFL TV
-http://fl61.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Inter TV
-http://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 group-title="Спортивные",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/sportsone/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/bahrainsportstwo/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные",Bein Sports
-http://154.197.91.169:8000/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Bein Sports 6
-http://62.201.210.86:6969/bein6/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Bein Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="Спортивные",Kuwait Sport
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Спортивные",Kuwait Sport Plus
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Спортивные",Polsat Sport News
-http://45.87.35.12:7053/stream
-#EXTINF:-1 group-title="Спортивные",Real Madrid TV English
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Спортивные",Real Madrid TV Espana
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Спортивные",Esports Max
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Спортивные",SPORTS GRID
-https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Спортивные",Tennis Channel
-http://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Спортивные",Tennis TV
-http://49.0.64.96:8007/TENNIS
-
-#EXTINF:-1 group-title="Спортивные",Sport 1 CZ
-http://178.23.88.55/Sport1/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Sport 1 DE
-http://176.10.117.68:6060/sport1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Sports TV Turk
-http://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Sporty TV
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ ТВ
-http://95.47.156.60:8000/play/3/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Спортивные",Матч Премьер
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
-
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
-http://193.25.8.59:8000/fut
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-#EXTINF:-1 group-title="Спортивные",KHL HD
-http://193.25.8.59:8000/khl
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://193.25.8.59:8000/sport1
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
-http://193.25.8.59:8000/viasatsport
-#EXTINF:-1 group-title="Спортивные",FightBox
-http://193.25.8.59:8000/box
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-
-#EXTINF:-1 group-title="Спортивные",KHL Prime
-http://194.143.148.28:8080/KHL_HD/mpegts
-
-
-#EXTINF:-1 group-title="Спортивные" ,МАТЧ! БОЕЦ
-http://87.120.142.11:18000/Match!
-
-#EXTINF:-1 group-title="Спортивные" ,МАТЧ! Игра
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="Спортивные" ,Trace Sport Stars HD
-http://87.120.142.11:18000/Rossiya1
-
-#EXTINF:-1 group-title="Спортивные" ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные" ,СТАРТ HD
-https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
-#EXTINF:-1 group-title="Спортивные",Motor Racing
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 group-title="Спортивные",Turkmen Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Sports Grid
-https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="Спортивные",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="Спортивные",Dubai Racing
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Спортивные",Dubai Racing 2
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Спортивные",Dubai Racing 3
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
-#EXTINF:-1 group-title="Спортивные",Horse and Country TV
-https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
-#EXTINF:-1 group-title="Спортивные",BEK TV Sports
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Primocanale Sport
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
-http://5.188.159.128:8070/eurosport2/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Extreme Sports
-http://45.11.139.43:8555/extsport/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Fast & Fun Box
-http://193.25.8.59:8000/Avto24
-
+https://kizug.xyz/s/N2Bbp0vzwyRW/933cc924a6a7/aHR0cDovL2Nkbi5rdWJ0ZWx0di53b3JrZXJzLmRldi8_SUQ9MTEy.m3u8
+#EXTINF:-1 group-title="Спортивные", Удар ТВ
+https://kizug.xyz/s/N2Bbp0vzwyRW/5b7c0b34a9c8/aHR0cHM6Ly9hNzg3MjAxNDgxLXM4MDcxOC5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfVURBUkhEL3ZpZGVvXzE5MjB4MTA4MF9hdmMxL3BsYXlsaXN0Lm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные", Удар ТВ
+https://kizug.xyz/s/N2Bbp0vzwyRW/11a2c2c8436c/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvdWZjLzIvaW5kZXgubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные", MMA-TV
+https://kizug.xyz/s/N2Bbp0vzwyRW/65ff76ec88de/aHR0cHM6Ly9hMzU2OTQ1NzU2Ny1zNzAzNzguY2RuLm5nZW5peC5uZXQvbTFfZ2xvYmFsLzEvaW5kZXgubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные", MMA-TV
+https://kizug.xyz/s/N2Bbp0vzwyRW/6d846a7ce2cb/aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvdmdsaXZlLXNrLTQ2MjkwNC9wbGF5bGlzdC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные", Viju+ Sport HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/cc147bcb9cd5/aHR0cDovL2Nkbi5rdWJ0ZWx0di53b3JrZXJzLmRldi8_SUQ9MjY1.m3u8
+#EXTINF:-1 group-title="Спортивные", Viju+ Sport
+https://kizug.xyz/s/N2Bbp0vzwyRW/526e3e198742/aHR0cDovLzE1OC4xMDEuMjIyLjE5Mzo4OC9nZW9yZ2lhX3BsYXkucGhwP2lkPXZpYXNhdHNwb3J0.m3u8
+#EXTINF:-1 group-title="Спортивные", Viasat Sport
+https://kizug.xyz/s/N2Bbp0vzwyRW/f4c99d97d164/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvdmlhc2F0c3BvcnQ.m3u8
+#EXTINF:-1 group-title="Спортивные", Viasat Sport
+https://kizug.xyz/s/N2Bbp0vzwyRW/9cc42b906aa8/aHR0cDovLzg5LjIxOC4zMi4xNzk6MTgwMDAvcGxheS9hMDJ6.m3u8
+#EXTINF:-1 group-title="Спортивные", МЯЧ
+https://kizug.xyz/s/N2Bbp0vzwyRW/93d4d643db52/aHR0cHM6Ly9zdHJlYW0tbXNrLTA4Lm90dC50cmljb2xvci50djo0NDMvZHR2L2lkNzM0X01TS1NHLVBWUi0xLS1GdXRib2xueXlfSEQvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjNE1EYzFNRE14TVN3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56Z3dNVFExTlRFeExDSnpaWE56YVc5dVgybGtJam9pTWpkaFpEVXlOVEpoWVRVMU0yVXdZemczTTJWaVlUUTBNR0V6WlRGa1kyUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLk10ZE5IUU1JbWItMzczTllyU1k1MmowWWtCTURPRmdIWTBpekl2b0ZBUHc.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="KHL",KHL
+https://kizug.xyz/s/N2Bbp0vzwyRW/ffe174470a67/aHR0cDovL3ZpZXcubXktdHYuYml6L3R2LzMwNTEzNjEzYWMvNDI0NzFkYmYwNC92aWRlby5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="KHL",KHL
+https://kizug.xyz/s/N2Bbp0vzwyRW/588c629cb777/aHR0cHM6Ly9hMzI4NTI3Mjc4My1zODA3MTguY2RuLm5nZW5peC5uZXQvL2hscy8vQ0hfS0hMLy92aWRlb184MDB4NDUwX2F2YzEvcGxheWxpc3QubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="KHL",KHL
+https://kizug.xyz/s/N2Bbp0vzwyRW/03961905fd9c/aHR0cDovLzE3Ni4xMTguMTk3LjEwMS9LSEwvaW5kZXgubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные", КХЛ ТВ
+https://kizug.xyz/s/N2Bbp0vzwyRW/a30ad5e93667/aHR0cHM6Ly9zMDQud2F0Y2hlci51ei8yMC92aWRlby5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYjI1MGNtRmpkRjlwWkNJNk1qY3dNVGMzTENKc2IyZHBiaUk2SW5SMkxUSTNNREUzTnlJc0luUmxiWEJ2Y21GeWVTSTZabUZzYzJVc0ltbHpYMjloZFhSb0lqcG1ZV3h6WlN3aVkzSmxZWFJsWkY5MGFXMWxJam94TmpVd01qZ3pNREkzZlEuTGFkTGo0YjZwbEl4VEdDV250UVFxc1FHWjNSOUVzdndoYVhRZDFzdXIyZyUzQTE1.m3u8
+#EXTINF:-1 group-title="Спортивные", KHL Prime HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/f3bfeea0d45b/aHR0cDovLzM3LjQ2LjQ5LjE0OjE4MDEwL3BsYXkvYTAxcS9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные", Хоккей ТВ
+https://kizug.xyz/s/N2Bbp0vzwyRW/87a3f1c27813/aHR0cHM6Ly9zdHJlYW0tbXNrLTA5Lm90dC50cmljb2xvci50di9kdHYvaWQ3MDBfTVNLU0ctUFZSLTEtLUhva2VpbmlpX0hELzAyL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzRNRGMxTURNeE1Td2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemd3TVRRMU5URXhMQ0p6WlhOemFXOXVYMmxrSWpvaU1qZGhaRFV5TlRKaFlUVTFNMlV3WXpnM00yVmlZVFEwTUdFelpURmtZMlFpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5NdGROSFFNSW1iLTM3M05ZclNZNTJqMFlrQk1ET0ZnSFkwaXpJdm9GQVB3.m3u8
+#EXTINF:-1 group-title="Спортивные", Спортивный
+https://kizug.xyz/s/N2Bbp0vzwyRW/8cc9b4b4ee1d/aHR0cDovL2xpdmUtMy5vdGNuZXQucnUvc3BvcnRpdm55L2luZGV4Lm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные", ТВ Спорт
+https://kizug.xyz/s/N2Bbp0vzwyRW/c7863d781f99/aHR0cDovL3N0cmVhbS1tc2stMDYub3R0LnRyaWNvbG9yLnR2L2R0di9pZDczM19NU0tTRy1QVlItMS0tU3BvcnRpdm5paS8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGM0TURjMU1ETXhNU3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94Tnpnd01UUTFOVEV4TENKelpYTnphVzl1WDJsa0lqb2lNamRoWkRVeU5USmhZVFUxTTJVd1l6ZzNNMlZpWVRRME1HRXpaVEZrWTJRaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuTXRkTkhRTUltYi0zNzNOWXJTWTUyajBZa0JNRE9GZ0hZMGl6SXZvRkFQdw.m3u8
+#EXTINF:-1 group-title="Спортивные", Поединок
+https://kizug.xyz/s/N2Bbp0vzwyRW/cd9e2789f868/aHR0cDovL3N0cmVhbS1tc2stMDMub3R0LnRyaWNvbG9yLnR2L2R0di9pZDYyOV9NU0tTRy1QVlItMS0tQ2hhbm5lbF9MSVZFMi8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGM0TURjMU1ETXhNU3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94Tnpnd01UUTFOVEV4TENKelpYTnphVzl1WDJsa0lqb2lNamRoWkRVeU5USmhZVFUxTTJVd1l6ZzNNMlZpWVRRME1HRXpaVEZrWTJRaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuTXRkTkhRTUltYi0zNzNOWXJTWTUyajBZa0JNRE9GZ0hZMGl6SXZvRkFQdw.m3u8
+#EXTINF:-1 group-title="Спортивные", Игра
+https://kizug.xyz/s/N2Bbp0vzwyRW/65cade383fda/aHR0cDovL3N0cmVhbS1tc2stMDMub3R0LnRyaWNvbG9yLnR2L2R0di9pZDYzMl9NU0tTRy1QVlItMS0tQ2hhbm5lbF9MSVZFNC8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGM0TURjMU1ETXhNU3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94Tnpnd01UUTFOVEV4TENKelpYTnphVzl1WDJsa0lqb2lNamRoWkRVeU5USmhZVFUxTTJVd1l6ZzNNMlZpWVRRME1HRXpaVEZrWTJRaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuTXRkTkhRTUltYi0zNzNOWXJTWTUyajBZa0JNRE9GZ0hZMGl6SXZvRkFQdw.m3u8
+#EXTINF:-1 group-title="Спортивные", Сила
+https://kizug.xyz/s/N2Bbp0vzwyRW/c6bdd5ece0ac/aHR0cDovL3N0cmVhbS1tc2stMDQub3R0LnRyaWNvbG9yLnR2L2R0di9pZDYzM19NU0tTRy1QVlItMS0tQ2hhbm5lbF9MSVZFNS8wMy9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGM0TURjMU1ETXhNU3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94Tnpnd01UUTFOVEV4TENKelpYTnphVzl1WDJsa0lqb2lNamRoWkRVeU5USmhZVFUxTTJVd1l6ZzNNMlZpWVRRME1HRXpaVEZrWTJRaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuTXRkTkhRTUltYi0zNzNOWXJTWTUyajBZa0JNRE9GZ0hZMGl6SXZvRkFQdw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="bolshoj-efir", Большой эфир
+https://kizug.xyz/s/N2Bbp0vzwyRW/42ce191ad84e/aHR0cDovL3N0cmVhbS1tc2stMTAub3R0LnRyaWNvbG9yLnR2L2R0di9pZDYyMV9NU0tTRy1QVlItMS0tQ2hhbm5lbExJVkUvMDMvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjNE1EYzFNRE14TVN3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56Z3dNVFExTlRFeExDSnpaWE56YVc5dVgybGtJam9pTWpkaFpEVXlOVEpoWVRVMU0yVXdZemczTTJWaVlUUTBNR0V6WlRGa1kyUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLk10ZE5IUU1JbWItMzczTllyU1k1MmowWWtCTURPRmdIWTBpekl2b0ZBUHc.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport" tvg-logo="https://arsenal-academy.ru/templates/img/part/part11.jpg", Спортмастер ТВ
+https://kizug.xyz/s/N2Bbp0vzwyRW/a5c33d73bd3c/aHR0cHM6Ly9zdHJlYW0tbXNrLTA5Lm90dC50cmljb2xvci50di9kdHYvaWQ2MjhfTVNLU0ctUFZSLTEtLUNoYW5uZWxfTElWRTEvMDIvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjNE1EYzFNRE14TVN3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56Z3dNVFExTlRFeExDSnpaWE56YVc5dVgybGtJam9pTWpkaFpEVXlOVEpoWVRVMU0yVXdZemczTTJWaVlUUTBNR0V6WlRGa1kyUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLk10ZE5IUU1JbWItMzczTllyU1k1MmowWWtCTURPRmdIWTBpekl2b0ZBUHc.m3u8
+#EXTINF:-1 group-title="Спортивные", Мир баскетбола
+https://kizug.xyz/s/N2Bbp0vzwyRW/f757c7233063/aHR0cDovL2Nkbi5rdWJ0ZWx0di53b3JrZXJzLmRldi8_SUQ9NDUx.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://img.freepik.com/free-vector/boom-flash-white_1308-2912.jpg?semt=ais_hybrid&w=740&q=80", БУМ
+https://kizug.xyz/s/N2Bbp0vzwyRW/0aaf5d1aed3f/aHR0cHM6Ly9zdHJlYW0tbXNrLTA3Lm90dC50cmljb2xvci50di9kdHYvaWQ2MjhfTVNLU0ctUFZSLTEtLUNoYW5uZWxfTElWRTEvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjNE1EYzFNRE14TVN3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56Z3dNVFExTlRFeExDSnpaWE56YVc5dVgybGtJam9pTWpkaFpEVXlOVEpoWVRVMU0yVXdZemczTTJWaVlUUTBNR0V6WlRGa1kyUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLk10ZE5IUU1JbWItMzczTllyU1k1MmowWWtCTURPRmdIWTBpekl2b0ZBUHc.m3u8
+#EXTINF:-1 group-title="Спортивные", СТАРТ HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/ed14a3884794/aHR0cDovL3N0cmVhbS1tc2stMTMub3R0LnRyaWNvbG9yLnR2L2R0di9pZDYyNV9NU0tTRy1QVlItMS0tU3RhcnQvMDQvcGxzdC5tM3U4P2RybXJlcT1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGNIQmZkSGx3WlNJNkltRndkSEJmYjNSMElpd2lZMnhoYzNNaU9pSkNVazlYVTBWU0lpd2laSEpsYVdRaU9pSXpOakF5TlRVd05ESTJNakE1TVNJc0ltVjRjQ0k2TVRjNE1EYzFNRE14TVN3aWFIZHBaQ0k2SWpWbE9EQTFOR1JsWm1ReE5HUmpaV1ZoTnpBME1tWm1NekZoTUdSaU16ZzJZV1JtWkRNd1pXWTBNRFJtWldFd00ySTBZV0l5WmpVMk9XTTJZV1kzT1dNaUxDSnNZWE4wWDNKbGNWOWtZWFJsSWpveE56Z3dNVFExTlRFeExDSnpaWE56YVc5dVgybGtJam9pTWpkaFpEVXlOVEpoWVRVMU0yVXdZemczTTJWaVlUUTBNR0V6WlRGa1kyUWlMQ0owYjJ0bGJsOTBlWEJsSWpvaVEyOXVkR1Z1ZEVGalkyVnpjMVJ2YTJWdUlpd2lkSGx3WlNJNklrMVBXa2xNVEVFaWZRLk10ZE5IUU1JbWItMzczTllyU1k1MmowWWtCTURPRmdIWTBpekl2b0ZBUHc.m3u8
+#EXTINF:-1 group-title="Спортивные", Старт Баскет
+https://kizug.xyz/s/N2Bbp0vzwyRW/b62717d55a94/aHR0cHM6Ly9ibC53ZWJjYXN0ZXIucHJvL21lZGlhL3BsYXlsaXN0L2ZyZWVfNjIxZDE2OWU1YzYzMWM2MzgxMzZkZjNjYjEzNmM1YzkvMzNfNjg4ODE2NzYvMTA4MHAvYjMyZWFhZTVmYmYxZDJiODIxMTU0MzU2NmExZDlhNzgvNDkxNDM5Mjc2OS5tM3U4P2xpdmU9MTUmcmVmPWh0dHBzOi8vdHZzdGFydC5ydS9jaGFubmVscy9zdGFydC1iYXNrZXQtdGVzdC8.m3u8
+#EXTINF:-1 group-title="Спортивные", Старт Триумф
+https://kizug.xyz/s/N2Bbp0vzwyRW/92d636b8dfe8/aHR0cHM6Ly9ibC53ZWJjYXN0ZXIucHJvL21lZGlhL3BsYXlsaXN0L2ZyZWVfNjcyZDcwMGYyZjk1MTBiZTY2MDI1Mzc4NmU0NDA2ZmVfaGQvMzNfODU0Nzk5ODIvMTA4MHAvNGVhZWM4OTg2ZTIwMTJmYjkzNjQ3ODg1NmZiZjNiNGIvNDgxODczMTAwNi5tM3U4P2xpdmU9MTUmcmVmPWh0dHBzOi8vdHZzdGFydC5ydS9ydS9wYWdlcy9zdGFydC10cml1bXBoLw.m3u8
 #EXTINF:-1 group-title="Спортивные",Fight Box
-http://193.25.8.59:8000/box
-
-#EXTINF:-1 group-title="Спортивные",MMA TV
-http://31.148.48.15:80/M1_Global/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Viju+ Sport
-http://193.25.8.59:8000/viasatsport
-
-#EXTINF:-1 group-title="Спортивные",Авто 24
-http://213.230.65.254:8000/play/a01t
-
-#EXTINF:-1 group-title="Спортивные",Авто Плюс
-http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Авто Плюс
-http://31.148.48.15:80/Avto_Plus/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Спортивные",Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Беларусь 5
-http://194.158.222.36:6109
-
-#EXTINF:-1 group-title="Спортивные",Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
-
-#EXTINF:-1 group-title="Спортивные",Драйв
-http://178.212.71.253:8000/play/92/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Драйв
-http://95.66.188.74/Drive/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Казспорт
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Спортивные",Казспорт HD
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Конный Мир
-http://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Мир Баскетбола
-http://195.158.223.132:8003/Mir_Basketbola
-
-#EXTINF:-1 group-title="Спортивные",Овертайм ТВ
-http://live.overtime26.ru/app/potok/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Старт
-http://178.212.71.253:8000/play/81/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Старт
-https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
-#EXTINF:-1 group-title="Спортивные",Старт HD
-https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
-#EXTINF:-1 group-title="Спортивные",Старт Баскет
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-#EXTINF:-1 group-title="Спортивные",Старт Баскет HD
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-#EXTINF:-1 group-title="Спортивные",Старт Триумф
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-#EXTINF:-1 group-title="Спортивные",Старт Триумф HD
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-
-#EXTINF:-1 group-title="Спортивные",A21 Network
-https://tv.a21network.ru/stream/37909/index.m3u8
-
+https://kizug.xyz/s/N2Bbp0vzwyRW/4a78d31f254d/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvYm94.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://ftv.tj/img/fftx2.png",Футбол TJ HD [Таджикистан]
+https://kizug.xyz/s/N2Bbp0vzwyRW/fa783f06e296/aHR0cHM6Ly9saXZlLnRlbGVyYWRpb2NvbS50ai84LzNtLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.ibb.co/pjMWxZB8/image-28.png",Астрахань.Ru Sport
+https://kizug.xyz/s/N2Bbp0vzwyRW/52f68ba1468b/aHR0cHM6Ly9zdHJlYW1pbmcuYXN0cmFraGFuLnJ1L2FzdHJha2hhbnJ1c3BvcnRoZC90cmFja3MtdjNhMS9tb25vLnRzLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="Беларусь 5", Беларусь 5
+https://kizug.xyz/s/N2Bbp0vzwyRW/c2823d0badea/aHR0cHM6Ly9uZ3Ryay5kYy5iZWx0ZWxlY29tLmJ5L25ndHJrL19kZWZpbnN0Xy9zbWlsOmJlbGFydXM1LnNtaWwvcGxheWxpc3QubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="Беларусь 5", Беларусь 5 HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/d93f944dfc3a/aHR0cHM6Ly9lZGdlNTMuZGMuYmVsdGVsZWNvbS5ieS9uZ3Ryay9fZGVmaW5zdF8vc21pbDpiZWxhcnVzNS9jaHVua2xpc3RfdzEwNDkzMTg1NTdfYjI2NjAwMDBfc2xlbmcubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="fightbox-hd" tvg-logo="https://iptvx.one/picons/fightbox-hd.png", FightBox
+https://kizug.xyz/s/N2Bbp0vzwyRW/4a78d31f254d/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvYm94.m3u8
+#EXTINF:-1 group-title="Спортивные",QAZSPORT HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/08ce7a5560f3/aHR0cDovLzM3LjQ2LjQ5LjE0OjE4MDEwL3BsYXkvYTA0Yy9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="m1global", M-1 Global
+https://kizug.xyz/s/N2Bbp0vzwyRW/3af691c889cd/aHR0cDovL3N0cmVhbS1tc2stMTAub3R0LnRyaWNvbG9yLnR2L2R0di9pZDUyNF9NU0tTRy1QVlItMS0tTTFfR2xvYmFsLzAzL3Bsc3QubTN1OD9kcm1yZXE9ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhjSEJmZEhsd1pTSTZJbUZ3ZEhCZmIzUjBJaXdpWTJ4aGMzTWlPaUpDVWs5WFUwVlNJaXdpWkhKbGFXUWlPaUl6TmpBeU5UVXdOREkyTWpBNU1TSXNJbVY0Y0NJNk1UYzRNRGMxTURNeE1Td2lhSGRwWkNJNklqVmxPREExTkdSbFptUXhOR1JqWldWaE56QTBNbVptTXpGaE1HUmlNemcyWVdSbVpETXdaV1kwTURSbVpXRXdNMkkwWVdJeVpqVTJPV00yWVdZM09XTWlMQ0pzWVhOMFgzSmxjVjlrWVhSbElqb3hOemd3TVRRMU5URXhMQ0p6WlhOemFXOXVYMmxrSWpvaU1qZGhaRFV5TlRKaFlUVTFNMlV3WXpnM00yVmlZVFEwTUdFelpURmtZMlFpTENKMGIydGxibDkwZVhCbElqb2lRMjl1ZEdWdWRFRmpZMlZ6YzFSdmEyVnVJaXdpZEhsd1pTSTZJazFQV2tsTVRFRWlmUS5NdGROSFFNSW1iLTM3M05ZclNZNTJqMFlrQk1ET0ZnSFkwaXpJdm9GQVB3.m3u8
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/832358b8492b/aHR0cHM6Ly9zdHJlYW04LmNpbmVyYW1hLnV6LzEyNjMvdHJhY2tzLXYxYTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/39e1ad1f27ab/aHR0cHM6Ly9zdHJlYW04LmNpbmVyYW1hLnV6LzEyNjQvdHJhY2tzLXYxYTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные", Setenta Sports 1
+https://kizug.xyz/s/N2Bbp0vzwyRW/e58bdf8664ea/aHR0cDovL2NkbnR2Lm9ubGluZS9sb3cvOW1seHl3aWthMi8xMDIxLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные", Setenta Sports 2
+https://kizug.xyz/s/N2Bbp0vzwyRW/9e885405d152/aHR0cDovL2NkbnR2Lm9ubGluZS9sb3cvOW1seHl3aWthMi8xMDIyLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/0f76d1d263af/aHR0cHM6Ly9mcy51cGxpbmsua3ovZXVyb3Nwb3J0MS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg_dG9rZW49b25saW5ldHY.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 1
+https://kizug.xyz/s/N2Bbp0vzwyRW/91f5fcd7efe6/aHR0cDovLzQ2LjMyLjE3Ni41MC9ldXJvc3BvcnQvaW5kZXgubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 1
+https://kizug.xyz/s/N2Bbp0vzwyRW/1b8db181b006/aHR0cDovLzE3OC4xMzQuMS4xNTg6ODA4MS9ldXJvc3BvcnQvaW5kZXgubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 1
+https://kizug.xyz/s/N2Bbp0vzwyRW/d8fb3744cf32/aHR0cDovLzYyLjg5LjE3LjEzMDo0NDUxL3BsYXkvYTAxZC9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 2
+https://kizug.xyz/s/N2Bbp0vzwyRW/3259dca6a50a/aHR0cDovLzQ2LjMyLjE3Ni41MC9ldXJvc3BvcnQyL2luZGV4Lm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 2
+https://kizug.xyz/s/N2Bbp0vzwyRW/9427f684f9d9/aHR0cDovLzYyLjg5LjE3LjEzMDo0NDUxL3BsYXkvYTAxbS9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/e62009f2aa2e/aHR0cHM6Ly9mcy51cGxpbmsua3ovZXVyb3Nwb3J0Mi90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg_dG9rZW49b25saW5ldHY.m3u8
+#EXTINF:-1 group-title="Спортивные",Extreme Sports
+https://kizug.xyz/s/N2Bbp0vzwyRW/799f7b602a9e/aHR0cDovLzYyLjg5LjE3LjEzMDo0NDUxL3BsYXkvYTAwcy9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="Extreme Sports" ,Extreme Sports HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/52f914bbc57b/aHR0cDovLzQ2LjMyLjE3Ni41MC9leHRyZW1lc3BvcnQvaW5kZXgubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="Extreme Sports" ,Extreme Sports HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/195e87d1a4d2/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTFhOTQ0MWZkMzJkNjM4NzMvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",XStream (VPN)
+https://kizug.xyz/s/N2Bbp0vzwyRW/e00c95fd42f5/aHR0cDovLzE3Ni4xMjIuOTkuNzo3MDAwL2NoMzEzL3ZpZGVvLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",PROSTO DRIVE (VPN)
+https://kizug.xyz/s/N2Bbp0vzwyRW/6c31e07d4347/aHR0cDovLzE3Ni4xMjIuOTkuNzo3MDAwL2NoMzI2L3ZpZGVvLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",Рыбалка (VPN)
+https://kizug.xyz/s/N2Bbp0vzwyRW/c5db90e4716a/aHR0cDovLzE3Ni4xMjIuOTkuNzo3MDAwL2NoMzQ0L3ZpZGVvLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",FIGHTBOX HD (VPN)
+https://kizug.xyz/s/N2Bbp0vzwyRW/3c46772ddd61/aHR0cDovLzE3Ni4xMjIuOTkuNzo3MDAwL2NoMTE4L3ZpZGVvLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/MNBSpro_2015.png",MNB Sport
+https://kizug.xyz/s/N2Bbp0vzwyRW/cca6ff78e3da/aHR0cHM6Ly9saXZlLm1uYi5tbi9obHMvbW5iX3Nwb3J0LnN0cmVhbS5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://varzishtv.tj/bitrix/templates/varzish_tv/img/logo.png", ВАРЗИШ ТВ HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/dd489c583bce/aHR0cHM6Ly9saXZlLnRlbGVyYWRpb2NvbS50ai81LzNtLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+https://kizug.xyz/s/N2Bbp0vzwyRW/85b5b075aded/aHR0cDovLzYyLjg5LjE3LjEzMDo0NDUxL3BsYXkvYTAwcS9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+https://kizug.xyz/s/N2Bbp0vzwyRW/14755283e016/aHR0cDovLzYyLjg5LjE3LjEzMDo0NDUxL3BsYXkvYTAwcC9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Премьер
+https://kizug.xyz/s/N2Bbp0vzwyRW/60817d135f55/aHR0cDovLzYyLjg5LjE3LjEzMDo0NDUxL3BsYXkvYTAxOS9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Премьер
+https://kizug.xyz/s/N2Bbp0vzwyRW/85d9ee5335dd/aHR0cDovLzg5LjIxOC4zMi4xNzk6MTgwMDAvcGxheS9hMDFv.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png", МАТЧ! Премьер
+https://kizug.xyz/s/N2Bbp0vzwyRW/55550cf88e68/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LWVlMzY1MWUxZTdjZTVjYmYvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч!
+https://kizug.xyz/s/N2Bbp0vzwyRW/fea9777ea32a/aHR0cDovL3R2LnR1dmEucnUvbWFjaHR2L2luZGV4Lm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч!
+https://kizug.xyz/s/N2Bbp0vzwyRW/8e153a24e924/aHR0cDovL2NhdGNodXAudmlkZW9saW5lLnJ1L21hdGNoL3RyYWNrcy12MWExL21vbm8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ!
+https://kizug.xyz/s/N2Bbp0vzwyRW/ae684f4a13ec/aHR0cDovLzE4NS40Ni40OC4xODo4MC9tYXRjaC90cmFja3MtdjFhMS9tb25vLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/22451344cc5a/aHR0cHM6Ly9ibC52aWRlby5tYXRjaHR2LnJ1L21lZGlhL3BsYXlsaXN0L2ZyZWVfZDQ2ZDBjZjE3MTJjMDU0MmVjN2ZkNGYwODA4ZjYwMGFfaGQvMTdfODk3NTYwMDUvMTA4MC9lNmJlZjg2ZGU4YTEzM2NkN2IyN2RlYjA0MDc1OGEwMC80Nzk2MTQxOTM0Lm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+https://kizug.xyz/s/N2Bbp0vzwyRW/5de4e26eba22/aHR0cDovLzMxLjE0OC40OC4xNS9NYXRjaF9BcmVuYS9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+https://kizug.xyz/s/N2Bbp0vzwyRW/ffcf9f9423c1/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvc3BvcnQx.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Игра
+https://kizug.xyz/s/N2Bbp0vzwyRW/88d302d26796/aHR0cDovL2Nkbi5rdWJ0ZWx0di53b3JrZXJzLmRldi8_SUQ9MTEx.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Игра
+https://kizug.xyz/s/N2Bbp0vzwyRW/57eb161c317c/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTFiZmFjOWRmM2Q5MzhjMWYvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+https://kizug.xyz/s/N2Bbp0vzwyRW/9980ea5057da/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTZkYjRmNTljMjFhZWMzNjEvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+https://kizug.xyz/s/N2Bbp0vzwyRW/bcf3807a9488/aHR0cDovLzM3LjQ2LjQ5LjE0OjE4MDEwL3BsYXkvYTA5by9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
+https://kizug.xyz/s/N2Bbp0vzwyRW/b7e6c873333f/aHR0cDovLzMxLjE0OC40OC4xNS9NYXRjaF9GdXRib2xfMV9IRC9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
+https://kizug.xyz/s/N2Bbp0vzwyRW/cabdfab12c5b/aHR0cDovL2NkbnR2Lm9ubGluZS9sb3cvOW1seHl3aWthMi81Ni5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
+https://kizug.xyz/s/N2Bbp0vzwyRW/34580b486b3c/aHR0cDovLzMxLjE0OC40OC4xNS9NYXRjaF9GdXRib2xfMl9IRC9tb25vLm0zdTg.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
+https://kizug.xyz/s/N2Bbp0vzwyRW/785b16e604f0/aHR0cDovLzE4NS41Ny42OC4zMy8xMTAvbXBlZ3Rz.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
+https://kizug.xyz/s/N2Bbp0vzwyRW/757358bac8c1/aHR0cDovLzE5My4yNS44LjU5OjgwMDAvZnV0Mw.m3u8
+#EXTINF:-1 group-title="Спортивные",Extreme Sports
+https://kizug.xyz/s/N2Bbp0vzwyRW/195e87d1a4d2/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTFhOTQ0MWZkMzJkNjM4NzMvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",КХЛ
+https://kizug.xyz/s/N2Bbp0vzwyRW/3531344c2cda/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LWUzZDIzZmM3NTExYjVmY2QvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",Конный мир
+https://kizug.xyz/s/N2Bbp0vzwyRW/6c0931fd0ec8/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTdhNWY5OTYxOTcwNzczNzUvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Арена
+https://kizug.xyz/s/N2Bbp0vzwyRW/9b5eb01b53b9/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTlkZGExZGQ5ZDc0MGE5YTQvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ!
+https://kizug.xyz/s/N2Bbp0vzwyRW/9337d078d579/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LWQzMDk4NTIzYTQ0MDk4MzUvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Игра
+https://kizug.xyz/s/N2Bbp0vzwyRW/57eb161c317c/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTFiZmFjOWRmM2Q5MzhjMWYvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Страна
+https://kizug.xyz/s/N2Bbp0vzwyRW/9980ea5057da/aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTZkYjRmNTljMjFhZWMzNjEvdmlkZW8ubTN1OA.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/451dacc68db5/aHR0cDovLzQ1LjE0NS4zMi4xMzoyMDQ0MC9tYXRjaF9mb290YmFsbDEvaW5kZXgubTN1OD90b2tlbj10ZXN0.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/6ccc964c5ff9/aHR0cDovLzQ1LjE0NS4zMi4xMzoyMDQ0MC9tYXRjaF9mb290YmFsbDIvaW5kZXgubTN1OD90b2tlbj10ZXN0.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
+https://kizug.xyz/s/N2Bbp0vzwyRW/682ec1c6d3aa/aHR0cDovLzQ1LjE0NS4zMi4xMzoyMDQ0MC9tYXRjaF9mb290YmFsbDMvaW5kZXgubTN1OD90b2tlbj10ZXN0.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 SD
+https://kizug.xyz/s/N2Bbp0vzwyRW/e162733dba52/aHR0cDovLzE4NS41Ny42OC4zMzo4MDkxLzExMC9pbmRleC5tM3U4.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -1ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/3a133c125513/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0zNjAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -2ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/7e3a13190bb4/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS03MjAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -3ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/082ef5d0118b/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0xMDgwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -4ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/d322ac54adee/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0xNDQwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -5ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/d0586656965d/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0xODAwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -6ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/3c524a352e89/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0yMTYwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -7ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/13c103295a3b/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0yNTIwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -8ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/b6d7781c102a/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0yODgwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -9ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/26aba8d49a7b/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0zMjQwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -10ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/f87298ba03b7/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0zNjAwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -11ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/fc11b4070fcc/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS0zOTYwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -12ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/0c94136909b4/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS00MzIwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -13ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/8329d50c7032/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS00NjgwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -14ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/bc7628274b6d/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS01MDQwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -15ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/e5204e885d4a/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS01NzYwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -16ч
+https://kizug.xyz/s/N2Bbp0vzwyRW/06fb00a17f91/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9NQVRDSFRWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTImb2Zmc2V0PS02MTIwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-17)
+https://kizug.xyz/s/N2Bbp0vzwyRW/9bc0df16e355/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTYxMjAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-18)
+https://kizug.xyz/s/N2Bbp0vzwyRW/0ef1029800ff/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTY0ODAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-19)
+https://kizug.xyz/s/N2Bbp0vzwyRW/7423b8e7af28/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTY4NDAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-20)
+https://kizug.xyz/s/N2Bbp0vzwyRW/6c488471a8a0/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTcyMDAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-21)
+https://kizug.xyz/s/N2Bbp0vzwyRW/82ce2c30afdf/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTc1NjAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-22)
+https://kizug.xyz/s/N2Bbp0vzwyRW/da3d0406196f/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTc5MjAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-23)
+https://kizug.xyz/s/N2Bbp0vzwyRW/846c8ba1a021/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTgyODAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-24)
+https://kizug.xyz/s/N2Bbp0vzwyRW/f99258bbf91e/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTg2NDAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-25)
+https://kizug.xyz/s/N2Bbp0vzwyRW/b8df88a02cff/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTkwMDAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-26)
+https://kizug.xyz/s/N2Bbp0vzwyRW/a71a21fb7bee/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTkzNjAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-27)
+https://kizug.xyz/s/N2Bbp0vzwyRW/c61d03b151a7/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTk3MjAw.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-28)
+https://kizug.xyz/s/N2Bbp0vzwyRW/7e401840f892/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTEwMDgwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-29)
+https://kizug.xyz/s/N2Bbp0vzwyRW/ac292cdb7024/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTEwNDQwMA.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-30)
+https://kizug.xyz/s/N2Bbp0vzwyRW/2ea4fa4f0374/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249MiZvZmZzZXQ9LTEwODAwMA.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Abba - If It Wasn t For The Nights
