@@ -12513,16 +12513,22 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.
 
 
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_football1/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные", Russian Extreme HD
 https://kizug.xyz/s/N2Bbp0vzwyRW/5f8b901ad8cb/aHR0cHM6Ly9zdHJlYW0tbXNrLTEwLm90dC50cmljb2xvci50di9kdHYvaWQyOTRfTVNLU0ctUFZSLTEtLUhEX1J1c3NraXlfRXh0cmVtZS8wNC9wbHN0Lm0zdTg_ZHJtcmVxPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoY0hCZmRIbHdaU0k2SW1Gd2RIQmZiM1IwSWl3aVkyeGhjM01pT2lKQ1VrOVhVMFZTSWl3aVpISmxhV1FpT2lJek5qQXlOVFV3TkRJMk1qQTVNU0lzSW1WNGNDSTZNVGM0TURjMU1ETXhNU3dpYUhkcFpDSTZJalZsT0RBMU5HUmxabVF4TkdSalpXVmhOekEwTW1abU16RmhNR1JpTXpnMllXUm1aRE13WldZME1EUm1aV0V3TTJJMFlXSXlaalUyT1dNMllXWTNPV01pTENKc1lYTjBYM0psY1Y5a1lYUmxJam94Tnpnd01UUTFOVEV4TENKelpYTnphVzl1WDJsa0lqb2lNamRoWkRVeU5USmhZVFUxTTJVd1l6ZzNNMlZpWVRRME1HRXpaVEZrWTJRaUxDSjBiMnRsYmw5MGVYQmxJam9pUTI5dWRHVnVkRUZqWTJWemMxUnZhMlZ1SWl3aWRIbHdaU0k2SWsxUFdrbE1URUVpZlEuTXRkTkhRTUltYi0zNzNOWXJTWTUyajBZa0JNRE9GZ0hZMGl6SXZvRkFQdw.m3u8
