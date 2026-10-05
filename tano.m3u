@@ -12561,9 +12561,6 @@ https://kizug.xyz/s/N2Bbp0vzwyRW/d4466dd65aab/364074.m3u8
 #EXTINF:-1 group-title="Спортивные", Мир баскетбола
 https://kizug.xyz/s/N2Bbp0vzwyRW/a4ca4f943730/356673.m3u8
 
-#EXTINF:-1 group-title="Спортивные", Мир баскетбола
-https://kizug.xyz/s/N2Bbp0vzwyRW/a107defbf7c3/356674.m3u8
-
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://img.freepik.com/free-vector/boom-flash-white_1308-2912.jpg?semt=ais_hybrid&w=740&q=80", БУМ
 https://kizug.xyz/s/N2Bbp0vzwyRW/2d10718f1a47/364075.m3u8
 
@@ -12612,8 +12609,7 @@ https://kizug.xyz/s/N2Bbp0vzwyRW/4b43fcab42c8/307684.m3u8
 https://kizug.xyz/s/N2Bbp0vzwyRW/2cbb6e779c44/1485.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 1
 https://kizug.xyz/s/N2Bbp0vzwyRW/6c8724d9f5a7/192095.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/fd91d992f4bb/307685.m3u8
+
 #EXTINF:-1 group-title="Спортивные",Eurosport 1
 https://kizug.xyz/s/N2Bbp0vzwyRW/3b06b3a5f42c/307686.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 2
@@ -12622,8 +12618,7 @@ https://kizug.xyz/s/N2Bbp0vzwyRW/5349aa0af96b/192096.m3u8
 https://kizug.xyz/s/N2Bbp0vzwyRW/adc7382b73d3/307687.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 2
 https://kizug.xyz/s/N2Bbp0vzwyRW/a7926eb29c35/307688.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2
-https://kizug.xyz/s/N2Bbp0vzwyRW/1aafa23491c1/307689.m3u8
+
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="Extreme Sports", Extreme Sports HD
 https://kizug.xyz/s/N2Bbp0vzwyRW/fb74278c7f91/1492.m3u8
@@ -12734,6 +12729,7 @@ https://kizug.xyz/s/N2Bbp0vzwyRW/1017826db843/364078.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.imgur.com/FabFP5A.png", Trace Sport Stars HD
 https://kizug.xyz/s/N2Bbp0vzwyRW/7ffd251c8a92/2902.m3u8
+
 
 #EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Abba - If It Wasn t For The Nights
 http://dsx.obmenvsemfiles.net/fo/get/5705124_137951081/137951081_ABBA___If_It_Wasn_t_For_The_Nights_Japan_1978-nashobmen.org.mp4
