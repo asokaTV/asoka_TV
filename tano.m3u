@@ -12471,265 +12471,510 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:-1 group-title="Кино и сериалы",Шокирующее HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
 
-#EXTINF:-1 group-title="Спортивные", Мото Драйв
-https://kizug.xyz/s/N2Bbp0vzwyRW/c35d0c2dfae4/307683.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png",	Спорт ТВ [BY]
-https://kizug.xyz/s/N2Bbp0vzwyRW/8a36b2556a11/140383.m3u8
-
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://contact-tv.ru/assets/images/tv/14.png?ver=1740722792",Russian Extreme
-https://kizug.xyz/s/N2Bbp0vzwyRW/95cb4238ad29/2165.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Russian Extreme HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/44da60886fd8/364065.m3u8
-
-#EXTINF:-1 group-title="Спортивные", ВОЛЕЙБОЛ
-https://kizug.xyz/s/N2Bbp0vzwyRW/695186ce4f3d/364066.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
-https://kizug.xyz/s/N2Bbp0vzwyRW/da33d832a808/161700.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://overtime26.ru/wp-content/themes/overtime/img/overtime.png", Overtime (Ставрополь)
-https://kizug.xyz/s/N2Bbp0vzwyRW/47ab78ec93db/1442.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Бокс ТВ
-https://kizug.xyz/s/N2Bbp0vzwyRW/454e27d5e396/316788.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Бокс ТВ
-https://kizug.xyz/s/N2Bbp0vzwyRW/9ea00c9a1050/316789.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-https://kizug.xyz/s/N2Bbp0vzwyRW/fe4a6fed66e2/316790.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-https://kizug.xyz/s/N2Bbp0vzwyRW/2e78967e9bc7/96064.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Удар ТВ
-https://kizug.xyz/s/N2Bbp0vzwyRW/2c84f77a8308/133691.m3u8
-
-#EXTINF:-1 group-title="Спортивные", MMA-TV
-https://kizug.xyz/s/N2Bbp0vzwyRW/a99427fb0eba/1448.m3u8
-
-#EXTINF:-1 group-title="Спортивные", MMA-TV
-https://kizug.xyz/s/N2Bbp0vzwyRW/2ac0d0f22ba9/2864.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Viju+ Sport
-https://kizug.xyz/s/N2Bbp0vzwyRW/f0e09e979a31/220360.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Viju+ Sport
-https://kizug.xyz/s/N2Bbp0vzwyRW/bd57c94032e5/356672.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Viasat Sport
-https://kizug.xyz/s/N2Bbp0vzwyRW/22c5489a1f4e/316793.m3u8
-
-#EXTINF:-1 group-title="Спортивные", МЯЧ
-https://kizug.xyz/s/N2Bbp0vzwyRW/76c2aed7204d/364067.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="KHL",KHL
-https://kizug.xyz/s/N2Bbp0vzwyRW/f8b94c73b3a0/1454.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="KHL",KHL
-https://kizug.xyz/s/N2Bbp0vzwyRW/7daa8fabd394/1456.m3u8
-
-#EXTINF:-1 group-title="Спортивные", КХЛ ТВ
-https://kizug.xyz/s/N2Bbp0vzwyRW/c494039a66a0/1457.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Хоккей ТВ
-https://kizug.xyz/s/N2Bbp0vzwyRW/b626fd499842/364068.m3u8
-
-#EXTINF:-1  group-title="Спортивные", Trace Sport Stars
-https://kizug.xyz/s/N2Bbp0vzwyRW/c5123042a4ac/126660.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Спортивный
-https://kizug.xyz/s/N2Bbp0vzwyRW/2819fa224910/1460.m3u8
-
-#EXTINF:-1 group-title="Спортивные", ТВ Спорт
-https://kizug.xyz/s/N2Bbp0vzwyRW/1cc582f4aa2e/364069.m3u8
-#EXTINF:-1 group-title="Спортивные", Поединок
-https://kizug.xyz/s/N2Bbp0vzwyRW/2d55d8beb131/364070.m3u8
-#EXTINF:-1 group-title="Спортивные", Игра
-https://kizug.xyz/s/N2Bbp0vzwyRW/efebd0645815/364071.m3u8
-#EXTINF:-1 group-title="Спортивные", Сила
-https://kizug.xyz/s/N2Bbp0vzwyRW/2a972ef4008b/364072.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="bolshoj-efir", Большой эфир
-https://kizug.xyz/s/N2Bbp0vzwyRW/ebdacd9ed955/364073.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport" tvg-logo="https://arsenal-academy.ru/templates/img/part/part11.jpg", Спортмастер ТВ
-https://kizug.xyz/s/N2Bbp0vzwyRW/d4466dd65aab/364074.m3u8
-
-
-#EXTINF:-1 group-title="Спортивные", Мир баскетбола
-https://kizug.xyz/s/N2Bbp0vzwyRW/a4ca4f943730/356673.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://img.freepik.com/free-vector/boom-flash-white_1308-2912.jpg?semt=ais_hybrid&w=740&q=80", БУМ
-https://kizug.xyz/s/N2Bbp0vzwyRW/2d10718f1a47/364075.m3u8
-
-#EXTINF:-1 group-title="Спортивные", СТАРТ HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/735d2b238904/364076.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Старт Баскет
-https://kizug.xyz/s/N2Bbp0vzwyRW/a5d53948b2af/96066.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Старт Триумф
-https://kizug.xyz/s/N2Bbp0vzwyRW/92578792c0f8/1471.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://ftv.tj/img/fftx2.png",Футбол TJ HD [Таджикистан]
-
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.ibb.co/pjMWxZB8/image-28.png",Астрахань.Ru Sport
-https://kizug.xyz/s/N2Bbp0vzwyRW/aa5496ac902a/1474.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="Беларусь 5", Беларусь 5
-https://kizug.xyz/s/N2Bbp0vzwyRW/a9352e397d34/1475.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="Беларусь 5", Беларусь 5 HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/0b6795b5c19f/1476.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="fightbox-hd" tvg-logo="https://iptvx.one/picons/fightbox-hd.png", FightBox
-https://kizug.xyz/s/N2Bbp0vzwyRW/92c67eb8b833/1496.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00087.png",FightBox HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/89928161a11a/192093.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00088.png",Fast & FunBox HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/6ae890f6dba7/192094.m3u8
-
-#EXTINF:-1 group-title="Спортивные",QAZSPORT HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/82a91779c5f6/140374.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="m1global", M-1 Global
-https://kizug.xyz/s/N2Bbp0vzwyRW/2b6bea6bae5a/364077.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/8cc3c47c06d0/101671.m3u8
-#EXTINF:-1 group-title="Спортивные",EUROSPORT 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/1f144507b283/2932.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/4b43fcab42c8/307684.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/2cbb6e779c44/1485.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/6c8724d9f5a7/192095.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/3b06b3a5f42c/307686.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2
-https://kizug.xyz/s/N2Bbp0vzwyRW/5349aa0af96b/192096.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2
-https://kizug.xyz/s/N2Bbp0vzwyRW/adc7382b73d3/307687.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2
-https://kizug.xyz/s/N2Bbp0vzwyRW/a7926eb29c35/307688.m3u8
-
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="Extreme Sports", Extreme Sports HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/fb74278c7f91/1492.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="Extreme Sports", Extreme Sports
-https://kizug.xyz/s/N2Bbp0vzwyRW/016587afe19f/307690.m3u8
-
-#EXTINF:-1 group-title="Спортивные",XStream (VPN)
-https://kizug.xyz/s/N2Bbp0vzwyRW/8a67256b6354/1493.m3u8
-
-#EXTINF:-1 group-title="Спортивные",PROSTO DRIVE (VPN)
-https://kizug.xyz/s/N2Bbp0vzwyRW/c771705d5f0b/1494.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Рыбалка (VPN)
-https://kizug.xyz/s/N2Bbp0vzwyRW/8d77be4de21d/1495.m3u8
-
-#EXTINF:-1 group-title="Спортивные",FIGHTBOX HD (VPN)
-https://kizug.xyz/s/N2Bbp0vzwyRW/92c67eb8b833/1496.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://varzishtv.tj/bitrix/templates/varzish_tv/img/logo.png", ВАРЗИШ ТВ HD
-
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYMFtTGqXhD5SIG8_V29dIXEeCS4_DGpkMVOOQFqsDd3wUD9CG6NRiHw&s=10", SPOOPS (Женская атлетика)
-https://kizug.xyz/s/N2Bbp0vzwyRW/0c1bf905b3a6/159248.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Страна
-https://kizug.xyz/s/N2Bbp0vzwyRW/cfdd77c41463/316794.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч!
-https://kizug.xyz/s/N2Bbp0vzwyRW/b8c68919f58c/1504.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/2dcbdc9190a9/1507.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-https://kizug.xyz/s/N2Bbp0vzwyRW/f7153909de16/192098.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-https://kizug.xyz/s/N2Bbp0vzwyRW/3ed41e850473/1521.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Игра
-https://kizug.xyz/s/N2Bbp0vzwyRW/9b274b84de8b/1511.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Страна
-https://kizug.xyz/s/N2Bbp0vzwyRW/2baa9bf36a15/1512.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/f3b075a894d4/316795.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
-https://kizug.xyz/s/N2Bbp0vzwyRW/d5b67aebc36c/1515.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
-https://kizug.xyz/s/N2Bbp0vzwyRW/f9b9fb2e17aa/316796.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-https://kizug.xyz/s/N2Bbp0vzwyRW/302c6b970fe0/316797.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-https://kizug.xyz/s/N2Bbp0vzwyRW/6dfc893dcc83/316798.m3u8
-
+#EXTM3U
+#EXTINF:-1 group-title="Спортивные",МАТЧ!
+https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
 #EXTINF:-1 group-title="Спортивные",МАТЧ! Арена
-https://kizug.xyz/s/N2Bbp0vzwyRW/924ebc1c485a/356675.m3u8
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! Арена
-https://kizug.xyz/s/N2Bbp0vzwyRW/f7153909de16/192098.m3u8
-
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Премьер
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спортивные",МАТЧ! Игра
-https://kizug.xyz/s/N2Bbp0vzwyRW/9b274b84de8b/1511.m3u8
-
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 group-title="Спортивные",МАТЧ! Страна
-https://kizug.xyz/s/N2Bbp0vzwyRW/2baa9bf36a15/1512.m3u8
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! Премьер
-https://kizug.xyz/s/N2Bbp0vzwyRW/bc4de56db683/307691.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Премьер
-https://kizug.xyz/s/N2Bbp0vzwyRW/adcdcdfa1487/356676.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Премьер
-https://kizug.xyz/s/N2Bbp0vzwyRW/547ba67e00bf/356677.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Премьер
-https://kizug.xyz/s/N2Bbp0vzwyRW/13fb0fc7c59a/356678.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="http://de1.plist.link/plepg/img/channels/698.png?69c29495ba36e", Матч! Премьер
-https://kizug.xyz/s/N2Bbp0vzwyRW/ccfcd9903930/192101.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="http://de1.plist.link/plepg/img/channels/135.png?69c29495ba36e", Матч! Премьер
-https://kizug.xyz/s/N2Bbp0vzwyRW/e7c1319462a1/192102.m3u8
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! Премьер
-https://kizug.xyz/s/N2Bbp0vzwyRW/770cedcaad0b/122195.m3u8
-
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
+#EXTINF:-1 group-title="Спортивные",Футбол
+http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Extreme Sports
-https://kizug.xyz/s/N2Bbp0vzwyRW/fb74278c7f91/1492.m3u8
-
+https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спортивные",КХЛ
-https://kizug.xyz/s/N2Bbp0vzwyRW/7daa8fabd394/1456.m3u8
-
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный мир
-https://kizug.xyz/s/N2Bbp0vzwyRW/8a1a02d0cbbb/1520.m3u8
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
 
-#EXTINF:-1 group-title="Спортивные", Okko TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://kizug.xyz/s/N2Bbp0vzwyRW/c3a6d1ec6448/137385.m3u8
-#EXTINF:-1 group-title="Спортивные", Okko TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://kizug.xyz/s/N2Bbp0vzwyRW/1017826db843/364078.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.imgur.com/FabFP5A.png", Trace Sport Stars HD
-https://kizug.xyz/s/N2Bbp0vzwyRW/7ffd251c8a92/2902.m3u8
-
+#EXTINF:0 group-title="Спортивные" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="7",Матч ТВ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/212/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="3",Матч ТВ FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2413/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="0",Матч ТВ HD 50
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10020/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="7",Матч ТВ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/535/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="3",Матч ТВ +2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6012/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="3",Матч ТВ +4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6023/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="3",Матч ТВ +8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6052/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2050" tvg-logo="http://epg.one/img2/2050.png" tvg-rec="7",Матч! Игра HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/225/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2050" tvg-logo="http://epg.one/img2/2050.png" tvg-rec="3",Матч! Игра FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2406/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2050" tvg-logo="http://epg.one/img2/2050.png" tvg-rec="0",Матч! Игра HD 50
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10014/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2050" tvg-logo="http://epg.one/img2/2050.png" tvg-rec="7",Матч! Игра
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/529/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2003" tvg-logo="http://epg.one/img2/2003.png" tvg-rec="7",Матч! Арена HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/207/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2003" tvg-logo="http://epg.one/img2/2003.png" tvg-rec="3",Матч! Арена HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9010/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2003" tvg-logo="http://epg.one/img2/2003.png" tvg-rec="7",Матч! Арена
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/528/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="7",Матч! Премьер HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/220/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="3",Матч! Премьер FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2414/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="0",Матч! Премьер HD 50
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10021/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="7",Матч! Премьер
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/531/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2250" tvg-logo="http://epg.one/img2/2250.png" tvg-rec="3",Матч! Премьер orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9246/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2407/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="7",Матч! Футбол 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/222/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="3",Матч! Футбол 1 HD 50 orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5072/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="0",Матч! Футбол 1 HD 50
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10015/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="7",Матч! Футбол 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/124/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="1042" tvg-logo="http://epg.one/img2/1042.png" tvg-rec="3",Матч! Футбол 2 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2420/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="1042" tvg-logo="http://epg.one/img2/1042.png" tvg-rec="7",Матч! Футбол 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/211/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="1042" tvg-logo="http://epg.one/img2/1042.png" tvg-rec="0",Матч! Футбол 2 HD 50
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10027/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="1042" tvg-logo="http://epg.one/img2/1042.png" tvg-rec="7",Матч! Футбол 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/530/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2005" tvg-logo="http://epg.one/img2/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2408/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2005" tvg-logo="http://epg.one/img2/2005.png" tvg-rec="7",Матч! Футбол 3 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/206/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2005" tvg-logo="http://epg.one/img2/2005.png" tvg-rec="3",Матч! Футбол 3 HD 50 orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5071/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2005" tvg-logo="http://epg.one/img2/2005.png" tvg-rec="0",Матч! Футбол 3 HD 50
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10016/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2005" tvg-logo="http://epg.one/img2/2005.png" tvg-rec="7",Матч! Футбол 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/522/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2042" tvg-logo="http://epg.one/img2/2042.png" tvg-rec="0",Матч! Страна HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19219/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2042" tvg-logo="http://epg.one/img2/2042.png" tvg-rec="7",Матч! Страна
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/107/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2042" tvg-logo="http://epg.one/img2/2042.png" tvg-rec="3",Матч! Страна orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9157/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2043" tvg-logo="http://epg.one/img2/2043.png" tvg-rec="7",Матч! Планета
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/123/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2054" tvg-logo="http://epg.one/img2/2054.png" tvg-rec="0",Матч! Боец HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19221/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2054" tvg-logo="http://epg.one/img2/2054.png" tvg-rec="7",Матч! Боец
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/150/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2054" tvg-logo="http://epg.one/img2/2054.png" tvg-rec="3",Матч! Боец orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9159/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2285" tvg-logo="http://epg.one/img2/2285.png" tvg-rec="0",Бокс ТВ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19245/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2285" tvg-logo="http://epg.one/img2/2285.png" tvg-rec="7",Бокс ТВ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/870/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2285" tvg-logo="http://epg.one/img2/2285.png" tvg-rec="3",Бокс ТВ orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9162/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2326" tvg-logo="http://epg.one/img2/2326.png" tvg-rec="0",MMA-TV.com HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19243/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="7",Eurosport 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/228/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="3",Eurosport 1 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5075/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="7",Eurosport 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/141/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="3",Eurosport 1 orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9247/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4313" tvg-logo="http://epg.one/img2/4313.png" tvg-rec="7",Eurosport 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/234/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4313" tvg-logo="http://epg.one/img2/4313.png" tvg-rec="3",Eurosport 2 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5076/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2363" tvg-logo="http://epg.one/img2/2363.png" tvg-rec="3",Setanta Sports 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/270/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7517" tvg-logo="http://epg.one/img2/7517.png" tvg-rec="0",Setanta Sports 1 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6541/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7517" tvg-logo="http://epg.one/img2/7517.png" tvg-rec="0",Setanta Sports 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6543/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2363" tvg-logo="http://epg.one/img2/2363.png" tvg-rec="0",Setanta Sports 2 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6542/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7517" tvg-logo="http://epg.one/img2/7517.png" tvg-rec="3",Setanta Sports 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/271/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2363" tvg-logo="http://epg.one/img2/2363.png" tvg-rec="0",Setanta Sports 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6544/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6861" tvg-logo="http://epg.one/img2/6861.png" tvg-rec="3",Setanta Baltic 1 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5069/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2630" tvg-logo="http://epg.one/img2/2630.png" tvg-rec="3",Setanta Qazaqstan HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2399/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2370" tvg-logo="http://epg.one/img2/2370.png" tvg-rec="3",Setanta Sports FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/272/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2370" tvg-logo="http://epg.one/img2/2370.png" tvg-rec="0",Setanta Sports HD UA orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15183/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="3",Setanta Sports+ FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5068/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="0",Setanta Sports+ HD UA orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15184/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6861" tvg-logo="http://epg.one/img2/6861.png" tvg-rec="0",Setanta Baltic 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20081/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7244" tvg-logo="http://epg.one/img2/7244.png" tvg-rec="0",Setanta Moldova FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20074/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9384" tvg-logo="http://epg.one/img2/9384.png" tvg-rec="0",Окко Event 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14186/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9385" tvg-logo="http://epg.one/img2/9385.png" tvg-rec="0",Окко Event 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14187/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9386" tvg-logo="http://epg.one/img2/9386.png" tvg-rec="0",Окко Event 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14188/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9387" tvg-logo="http://epg.one/img2/9387.png" tvg-rec="0",Окко Event 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14189/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9388" tvg-logo="http://epg.one/img2/9388.png" tvg-rec="0",Окко Event 5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14190/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9389" tvg-logo="http://epg.one/img2/9389.png" tvg-rec="0",Окко Event 6
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14191/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2055" tvg-logo="http://epg.one/img2/2055.png" tvg-rec="7",Viju+ Sport HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2007/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2055" tvg-logo="http://epg.one/img2/2055.png" tvg-rec="3",Viju+ Sport HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5065/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2055" tvg-logo="http://epg.one/img2/2055.png" tvg-rec="7",Viju+ Sport
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/160/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2055" tvg-logo="http://epg.one/img2/2055.png" tvg-rec="3",Viju+ Sport orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9249/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2821" tvg-logo="http://epg.one/img2/2821.png" tvg-rec="3",ViaPlay Football SE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5078/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2480" tvg-logo="http://epg.one/img2/2480.png" tvg-rec="3",Удар HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5067/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2480" tvg-logo="http://epg.one/img2/2480.png" tvg-rec="7",Удар HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2000/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9325" tvg-logo="http://epg.one/img2/9325.png" tvg-rec="3",Окко Футбол HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6554/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2326" tvg-logo="http://epg.one/img2/2326.png" tvg-rec="7",MMA-TV.com
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/843/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2326" tvg-logo="http://epg.one/img2/2326.png" tvg-rec="3",MMA-TV.com orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9161/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2803" tvg-logo="http://epg.one/img2/2803.png" tvg-rec="3",Russian Extreme UHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5003/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2497" tvg-logo="http://epg.one/img2/2497.png" tvg-rec="3",Russian Extreme HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2077/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2497" tvg-logo="http://epg.one/img2/2497.png" tvg-rec="3",Russian Extreme HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9042/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2053" tvg-logo="http://epg.one/img2/2053.png" tvg-rec="7",Extreme Sports
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/144/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2053" tvg-logo="http://epg.one/img2/2053.png" tvg-rec="3",Extreme Sports orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9160/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2048" tvg-logo="http://epg.one/img2/2048.png" tvg-rec="7",KHL HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/215/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2048" tvg-logo="http://epg.one/img2/2048.png" tvg-rec="7",KHL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/519/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2048" tvg-logo="http://epg.one/img2/2048.png" tvg-rec="3",KHL orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9250/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="1038" tvg-logo="http://epg.one/img2/1038.png" tvg-rec="0",KHL Prime HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19396/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="1038" tvg-logo="http://epg.one/img2/1038.png" tvg-rec="3",KHL Prime FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2403/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="1038" tvg-logo="http://epg.one/img2/1038.png" tvg-rec="0",KHL Prime HD 50
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10028/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2782" tvg-logo="http://epg.one/img2/2782.png" tvg-rec="0",Футбол HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19244/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2782" tvg-logo="http://epg.one/img2/2782.png" tvg-rec="3",Футбол
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5050/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2782" tvg-logo="http://epg.one/img2/2782.png" tvg-rec="3",Футбол orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9251/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9002" tvg-logo="http://epg.one/img2/9002.png" tvg-rec="3",Советская киноклассика HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2146/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="88014" tvg-logo="http://epg.one/img2/88014.png" tvg-rec="3",TRT Spor Yildiz HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2145/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4572" tvg-logo="http://epg.one/img2/4572.png" tvg-rec="3",Sky Sports+ HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9248/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2362" tvg-logo="http://epg.one/img2/2362.png" tvg-rec="3",Fast & Fun Box HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/1018/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2629" tvg-logo="http://epg.one/img2/2629.png" tvg-rec="3",Fuel TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2396/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2530" tvg-logo="http://epg.one/img2/2530.png" tvg-rec="3",Старт HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6384/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2530" tvg-logo="http://epg.one/img2/2530.png" tvg-rec="3",Старт HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9083/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2530" tvg-logo="http://epg.one/img2/2530.png" tvg-rec="3",Старт FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2154/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4629" tvg-logo="http://epg.one/img2/4629.png" tvg-rec="0",Мир Баскетбола
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10033/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="3117" tvg-logo="http://epg.one/img2/3117.png" tvg-rec="3",Super Tennis FHD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6079/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5891" tvg-logo="http://epg.one/img2/5891.png" tvg-rec="0",Q Sport.KG HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15238/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7509" tvg-logo="http://epg.one/img2/7509.png" tvg-rec="0",QazSport HD KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14032/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="11720" tvg-logo="http://epg.one/img2/11720.png" tvg-rec="3",Легенда
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9055/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4679" tvg-logo="http://epg.one/img2/4679.png" tvg-rec="7",Мяч HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10058/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4678" tvg-logo="http://epg.one/img2/4678.png" tvg-rec="7",ТВ Спорт HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10057/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4605" tvg-logo="http://epg.one/img2/4605.png" tvg-rec="0",Хоккей ТВ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10039/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="113" tvg-logo="http://epg.one/img2/113.png" tvg-rec="0",ЖИВИ! HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19252/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="113" tvg-logo="http://epg.one/img2/113.png" tvg-rec="7",ЖИВИ!
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/738/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="113" tvg-logo="http://epg.one/img2/113.png" tvg-rec="3",ЖИВИ! orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/9164/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5881" tvg-logo="http://epg.one/img2/5881.png" tvg-rec="0",Живи Активно HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15143/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7507" tvg-logo="http://epg.one/img2/7507.png" tvg-rec="0",Trace Sport Stars HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14030/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4801" tvg-logo="http://epg.one/img2/4801.png" tvg-rec="0",SportsNet New York HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/11107/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4802" tvg-logo="http://epg.one/img2/4802.png" tvg-rec="0",Spectrum SportsNet HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/11108/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4803" tvg-logo="http://epg.one/img2/4803.png" tvg-rec="0",NESN HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/11109/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4796" tvg-logo="http://epg.one/img2/4796.png" tvg-rec="0",V Sport Football SE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/11110/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4797" tvg-logo="http://epg.one/img2/4797.png" tvg-rec="0",V Sport Vinter SE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/11111/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4734" tvg-logo="http://epg.one/img2/4734.png" tvg-rec="7",StrahTV WWE Russian
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/11056/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4580" tvg-logo="http://epg.one/img2/4580.png" tvg-rec="0",Триколор Спорт 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/7360/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4581" tvg-logo="http://epg.one/img2/4581.png" tvg-rec="0",Триколор Спорт 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/7361/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4582" tvg-logo="http://epg.one/img2/4582.png" tvg-rec="0",Триколор Спорт 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/7362/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4583" tvg-logo="http://epg.one/img2/4583.png" tvg-rec="0",Триколор Спорт 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/7363/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4584" tvg-logo="http://epg.one/img2/4584.png" tvg-rec="0",Триколор Спорт 5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/7364/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5901" tvg-logo="http://epg.one/img2/5901.png" tvg-rec="0",Триколор Спорт 10
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15149/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5902" tvg-logo="http://epg.one/img2/5902.png" tvg-rec="0",Триколор Спорт 11
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15150/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5903" tvg-logo="http://epg.one/img2/5903.png" tvg-rec="0",Триколор Спорт 12
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15151/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5904" tvg-logo="http://epg.one/img2/5904.png" tvg-rec="0",Триколор Спорт 13
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15152/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5905" tvg-logo="http://epg.one/img2/5905.png" tvg-rec="0",Триколор Спорт 14
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15153/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5906" tvg-logo="http://epg.one/img2/5906.png" tvg-rec="0",Триколор Спорт 15
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15154/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5907" tvg-logo="http://epg.one/img2/5907.png" tvg-rec="0",Триколор Спорт 16
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15155/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5908" tvg-logo="http://epg.one/img2/5908.png" tvg-rec="0",Триколор Спорт 17
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15156/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5909" tvg-logo="http://epg.one/img2/5909.png" tvg-rec="0",Триколор Спорт 18
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15157/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5910" tvg-logo="http://epg.one/img2/5910.png" tvg-rec="0",Триколор Спорт 19
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15158/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5911" tvg-logo="http://epg.one/img2/5911.png" tvg-rec="0",Триколор Спорт 20
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15159/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5912" tvg-logo="http://epg.one/img2/5912.png" tvg-rec="0",Триколор Спорт 21
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15160/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5913" tvg-logo="http://epg.one/img2/5913.png" tvg-rec="0",Триколор Спорт 22
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15161/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5914" tvg-logo="http://epg.one/img2/5914.png" tvg-rec="0",Триколор Спорт 23
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15162/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="5915" tvg-logo="http://epg.one/img2/5915.png" tvg-rec="0",Триколор Спорт 24
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15163/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6039" tvg-logo="http://epg.one/img2/6039.png" tvg-rec="0",Red Bull TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/16039/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6039" tvg-logo="http://epg.one/img2/6039.png" tvg-rec="0",Red Bull TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/16040/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4656" tvg-logo="http://epg.one/img2/4656.png" tvg-rec="0",Sky Sport F1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19022/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="11456" tvg-logo="http://epg.one/img2/11456.png" tvg-rec="0",Sportdigital Fussball HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19023/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="4656" tvg-logo="http://epg.one/img2/4656.png" tvg-rec="0",Sky Sport F1 DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19027/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2878" tvg-logo="http://epg.one/img2/2878.png" tvg-rec="0",Sky Sport 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19028/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6489" tvg-logo="http://epg.one/img2/6489.png" tvg-rec="0",Sky Sport 3 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19030/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6490" tvg-logo="http://epg.one/img2/6490.png" tvg-rec="0",Sky Sport 4 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19031/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6491" tvg-logo="http://epg.one/img2/6491.png" tvg-rec="0",Sky Sport 5 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19032/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6492" tvg-logo="http://epg.one/img2/6492.png" tvg-rec="0",Sky Sport 6 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19033/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6493" tvg-logo="http://epg.one/img2/6493.png" tvg-rec="0",Sky Sport 7 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19034/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6494" tvg-logo="http://epg.one/img2/6494.png" tvg-rec="0",Sky Sport 8 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19035/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6495" tvg-logo="http://epg.one/img2/6495.png" tvg-rec="0",Sky Sport 9 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19036/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6496" tvg-logo="http://epg.one/img2/6496.png" tvg-rec="0",Sky Sport 10 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19037/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2878" tvg-logo="http://epg.one/img2/2878.png" tvg-rec="0",Sky Sport UHD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19044/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6507" tvg-logo="http://epg.one/img2/6507.png" tvg-rec="0",TNT Sports 4 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19054/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6513" tvg-logo="http://epg.one/img2/6513.png" tvg-rec="0",ESPN HD BR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19056/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6509" tvg-logo="http://epg.one/img2/6509.png" tvg-rec="0",ESPN 2 HD BR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19061/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6510" tvg-logo="http://epg.one/img2/6510.png" tvg-rec="0",ESPN 6 HD BR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19057/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6513" tvg-logo="http://epg.one/img2/6513.png" tvg-rec="0",ESPN BR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19060/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19062/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports Haber HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19064/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19067/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19068/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2587" tvg-logo="http://epg.one/img2/2587.png" tvg-rec="0",A Spor HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19069/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19072/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6526" tvg-logo="http://epg.one/img2/6526.png" tvg-rec="0",Spor Smart 2 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19073/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6527" tvg-logo="http://epg.one/img2/6527.png" tvg-rec="0",Tivibu Spor 1 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19074/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6529" tvg-logo="http://epg.one/img2/6529.png" tvg-rec="0",Tivibu Spor 3 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19076/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-rec="0",Sky Sport Football IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19104/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6555" tvg-logo="http://epg.one/img2/6555.png" tvg-rec="0",Sky Sport 24 FHD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19107/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6536" tvg-logo="http://epg.one/img2/6536.png" tvg-rec="0",Sportitalia Plus HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19108/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="3117" tvg-logo="http://epg.one/img2/3117.png" tvg-rec="0",Super Tennis HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19111/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6557" tvg-logo="http://epg.one/img2/6557.png" tvg-rec="0",Sky Sport Calcio HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19113/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6544" tvg-logo="http://epg.one/img2/6544.png" tvg-rec="0",Eurosport 2 HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19116/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6555" tvg-logo="http://epg.one/img2/6555.png" tvg-rec="0",Sky Sport 24 HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19127/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6556" tvg-logo="http://epg.one/img2/6556.png" tvg-rec="0",Sky Sport Arena HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19128/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6560" tvg-logo="http://epg.one/img2/6560.png" tvg-rec="0",Sky Sport Golf HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19132/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6561" tvg-logo="http://epg.one/img2/6561.png" tvg-rec="0",Sky Sport MotoGP HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19133/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="3118" tvg-logo="http://epg.one/img2/3118.png" tvg-rec="0",Tennis Channel US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19136/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6566" tvg-logo="http://epg.one/img2/6566.png" tvg-rec="0",Fox Sports HD AR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19138/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6567" tvg-logo="http://epg.one/img2/6567.png" tvg-rec="0",Fox Sports HD MX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19139/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6571" tvg-logo="http://epg.one/img2/6571.png" tvg-rec="0",Fox Sports 506 HD AU
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19143/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="88010" tvg-logo="http://epg.one/img2/88010.png" tvg-rec="0",Fox Sports Racing US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19144/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6574" tvg-logo="http://epg.one/img2/6574.png" tvg-rec="0",Fox Sports 501 Cricket HD AU
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19146/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6578" tvg-logo="http://epg.one/img2/6578.png" tvg-rec="0",FanDuel Sports North US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19152/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6579" tvg-logo="http://epg.one/img2/6579.png" tvg-rec="0",FanDuel Sports Midwest US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19153/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6580" tvg-logo="http://epg.one/img2/6580.png" tvg-rec="0",ESPNews US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19154/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6581" tvg-logo="http://epg.one/img2/6581.png" tvg-rec="0",ESPN 2 HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19155/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6582" tvg-logo="http://epg.one/img2/6582.png" tvg-rec="0",ESPN HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19156/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="2915" tvg-logo="http://epg.one/img2/2915.png" tvg-rec="0",DAZN 1 FHD PT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19158/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6586" tvg-logo="http://epg.one/img2/6586.png" tvg-rec="0",V Sport Ultra HD SE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19163/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6534" tvg-logo="http://epg.one/img2/6534.png" tvg-rec="0",Rai Sport HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19106/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6533" tvg-logo="http://epg.one/img2/6533.png" tvg-rec="0",Sky Sport F1 HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19105/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6584" tvg-logo="http://epg.one/img2/6584.png" tvg-rec="0",Benfica TV FHD PT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19160/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6687" tvg-logo="http://epg.one/img2/6687.png" tvg-rec="0",ESPN 3 HD NL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19203/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6685" tvg-logo="http://epg.one/img2/6685.png" tvg-rec="0",ESPN 1 HD NL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19201/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6686" tvg-logo="http://epg.one/img2/6686.png" tvg-rec="0",ESPN 2 HD NL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19202/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6688" tvg-logo="http://epg.one/img2/6688.png" tvg-rec="0",ESPN 4 HD NL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19204/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6850" tvg-logo="http://epg.one/img2/6850.png" tvg-rec="0",BOX Be On Edge Live 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19422/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6851" tvg-logo="http://epg.one/img2/6851.png" tvg-rec="0",BOX Be On Edge Live 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19423/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6852" tvg-logo="http://epg.one/img2/6852.png" tvg-rec="0",BOX Be On Edge HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19424/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="3058" tvg-logo="http://epg.one/img2/3058.png" tvg-rec="3",Canal+ Sport 2 HD PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6099/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7233" tvg-logo="http://epg.one/img2/7233.png" tvg-rec="0",Spor Smart HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20060/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="9378" tvg-logo="http://epg.one/img2/9378.png" tvg-rec="0",Eurosport 1 HD PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20058/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7235" tvg-logo="http://epg.one/img2/7235.png" tvg-rec="0",Q Arena HD KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20061/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7236" tvg-logo="http://epg.one/img2/7236.png" tvg-rec="0",Q League HD KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20062/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7238" tvg-logo="http://epg.one/img2/7238.png" tvg-rec="0",Setanta Sports 1 FHD KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20065/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7255" tvg-logo="http://epg.one/img2/7255.png" tvg-rec="0",Eleven Sports 1 4K PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20068/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="3",ViP Sport 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20099/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="3",ViP Sport 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20103/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="3",ViP Sport 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20104/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7542" tvg-logo="http://epg.one/img2/7542.png" tvg-rec="3",ViP Sport 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20105/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="3",ViP Sport 5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20106/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7544" tvg-logo="http://epg.one/img2/7544.png" tvg-rec="3",ViP Sport 6
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20107/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7545" tvg-logo="http://epg.one/img2/7545.png" tvg-rec="3",ViP Sport 7
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20108/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7546" tvg-logo="http://epg.one/img2/7546.png" tvg-rec="0",ViP Sport 8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20109/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7547" tvg-logo="http://epg.one/img2/7547.png" tvg-rec="0",ViP Sport 9
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20110/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7548" tvg-logo="http://epg.one/img2/7548.png" tvg-rec="3",ViP Sport 10
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20100/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7549" tvg-logo="http://epg.one/img2/7549.png" tvg-rec="3",ViP Sport 11
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20101/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7550" tvg-logo="http://epg.one/img2/7550.png" tvg-rec="3",ViP Sport 12
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20102/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7534" tvg-logo="http://epg.one/img2/7534.png" tvg-rec="0",Pimple TV 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20094/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7535" tvg-logo="http://epg.one/img2/7535.png" tvg-rec="0",Pimple TV 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20095/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7536" tvg-logo="http://epg.one/img2/7536.png" tvg-rec="0",Pimple TV 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20096/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7537" tvg-logo="http://epg.one/img2/7537.png" tvg-rec="0",Pimple TV 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20097/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7538" tvg-logo="http://epg.one/img2/7538.png" tvg-rec="3",Pimple TV 5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20098/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7531" tvg-logo="http://epg.one/img2/7531.png" tvg-rec="3",Fint Ga 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20091/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7532" tvg-logo="http://epg.one/img2/7532.png" tvg-rec="0",Fint Ga 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20092/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7533" tvg-logo="http://epg.one/img2/7533.png" tvg-rec="0",Fint Ga 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20093/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7667" tvg-logo="http://epg.one/img2/7667.png" tvg-rec="0",Большой Эфир HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14012/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="88012" tvg-logo="http://epg.one/img2/88012.png" tvg-rec="0",Vital Sport Drive
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20160/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6816" tvg-logo="http://epg.one/img2/6816.png" tvg-rec="0",Silk Sport 3 FHD GE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20146/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6795" tvg-logo="http://epg.one/img2/6795.png" tvg-rec="0",Silk Sport 1 FHD GE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20144/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6815" tvg-logo="http://epg.one/img2/6815.png" tvg-rec="0",Silk Sport 2 FHD GE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20145/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7890" tvg-logo="http://epg.one/img2/7890.png" tvg-rec="0",BOX SportCast Live 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20166/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7891" tvg-logo="http://epg.one/img2/7891.png" tvg-rec="0",BOX SportCast Live 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20167/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7892" tvg-logo="http://epg.one/img2/7892.png" tvg-rec="0",BOX SportCast Live 3 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20168/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7893" tvg-logo="http://epg.one/img2/7893.png" tvg-rec="0",BOX SportCast Live 4 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20169/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="7894" tvg-logo="http://epg.one/img2/7894.png" tvg-rec="0",BOX SportCast Live 5 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20170/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="3560" tvg-logo="http://epg.one/img2/3560.png" tvg-rec="3",TNT Sports 3 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6564/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="6314" tvg-logo="http://epg.one/img2/6314.png" tvg-rec="0",Go3 Sport Open HD LV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/18025/index.m3u8
 
 #EXTINF:-1 group-title="Клипы и концерты" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png",Abba - If It Wasn t For The Nights
 http://dsx.obmenvsemfiles.net/fo/get/5705124_137951081/137951081_ABBA___If_It_Wasn_t_For_The_Nights_Japan_1978-nashobmen.org.mp4
