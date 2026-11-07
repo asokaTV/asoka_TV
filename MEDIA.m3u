@@ -2706,40 +2706,64 @@ https://river-ntv-comc-d403.rtbcdn.ru/hls-vod/pDSYeoXHZCdD0rAHbhQO7A/1794083886/
 
 #EXTINF:-1 group-title="Фильмы", Кино и сериалы без перерывов 24/7
 https://kizug.xyz/s/N2Bbp0vzwyRW/e1883f98b2ae/341980.m3u8
-#EXTINF:-1 group-title="Фильмы", НАШЕ АНИМЕ
-https://kizug.xyz/s/N2Bbp0vzwyRW/5c026b0f2537/341981.m3u8
-#EXTINF:-1 group-title="Фильмы", ВСЕЛЕННАЯ РИКА И МОРТИ
-https://kizug.xyz/s/N2Bbp0vzwyRW/0a6e6a33a541/341982.m3u8
-#EXTINF:-1 group-title="Фильмы", ТВОЙ КИНОТЕАТР
-https://kizug.xyz/s/N2Bbp0vzwyRW/30b9e2bdff25/341983.m3u8
-#EXTINF:-1 group-title="Фильмы", Sony Cine
-https://kizug.xyz/s/N2Bbp0vzwyRW/27e8717afcb8/341984.m3u8
-#EXTINF:-1 group-title="Фильмы", ВСЕЛЕННАЯ MARVEL
-https://kizug.xyz/s/N2Bbp0vzwyRW/01b8116b332b/341985.m3u8
-#EXTINF:-1 group-title="Фильмы", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
-https://kizug.xyz/s/N2Bbp0vzwyRW/b24d9bb06a3e/341986.m3u8
-#EXTINF:-1 group-title="Фильмы", ВСЕЛЕННАЯ ЗВЕЗДЕНЫХ ВОЙН
-https://kizug.xyz/s/N2Bbp0vzwyRW/0974160b68b5/341987.m3u8
-#EXTINF:-1 group-title="Фильмы", EPIC MEDIA
-https://kizug.xyz/s/N2Bbp0vzwyRW/e603095c60a7/341988.m3u8
-#EXTINF:-1 group-title="Фильмы", EPIC MEDIA Love
-https://kizug.xyz/s/N2Bbp0vzwyRW/25176bcb81ab/341989.m3u8
-#EXTINF:-1 group-title="Фильмы", APPLE TV+ ACTION TIME
-https://kizug.xyz/s/N2Bbp0vzwyRW/e72018f5fb51/341990.m3u8
-#EXTINF:-1 group-title="Фильмы", APPLE TV+ WOMAN'S STORIES
-https://kizug.xyz/s/N2Bbp0vzwyRW/f402fda48606/341991.m3u8
-#EXTINF:-1 group-title="Фильмы", AMAZON PRIME VIDEO MEN'S CLUB
-https://kizug.xyz/s/N2Bbp0vzwyRW/915203445997/341992.m3u8
-#EXTINF:-1 group-title="Фильмы", AMAZON PRIME VIDEO
-https://kizug.xyz/s/N2Bbp0vzwyRW/d61505df2051/341993.m3u8
-#EXTINF:-1 group-title="Фильмы", Кинолаффка
-https://kizug.xyz/s/N2Bbp0vzwyRW/1167a27db3c4/341994.m3u8
-#EXTINF:-1 group-title="Фильмы", КИНО и ЖИЗНЬ
-https://kizug.xyz/s/N2Bbp0vzwyRW/4f9010807762/341995.m3u8
-#EXTINF:-1 group-title="Фильмы", Киножелезо
-https://kizug.xyz/s/N2Bbp0vzwyRW/de082f58ff24/341996.m3u8
-#EXTINF:-1 group-title="Фильмы", ДЕТЕКТИВЫ
-https://kizug.xyz/s/N2Bbp0vzwyRW/b7d351a8fd38/341997.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_mult" tvg-logo="https://www.dropbox.com/scl/fi/d1f5m7m51pq2enwczsike/NASHE_ANIME_KIZUG.jpg?rlkey=13iw2rkfw34u9or1noyme7p2k&st=yaap3jqz&dl=1", НАШЕ АНИМЕ
+https://kizug.xyz/s/N2Bbp0vzwyRW/822af8fa7aaf/443084.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_mult" tvg-logo="https://www.dropbox.com/scl/fi/zssz164ukn8bveov2nivq/wasabi_kizug.png?rlkey=znu6rt4ce4f1gocvandav7id2&st=z6iguj86&dl=1", Wasabi НЕ НАШЕ АНИМЕ
+https://kizug.xyz/s/N2Bbp0vzwyRW/5936064c96b2/443085.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_mult" tvg-logo="https://www.dropbox.com/scl/fi/lke2x9ey0abof5z4fadjl/vkluchayka_kizug.png?rlkey=jkk2m01y7p0x2nu1mbshuu3zr&st=hua62ui1&dl=1", Включай-ка!
+https://kizug.xyz/s/N2Bbp0vzwyRW/2e91424e4be1/443086.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_mult" tvg-logo="https://www.dropbox.com/scl/fi/y4u2x9jk8d0pmj1cl2l2c/multimation_kizug.png?rlkey=3l56xstxxquuwet9beul825h2&st=bktuuggr&dl=1", МУЛЬТИМЕЙШН
+https://kizug.xyz/s/N2Bbp0vzwyRW/25b2b30ecfd8/443087.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_mult" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/18/Animaniacs_logo.png", Мультфильмы
+https://kizug.xyz/s/N2Bbp0vzwyRW/234b7b6b58c4/443088.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/DC_Comics_2024.svg/250px-DC_Comics_2024.svg.png", ВСЕЛЕННАЯ DC
+https://kizug.xyz/s/N2Bbp0vzwyRW/a709cc1cc13f/443089.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5d/Marvel_Films.png/revision/latest/scale-to-width-down/1200?cb=20180712111303&path-prefix=ru", ВСЕЛЕННАЯ MARVEL
+https://kizug.xyz/s/N2Bbp0vzwyRW/b99917984db0/443090.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://cdn.insales-shop.ru/images/collections/1/4138/88789034/HarryPotter-0bc2dd7d.png", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
+https://kizug.xyz/s/N2Bbp0vzwyRW/72db4b6ab521/443091.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://free-png.ru/wp-content/uploads/2022/01/free-png.ru-414.png", ВСЕЛЕННАЯ ЗВЕЗДЕНЫХ ВОЙН
+https://kizug.xyz/s/N2Bbp0vzwyRW/0ed47abaa668/443092.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://resizer.mail.ru/p/00e1f877-81a5-56e5-826e-bd1c062572c7/AQACsOKNs8iXcZZ-sF6f8jMLywvhxTKxmYjHpkoidHYjDpNqUckdH5_EWeJIr8c6yemxyh7tsC_HQAptx2Jj6wCW_FU.png", ВСЕЛЕННАЯ РИКА И МОРТИ
+https://kizug.xyz/s/N2Bbp0vzwyRW/9cfa1642df5c/443093.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://dic.academic.ru/pictures/wiki/files/85/Unico_Anello.png", ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
+https://kizug.xyz/s/N2Bbp0vzwyRW/4798e17602bd/443094.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://prochitano.ru/storage/images/content/fantastika.png", ФАНТАСТИЧЕСКИЕ ФИЛЬМЫ
+https://kizug.xyz/s/N2Bbp0vzwyRW/9fd23b68976c/443095.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://cdn-icons-png.flaticon.com/512/9433/9433176.png", ДРАМАТИЧЕСКИЕ ФИЛЬМЫ
+https://kizug.xyz/s/N2Bbp0vzwyRW/09d272d26b2d/443096.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/04/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A2%D0%92_2_%28%D0%BC%D0%B8%D0%BD%D0%B8%29.png/revision/latest/scale-to-width-down/250?cb=20210611180027&path-prefix=ru", КОМЕДИЙНЫЕ ФИЛЬМЫ
+https://kizug.xyz/s/N2Bbp0vzwyRW/d6ae839de4be/443097.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/474x/39/12/ab/3912abaa5ec4ee369069afa700dbc55c.jpg", ЭКШН ФИЛЬМЫ
+https://kizug.xyz/s/N2Bbp0vzwyRW/eafe91e143f2/443098.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://cdn-lb.sibset.ru/cms/public/archive/b2c_catalog/microTV/cinema-v4.png", Кино и сериалы
+https://kizug.xyz/s/N2Bbp0vzwyRW/79d899b38691/443099.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/001b50cd-b269-4c94-9dfb-6857f0952860.png", Дорамы
+https://kizug.xyz/s/N2Bbp0vzwyRW/cbf18cbc768d/443100.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://static.rustore.ru/2026/7/9/22/apk/2063731128/content/ICON/e515644a-9309-418f-8bbb-8020418b88ce.png", Турецкие фильмы и сериалы
+https://kizug.xyz/s/N2Bbp0vzwyRW/770c162b1b92/443101.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://thumbs.dreamstime.com/b/bollywood-indian-cinema-movie-banner-logotype-film-poster-retro-stylewith-neon-lights-lettering-vector-illustration-eps-144899654.jpg", Индийские фильмы и сериалы
+https://kizug.xyz/s/N2Bbp0vzwyRW/3961fd087fa3/443102.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://www.kino-teatr.ru/movie/posters/big/3/0/162503.jpg", Латиноамериканские фильмы и сериалы
+https://kizug.xyz/s/N2Bbp0vzwyRW/3787e130022b/443103.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://thumbs.dreamstime.com/b/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%B8%D0%BD%D0%BE-133914451.jpg", ТВОЙ КИНОТЕАТР
+https://kizug.xyz/s/N2Bbp0vzwyRW/a6bead457a65/443104.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChz0cRlujuE8XYHRkd4aRYYsGPa9MToTZqKtX3bsFiTBhylkCVUGMPSoU&s=10", Sony Cine
+https://kizug.xyz/s/N2Bbp0vzwyRW/0d6351d398c4/443105.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://ritsatv.ru/files/poster/medium/901699.webp", EPIC MEDIA
+https://kizug.xyz/s/N2Bbp0vzwyRW/bf406232b6f5/443106.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_NgD6m67zElE7-ZMvcp0uh19oOWq1eKihvyS_f4_9mw&s=10", EPIC MEDIA Love
+https://kizug.xyz/s/N2Bbp0vzwyRW/5b98995c4a13/443107.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNmyof3xV42BZvMB2Mao77SVao4AJixiobvzFwm8hfA&s", APPLE TV+ ACTION TIME
+https://kizug.xyz/s/N2Bbp0vzwyRW/939caad57fad/443108.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://taplink.st/a/7/0/0/3/d3373a.png", AMAZON PRIME VIDEO MEN'S CLUB
+https://kizug.xyz/s/N2Bbp0vzwyRW/f9b5e519c198/443109.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-14/87/c6/87c6d211fd30f5019ebf2bc074b5f7e5.jpg", Кинолаффка
+https://kizug.xyz/s/N2Bbp0vzwyRW/6ad65bf91e81/443110.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-25/75/f6/75f62fef88b9efbdbc55810553515d53.jpg", Киножелезо
+https://kizug.xyz/s/N2Bbp0vzwyRW/f113e4033929/443111.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="no_epg_cinema" tvg-logo="https://static.rustore.ru/2026/8/8/71/apk/2063743859/content/ICON/b2af8beb-866a-4b95-bf67-e7378d93a52f.png", ДЕТЕКТИВЫ
+https://kizug.xyz/s/N2Bbp0vzwyRW/6c2a5391f88f/443112.m3u8
 #EXTINF:-1 group-title="Фильмы",101 далматинец (1996)
 https://s2.mvzd.ru/content/10/1t/101_-_Trim_1080p.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://1rus.ru/content/d6/5a/25_720x406.webp",25-й час (2002)
