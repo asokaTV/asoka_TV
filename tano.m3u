@@ -389,8 +389,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/106/962.mp4
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/079/038.mp4
 
 
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png",Смотрим 100% Факты
-https://kizug.xyz/s/N2Bbp0vzwyRW/45a5924ba218/294938.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://katinklev.ru/wp-content/uploads/2025/07/klev_logo-1.png" tvg-id="no_epg", Астраханский Клёв!
 https://kizug.xyz/s/N2Bbp0vzwyRW/ca5ba38894a2/456368.m3u8
@@ -673,10 +671,6 @@ https://kizug.xyz/s/N2Bbp0vzwyRW/145ef8b88df7/296397.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv", Ocean TV
 https://kizug.xyz/s/N2Bbp0vzwyRW/d0faf46f74ff/456403.m3u8
-
-#EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="Познавательные", Первый вегетарианский
-
-
 #EXTINF:-1 group-title="Познавательные", Оружие
 https://kizug.xyz/s/N2Bbp0vzwyRW/1b0509c6c8ea/456404.m3u8
 
@@ -838,12 +832,6 @@ https://kizug.xyz/s/N2Bbp0vzwyRW/0067362f6478/159252.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Joy cook
 https://kizug.xyz/s/N2Bbp0vzwyRW/33b2f89de695/298090.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIadMIkuVUBMTs-QOPX3jCKqWymAX9Aa__aENlce8Fh3X5CnDo6JYONs&s=10", Обучалка 1
-https://kizug.xyz/s/N2Bbp0vzwyRW/c3def5228caf/159246.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.dropbox.com/scl/fi/eg7pb0yhhnnytbg6jvdnv/MusScool_KizugTV.png?rlkey=unrmp6wc109r2a3rhsi8xakvq&st=61nx3djx&dl=1", Обучалка 2
-https://kizug.xyz/s/N2Bbp0vzwyRW/f325adb7cce1/430812.m3u8
-
 
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg",НТВ Следствие вели
